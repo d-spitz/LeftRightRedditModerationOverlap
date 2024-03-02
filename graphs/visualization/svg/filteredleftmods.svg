@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="332.82114"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-140.755096 -138.000000 332.821136 258.000000" height="258.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Liberal id_democrats"
+              d="M -108.595467,41.759598 A 36.161939,36.161939 0,0 1,-104.701218,64.868805"
+              stroke="#4ec1f2" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_LeopardsAteMyFace id_antiwork"
+              d="M -24.787334,-104.439125 A 106.145206,106.145206 0,0 1,-81.772453,-38.549667"
+              stroke="#4ec1f2" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_SandersForPresident id_AOC"
+              d="M 95.167046,-57.534550 A 55.970272,55.970272 0,0 1,53.306171,-79.185783"
+              stroke="#4ec1f2" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Political_Revolution id_WorkersStrikeBack"
+              d="M 74.567749,99.634277 A 73.790337,73.790337 0,0 1,125.091080,49.716526"
+              stroke="#4ec1f2" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.296382" cx="-114.6065"
+                class="id_Liberal" cy="33.637177" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.616762"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="15.388543" cx="-21.278458"
+                class="id_LeopardsAteMyFace" cy="-120.79362" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="2.6762683"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="11.967287" cx="108.13965"
+                class="id_SandersForPresident" cy="-58.49241" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="2.081267"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="11.47615" cx="-108.81857"
+                class="id_democrats" cy="76.643776" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.995852"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.6722" cx="72.29352"
+                class="id_Political_Revolution" cy="109.89861" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.6821218"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="27.6" cx="-110.49294"
+                class="id_antiwork" cy="-29.881716" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.509511" cx="47.75937"
+                class="id_AOC" cy="-87.90786" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.6538279"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.512432" cx="135.2096"
+                class="id_WorkersStrikeBack" cy="47.589806" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.6543359"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="-114.6065" y="35.959442" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Liberal">
+            Liberal
+        </text>
+        <text font-size="12" x="-21.278458" y="-117.8903" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LeopardsAteMyFace">
+            LeopardsAteMyFace
+        </text>
+        <text font-size="12" x="108.13965" y="-56.170143" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_SandersForPresident">
+            SandersForPresident
+        </text>
+        <text font-size="12" x="-108.81857" y="78.96604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_democrats">
+            democrats
+        </text>
+        <text font-size="12" x="72.29352" y="112.88592" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Political_Revolution">
+            Political_Revolution
+        </text>
+        <text font-size="12" x="-110.49294" y="-27.55945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_antiwork">
+            antiwork
+        </text>
+        <text font-size="12" x="47.75937" y="-85.63833" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_AOC">
+            AOC
+        </text>
+        <text font-size="12" x="135.2096" y="49.91207" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_WorkersStrikeBack">
+            WorkersStrikeBack
+        </text>
+    </g>
+</svg>

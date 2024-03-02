@@ -1,0 +1,9 @@
+Id,Label,0,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Clustering Coefficient,componentnumber,pageranks,modularity_class,stat_inf_class,clustering,triangles
+Liberal,Liberal,116643,1,2,1,1,1,0,,0,0.125,0,0,0,0
+LeopardsAteMyFace,LeopardsAteMyFace,1009335,1,1,1,1,1,0,,1,0.125,1,1,0,0
+SandersForPresident,SandersForPresident,508014,1,4,1,1,1,0,,2,0.125,2,2,0,0
+democrats,democrats,436047,1,2,1,1,1,0,,0,0.125,0,0,0,0
+Political_Revolution,Political_Revolution,171712,1,1,1,1,1,0,,3,0.125,3,3,0,0
+antiwork,antiwork,2798695,1,1,1,1,1,0,,1,0.125,1,1,0,0
+AOC,AOC,147873,1,4,1,1,1,0,,2,0.125,2,2,0,0
+WorkersStrikeBack,WorkersStrikeBack,148301,1,1,1,1,1,0,,3,0.125,3,3,0,0

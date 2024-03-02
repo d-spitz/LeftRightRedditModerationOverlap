@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="566.78064"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-267.000000 -274.000000 566.780640 523.000000" height="523.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Liberal id_democrats"
+              d="M -232.198166,201.580246 A 34.758694,34.758694 0,0 1,-216.689377,216.735031"
+              stroke="#4ec1f2" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_LeopardsAteMyFace id_antiwork"
+              d="M -187.082703,-241.660126 A 63.027360,63.027360 0,0 1,-208.818649,-215.989227"
+              stroke="#4ec1f2" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_SandersForPresident id_AOC"
+              d="M 225.461105,-207.578827 A 32.258694,32.258694 0,0 1,213.752426,-220.991180"
+              stroke="#4ec1f2" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Political_Revolution id_WorkersStrikeBack"
+              d="M 204.943069,228.806412 A 31.440123,31.440123 0,0 1,218.882950,215.600266"
+              stroke="#4ec1f2" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="-53.42838"
+                class="id_esist" cy="96.48057" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.296382" cx="-241.8189"
+                class="id_Liberal" cy="198.49031" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.616762"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="-73.15462"
+                class="id_CommunismMemes" cy="9.009905" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="15.388543" cx="-182.14954"
+                class="id_LeopardsAteMyFace" cy="-257.6428" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="2.6762683"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="179.62984"
+                class="id_WitchesVsPatriarchy" cy="-13.460294" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="11.967287" cx="237.5863"
+                class="id_SandersForPresident" cy="-202.86868" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="2.081267"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="11.47615" cx="-213.01122"
+                class="id_democrats" cy="228.6545" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.995852"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="-19.373905"
+                class="id_Feminism" cy="-162.23279" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="30.249765"
+                class="id_punk" cy="31.808622" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.6722" cx="201.49554"
+                class="id_Political_Revolution" cy="238.73834" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.6821218"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="-132.93005"
+                class="id_communism101" cy="51.739693" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="27.6" cx="-236.91876"
+                class="id_antiwork" cy="-205.48286" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="58.129635"
+                class="id_CapitalismVSocialism" cy="-130.23056" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="-1.680698"
+                class="id_Anarchism" cy="-66.68883" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="-84.16694"
+                class="id_BreadTube" cy="-88.369125" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="115.24542"
+                class="id_Anarchy101" cy="56.41469" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="-161.09619"
+                class="id_Socialism_101" cy="-27.2529" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="104.24737"
+                class="id_CriticalTheory" cy="-43.519817" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="-13.739822"
+                class="id_ParlerWatch" cy="171.25157" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.509511" cx="210.9238"
+                class="id_AOC" cy="-230.93304" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.6538279"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.2" cx="50.75674"
+                class="id_OurPresident" cy="117.86529" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4ec1f2" r="9.512432" cx="228.81168"
+                class="id_WorkersStrikeBack" cy="212.71446" stroke="#3687a9"
+                stroke-opacity="1.0" stroke-width="1.6543359"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="-53.42838" y="98.80283" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_esist">
+            esist
+        </text>
+        <text font-size="12" x="-241.8189" y="200.81258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Liberal">
+            Liberal
+        </text>
+        <text font-size="12" x="-73.15462" y="11.3321705" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_CommunismMemes">
+            CommunismMemes
+        </text>
+        <text font-size="12" x="-182.14954" y="-254.73947" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LeopardsAteMyFace">
+            LeopardsAteMyFace
+        </text>
+        <text font-size="12" x="179.62984" y="-10.556973" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_WitchesVsPatriarchy">
+            WitchesVsPatriarchy
+        </text>
+        <text font-size="12" x="237.5863" y="-200.54642" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_SandersForPresident">
+            SandersForPresident
+        </text>
+        <text font-size="12" x="-213.01122" y="230.97676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_democrats">
+            democrats
+        </text>
+        <text font-size="12" x="-19.373905" y="-159.91052" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Feminism">
+            Feminism
+        </text>
+        <text font-size="12" x="30.249765" y="34.711945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_punk">
+            punk
+        </text>
+        <text font-size="12" x="201.49554" y="241.72565" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Political_Revolution">
+            Political_Revolution
+        </text>
+        <text font-size="12" x="-132.93005" y="54.06196" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_communism101">
+            communism101
+        </text>
+        <text font-size="12" x="-236.91876" y="-203.1606" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_antiwork">
+            antiwork
+        </text>
+        <text font-size="12" x="58.129635" y="-127.32724" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_CapitalismVSocialism">
+            CapitalismVSocialism
+        </text>
+        <text font-size="12" x="-1.680698" y="-64.36656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Anarchism">
+            Anarchism
+        </text>
+        <text font-size="12" x="-84.16694" y="-86.04686" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_BreadTube">
+            BreadTube
+        </text>
+        <text font-size="12" x="115.24542" y="59.31801" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Anarchy101">
+            Anarchy101
+        </text>
+        <text font-size="12" x="-161.09619" y="-24.265594" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Socialism_101">
+            Socialism_101
+        </text>
+        <text font-size="12" x="104.24737" y="-40.616497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_CriticalTheory">
+            CriticalTheory
+        </text>
+        <text font-size="12" x="-13.739822" y="173.57384" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_ParlerWatch">
+            ParlerWatch
+        </text>
+        <text font-size="12" x="210.9238" y="-228.66351" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_AOC">
+            AOC
+        </text>
+        <text font-size="12" x="50.75674" y="120.18755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_OurPresident">
+            OurPresident
+        </text>
+        <text font-size="12" x="228.81168" y="215.03673" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_WorkersStrikeBack">
+            WorkersStrikeBack
+        </text>
+    </g>
+</svg>

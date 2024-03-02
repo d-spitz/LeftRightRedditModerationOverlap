@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-02-24">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="esist" label="esist">
+        <attvalues>
+          <attvalue for="0" value="120631" />
+        </attvalues>
+      </node>
+      <node id="Liberal" label="Liberal">
+        <attvalues>
+          <attvalue for="0" value="116643" />
+        </attvalues>
+      </node>
+      <node id="CommunismMemes" label="CommunismMemes">
+        <attvalues>
+          <attvalue for="0" value="127765" />
+        </attvalues>
+      </node>
+      <node id="LeopardsAteMyFace" label="LeopardsAteMyFace">
+        <attvalues>
+          <attvalue for="0" value="1009335" />
+        </attvalues>
+      </node>
+      <node id="WitchesVsPatriarchy" label="WitchesVsPatriarchy">
+        <attvalues>
+          <attvalue for="0" value="744774" />
+        </attvalues>
+      </node>
+      <node id="SandersForPresident" label="SandersForPresident">
+        <attvalues>
+          <attvalue for="0" value="508014" />
+        </attvalues>
+      </node>
+      <node id="democrats" label="democrats">
+        <attvalues>
+          <attvalue for="0" value="436047" />
+        </attvalues>
+      </node>
+      <node id="Feminism" label="Feminism">
+        <attvalues>
+          <attvalue for="0" value="283088" />
+        </attvalues>
+      </node>
+      <node id="punk" label="punk">
+        <attvalues>
+          <attvalue for="0" value="257330" />
+        </attvalues>
+      </node>
+      <node id="Political_Revolution" label="Political_Revolution">
+        <attvalues>
+          <attvalue for="0" value="171712" />
+        </attvalues>
+      </node>
+      <node id="communism101" label="communism101">
+        <attvalues>
+          <attvalue for="0" value="169939" />
+        </attvalues>
+      </node>
+      <node id="antiwork" label="antiwork">
+        <attvalues>
+          <attvalue for="0" value="2798695" />
+        </attvalues>
+      </node>
+      <node id="CapitalismVSocialism" label="CapitalismVSocialism">
+        <attvalues>
+          <attvalue for="0" value="102520" />
+        </attvalues>
+      </node>
+      <node id="Anarchism" label="Anarchism">
+        <attvalues>
+          <attvalue for="0" value="265469" />
+        </attvalues>
+      </node>
+      <node id="BreadTube" label="BreadTube">
+        <attvalues>
+          <attvalue for="0" value="165898" />
+        </attvalues>
+      </node>
+      <node id="Anarchy101" label="Anarchy101">
+        <attvalues>
+          <attvalue for="0" value="133485" />
+        </attvalues>
+      </node>
+      <node id="Socialism_101" label="Socialism_101">
+        <attvalues>
+          <attvalue for="0" value="152717" />
+        </attvalues>
+      </node>
+      <node id="CriticalTheory" label="CriticalTheory">
+        <attvalues>
+          <attvalue for="0" value="139744" />
+        </attvalues>
+      </node>
+      <node id="ParlerWatch" label="ParlerWatch">
+        <attvalues>
+          <attvalue for="0" value="166938" />
+        </attvalues>
+      </node>
+      <node id="AOC" label="AOC">
+        <attvalues>
+          <attvalue for="0" value="147873" />
+        </attvalues>
+      </node>
+      <node id="OurPresident" label="OurPresident">
+        <attvalues>
+          <attvalue for="0" value="140374" />
+        </attvalues>
+      </node>
+      <node id="WorkersStrikeBack" label="WorkersStrikeBack">
+        <attvalues>
+          <attvalue for="0" value="148301" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Liberal" target="democrats" id="0" weight="2" />
+      <edge source="LeopardsAteMyFace" target="antiwork" id="1" weight="1" />
+      <edge source="SandersForPresident" target="AOC" id="2" weight="4" />
+      <edge source="Political_Revolution" target="WorkersStrikeBack" id="3" weight="1" />
+    </edges>
+  </graph>
+</gexf>

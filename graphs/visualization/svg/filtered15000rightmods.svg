@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="477.2943"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-155.057236 -224.000000 477.294312 247.000000" height="247.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_TheDonaldTrump2024"
+              d="M 106.388702,-106.070442 A 63.540195,63.540195 0,0 1,154.003159,-137.263443"
+              stroke="#fa0014" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_libsofreddit"
+              d="M 112.770470,-99.404808 A 104.804906,104.804906 0,0 1,216.879791,-77.513870"
+              stroke="#fa0014" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_walkaway"
+              d="M 113.512810,-92.682877 A 95.111735,95.111735 0,0 1,182.307755,-29.341576"
+              stroke="#fa0014" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_Conservative"
+              d="M 90.069626,-89.128685 A 163.115622,163.115622 0,0 1,-69.503548,-102.863831"
+              stroke="#fa0014" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_Republican"
+              d="M 88.745552,-94.999161 A 132.508769,132.508769 0,0 1,-23.614332,-174.286896"
+              stroke="#fa0014" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_conservatives"
+              d="M 88.747780,-95.086937 A 98.366257,98.366257 0,0 1,8.809546,-151.161407"
+              stroke="#fa0014" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_tuesday id_Republican"
+              d="M -81.189697,-215.608536 A 57.175736,57.175736 0,0 1,-36.378334,-197.726700"
+              stroke="#fa0014" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_TheRedPill id_RedPillWomen"
+              d="M -11.361927,-13.158753 A 37.737537,37.737537 0,0 1,4.690136,1.162739"
+              stroke="#fa0014" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_libsofreddit id_HillaryForPrison"
+              d="M 235.277359,-70.624626 A 46.905818,46.905818 0,0 1,268.981232,-54.270054"
+              stroke="#fa0014" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_libsofreddit id_walkaway"
+              d="M 223.412735,-59.050404 A 54.434691,54.434691 0,0 1,196.522507,-22.244268"
+              stroke="#fa0014" stroke-width="14.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HillaryForPrison id_walkaway"
+              d="M 268.037048,-36.778839 A 78.282067,78.282067 0,0 1,197.031036,-14.341458"
+              stroke="#fa0014" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Conservative id_Republican"
+              d="M -82.750160,-150.316315 A 76.116495,76.116495 0,0 1,-41.461460,-183.753372"
+              stroke="#fa0014" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Conservative id_benshapiro"
+              d="M -105.937012,-95.104179 A 37.674950,37.674950 0,0 1,-111.298111,-91.323891"
+              stroke="#fa0014" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Conservative id_conservatives"
+              d="M -73.152931,-144.812866 A 87.530317,87.530317 0,0 1,-7.345716,-164.408951"
+              stroke="#fa0014" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Republican id_conservatives"
+              d="M -15.153726,-184.219147 A 34.159065,34.159065 0,0 1,-0.881742,-172.957153"
+              stroke="#fa0014" stroke-width="4.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#fa0014" r="11.471861" cx="101.21198"
+                class="id_AskThe_Donald" cy="-94.72637" stroke="#af000e"
+                stroke-opacity="1.0" stroke-width="1.9951061"/>
+        <circle fill-opacity="1.0" fill="#fa0014" r="9.434016" cx="164.25134"
+                class="id_TheDonaldTrump2024" cy="-137.61964" stroke="#af000e"
+                stroke-opacity="1.0" stroke-width="1.6406986"/>
+        <circle fill-opacity="1.0" fill="#fa0014" r="9.437509" cx="-91.33916"
+                class="id_tuesday" cy="-214.11911" stroke="#af000e"
+                stroke-opacity="1.0" stroke-width="1.6413058"/>
+        <circle fill-opacity="1.0" fill="#fa0014" r="14.106917" cx="-26.274553"
+                class="id_TheRedPill" cy="-16.727093" stroke="#af000e"
+                stroke-opacity="1.0" stroke-width="2.4533768"/>
+        <circle fill-opacity="1.0" fill="#fa0014" r="9.955221" cx="224.48659"
+                class="id_libsofreddit" cy="-69.81788" stroke="#af000e"
+                stroke-opacity="1.0" stroke-width="1.7313428"/>
+        <circle fill-opacity="1.0" fill="#fa0014" r="10.08387" cx="275.08963"
+                class="id_HillaryForPrison" cy="-45.16922" stroke="#af000e"
+                stroke-opacity="1.0" stroke-width="1.7537166"/>
+        <circle fill-opacity="1.0" fill="#fa0014" r="27.6" cx="-92.6193"
+                class="id_Conservative" cy="-121.98612" stroke="#af000e"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#fa0014" r="12.396508" cx="-28.35915"
+                class="id_Republican" cy="-186.89832" stroke="#af000e"
+                stroke-opacity="1.0" stroke-width="2.1559143"/>
+        <circle fill-opacity="1.0" fill="#fa0014" r="10.980991" cx="4.393303"
+                class="id_conservatives" cy="-162.25021" stroke="#af000e"
+                stroke-opacity="1.0" stroke-width="1.9097375"/>
+        <circle fill-opacity="1.0" fill="#fa0014" r="10.142742" cx="-121.53575"
+                class="id_benshapiro" cy="-87.233025" stroke="#af000e"
+                stroke-opacity="1.0" stroke-width="1.7639552"/>
+        <circle fill-opacity="1.0" fill="#fa0014" r="11.18849" cx="185.30174"
+                class="id_walkaway" cy="-17.554476" stroke="#af000e"
+                stroke-opacity="1.0" stroke-width="1.9458243"/>
+        <circle fill-opacity="1.0" fill="#fa0014" r="10.368628" cx="9.114216"
+                class="id_RedPillWomen" cy="11.528355" stroke="#af000e"
+                stroke-opacity="1.0" stroke-width="1.8032396"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="101.21198" y="-91.73907" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_AskThe_Donald">
+            AskThe_Donald
+        </text>
+        <text font-size="12" x="164.25134" y="-134.71632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_TheDonaldTrump2024">
+            TheDonaldTrump2024
+        </text>
+        <text font-size="12" x="-91.33916" y="-211.21579" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_tuesday">
+            tuesday
+        </text>
+        <text font-size="12" x="-26.274553" y="-14.404827" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_TheRedPill">
+            TheRedPill
+        </text>
+        <text font-size="12" x="224.48659" y="-67.49561" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_libsofreddit">
+            libsofreddit
+        </text>
+        <text font-size="12" x="275.08963" y="-42.2659" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_HillaryForPrison">
+            HillaryForPrison
+        </text>
+        <text font-size="12" x="-92.6193" y="-119.66386" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Conservative">
+            Conservative
+        </text>
+        <text font-size="12" x="-28.35915" y="-183.995" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Republican">
+            Republican
+        </text>
+        <text font-size="12" x="4.393303" y="-159.92795" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_conservatives">
+            conservatives
+        </text>
+        <text font-size="12" x="-121.53575" y="-84.329704" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_benshapiro">
+            benshapiro
+        </text>
+        <text font-size="12" x="185.30174" y="-14.651155" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_walkaway">
+            walkaway
+        </text>
+        <text font-size="12" x="9.114216" y="13.85062" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_RedPillWomen">
+            RedPillWomen
+        </text>
+    </g>
+</svg>

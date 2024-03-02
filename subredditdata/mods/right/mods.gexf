@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-02-23">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="AskThe_Donald" label="AskThe_Donald">
+        <attvalues>
+          <attvalue for="0" value="136074" />
+        </attvalues>
+      </node>
+      <node id="AskTrumpSupporters" label="AskTrumpSupporters">
+        <attvalues>
+          <attvalue for="0" value="88528" />
+        </attvalues>
+      </node>
+      <node id="TheDonaldTrump2024" label="TheDonaldTrump2024">
+        <attvalues>
+          <attvalue for="0" value="17034" />
+        </attvalues>
+      </node>
+      <node id="tuesday" label="tuesday">
+        <attvalues>
+          <attvalue for="0" value="17238" />
+        </attvalues>
+      </node>
+      <node id="unvaccinated" label="unvaccinated">
+        <attvalues>
+          <attvalue for="0" value="19212" />
+        </attvalues>
+      </node>
+      <node id="TheRedPill" label="TheRedPill">
+        <attvalues>
+          <attvalue for="0" value="290000" /> <!--due to quarantine reads 0, so changed to last known value of 290000-->
+        </attvalues>
+      </node>
+      <node id="TheTrumpZone" label="TheTrumpZone">
+        <attvalues>
+          <attvalue for="0" value="28312" />
+        </attvalues>
+      </node>
+      <node id="libsofreddit" label="libsofreddit">
+        <attvalues>
+          <attvalue for="0" value="47480" /> 
+        </attvalues>
+      </node>
+      <node id="HillaryForPrison" label="HillaryForPrison">
+        <attvalues>
+          <attvalue for="0" value="54995" />
+        </attvalues>
+      </node>
+      <node id="Conservative" label="Conservative">
+        <attvalues>
+          <attvalue for="0" value="1078194" />
+        </attvalues>
+      </node>
+      <node id="Capitalism" label="Capitalism">
+        <attvalues>
+          <attvalue for="0" value="54134" />
+        </attvalues>
+      </node>
+      <node id="Freethought" label="Freethought">
+        <attvalues>
+          <attvalue for="0" value="51277" />
+        </attvalues>
+      </node>
+      <node id="Republican" label="Republican">
+        <attvalues>
+          <attvalue for="0" value="190087" />
+        </attvalues>
+      </node>
+      <node id="conservatives" label="conservatives">
+        <attvalues>
+          <attvalue for="0" value="107400" />
+        </attvalues>
+      </node>
+      <node id="prolife" label="prolife">
+        <attvalues>
+          <attvalue for="0" value="45436" />
+        </attvalues>
+      </node>
+      <node id="MensRights" label="MensRights">
+        <attvalues>
+          <attvalue for="0" value="358781" />
+        </attvalues>
+      </node>
+      <node id="gunpolitics" label="gunpolitics">
+        <attvalues>
+          <attvalue for="0" value="127159" />
+        </attvalues>
+      </node>
+      <node id="benshapiro" label="benshapiro">
+        <attvalues>
+          <attvalue for="0" value="58434" />
+        </attvalues>
+      </node>
+      <node id="walkaway" label="walkaway">
+        <attvalues>
+          <attvalue for="0" value="119521" />
+        </attvalues>
+      </node>
+      <node id="ExDemFoyer" label="ExDemFoyer">
+        <attvalues>
+          <attvalue for="0" value="10758" />
+        </attvalues>
+      </node>
+      <node id="FauciForPrison" label="FauciForPrison">
+        <attvalues>
+          <attvalue for="0" value="11719" />
+        </attvalues>
+      </node>
+      <node id="RedpilledRogan" label="RedpilledRogan">
+        <attvalues>
+          <attvalue for="0" value="11389" />
+        </attvalues>
+      </node>
+      <node id="RedpilledElon" label="RedpilledElon">
+        <attvalues>
+          <attvalue for="0" value="3364" />
+        </attvalues>
+      </node>
+      <node id="EnoughAntifaSpam" label="EnoughAntifaSpam">
+        <attvalues>
+          <attvalue for="0" value="9097" />
+        </attvalues>
+      </node>
+      <node id="Patriot911" label="Patriot911">
+        <attvalues>
+          <attvalue for="0" value="10174" />
+        </attvalues>
+      </node>
+      <node id="Conservative_News" label="Conservative_News">
+        <attvalues>
+          <attvalue for="0" value="7332" />
+        </attvalues>
+      </node>
+      <node id="BigDongDeSantis" label="BigDongDeSantis">
+        <attvalues>
+          <attvalue for="0" value="4903" />
+        </attvalues>
+      </node>
+      <node id="RedPillWomen" label="RedPillWomen">
+        <attvalues>
+          <attvalue for="0" value="71629" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AskThe_Donald" target="TheDonaldTrump2024" id="0" weight="3" />
+      <edge source="AskThe_Donald" target="libsofreddit" id="1" weight="1" />
+      <edge source="AskThe_Donald" target="walkaway" id="2" weight="1" />
+      <edge source="AskThe_Donald" target="RedpilledRogan" id="3" weight="1" />
+      <edge source="AskThe_Donald" target="BigDongDeSantis" id="4" weight="1" />
+      <edge source="AskThe_Donald" target="Conservative" id="5" weight="1" />
+      <edge source="AskThe_Donald" target="Republican" id="6" weight="1" />
+      <edge source="AskThe_Donald" target="conservatives" id="7" weight="1" />
+      <edge source="tuesday" target="Republican" id="8" weight="1" />
+      <edge source="TheRedPill" target="RedPillWomen" id="9" weight="5" />
+      <edge source="libsofreddit" target="HillaryForPrison" id="10" weight="8" />
+      <edge source="libsofreddit" target="walkaway" id="11" weight="14" />
+      <edge source="libsofreddit" target="ExDemFoyer" id="12" weight="10" />
+      <edge source="libsofreddit" target="FauciForPrison" id="13" weight="8" />
+      <edge source="libsofreddit" target="RedpilledRogan" id="14" weight="11" />
+      <edge source="libsofreddit" target="RedpilledElon" id="15" weight="13" />
+      <edge source="libsofreddit" target="EnoughAntifaSpam" id="16" weight="8" />
+      <edge source="libsofreddit" target="Patriot911" id="17" weight="11" />
+      <edge source="libsofreddit" target="Conservative_News" id="18" weight="9" />
+      <edge source="libsofreddit" target="BigDongDeSantis" id="19" weight="13" />
+      <edge source="HillaryForPrison" target="walkaway" id="20" weight="8" />
+      <edge source="HillaryForPrison" target="ExDemFoyer" id="21" weight="7" />
+      <edge source="HillaryForPrison" target="FauciForPrison" id="22" weight="8" />
+      <edge source="HillaryForPrison" target="RedpilledRogan" id="23" weight="8" />
+      <edge source="HillaryForPrison" target="RedpilledElon" id="24" weight="8" />
+      <edge source="HillaryForPrison" target="EnoughAntifaSpam" id="25" weight="5" />
+      <edge source="HillaryForPrison" target="Patriot911" id="26" weight="7" />
+      <edge source="HillaryForPrison" target="Conservative_News" id="27" weight="7" />
+      <edge source="HillaryForPrison" target="BigDongDeSantis" id="28" weight="7" />
+      <edge source="Conservative" target="Republican" id="29" weight="8" />
+      <edge source="Conservative" target="benshapiro" id="30" weight="1" />
+      <edge source="Conservative" target="conservatives" id="31" weight="2" />
+      <edge source="Republican" target="conservatives" id="32" weight="4" />
+      <edge source="walkaway" target="ExDemFoyer" id="33" weight="10" />
+      <edge source="walkaway" target="FauciForPrison" id="34" weight="9" />
+      <edge source="walkaway" target="RedpilledRogan" id="35" weight="12" />
+      <edge source="walkaway" target="RedpilledElon" id="36" weight="13" />
+      <edge source="walkaway" target="EnoughAntifaSpam" id="37" weight="7" />
+      <edge source="walkaway" target="Patriot911" id="38" weight="9" />
+      <edge source="walkaway" target="Conservative_News" id="39" weight="8" />
+      <edge source="walkaway" target="BigDongDeSantis" id="40" weight="12" />
+      <edge source="ExDemFoyer" target="FauciForPrison" id="41" weight="8" />
+      <edge source="ExDemFoyer" target="RedpilledRogan" id="42" weight="9" />
+      <edge source="ExDemFoyer" target="RedpilledElon" id="43" weight="10" />
+      <edge source="ExDemFoyer" target="EnoughAntifaSpam" id="44" weight="6" />
+      <edge source="ExDemFoyer" target="Patriot911" id="45" weight="9" />
+      <edge source="ExDemFoyer" target="Conservative_News" id="46" weight="8" />
+      <edge source="ExDemFoyer" target="BigDongDeSantis" id="47" weight="9" />
+      <edge source="FauciForPrison" target="RedpilledRogan" id="48" weight="9" />
+      <edge source="FauciForPrison" target="RedpilledElon" id="49" weight="9" />
+      <edge source="FauciForPrison" target="EnoughAntifaSpam" id="50" weight="5" />
+      <edge source="FauciForPrison" target="Patriot911" id="51" weight="7" />
+      <edge source="FauciForPrison" target="Conservative_News" id="52" weight="7" />
+      <edge source="FauciForPrison" target="BigDongDeSantis" id="53" weight="8" />
+      <edge source="RedpilledRogan" target="RedpilledElon" id="54" weight="11" />
+      <edge source="RedpilledRogan" target="EnoughAntifaSpam" id="55" weight="6" />
+      <edge source="RedpilledRogan" target="Patriot911" id="56" weight="7" />
+      <edge source="RedpilledRogan" target="Conservative_News" id="57" weight="8" />
+      <edge source="RedpilledRogan" target="BigDongDeSantis" id="58" weight="10" />
+      <edge source="RedpilledElon" target="EnoughAntifaSpam" id="59" weight="6" />
+      <edge source="RedpilledElon" target="Patriot911" id="60" weight="8" />
+      <edge source="RedpilledElon" target="Conservative_News" id="61" weight="8" />
+      <edge source="RedpilledElon" target="BigDongDeSantis" id="62" weight="11" />
+      <edge source="EnoughAntifaSpam" target="Patriot911" id="63" weight="7" />
+      <edge source="EnoughAntifaSpam" target="Conservative_News" id="64" weight="7" />
+      <edge source="EnoughAntifaSpam" target="BigDongDeSantis" id="65" weight="8" />
+      <edge source="Patriot911" target="Conservative_News" id="66" weight="8" />
+      <edge source="Patriot911" target="BigDongDeSantis" id="67" weight="9" />
+      <edge source="Conservative_News" target="BigDongDeSantis" id="68" weight="9" />
+    </edges>
+  </graph>
+</gexf>

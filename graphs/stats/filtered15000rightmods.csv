@@ -1,0 +1,13 @@
+Id,Label,0,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,betweennesscentrality2,bridgingcoefficient,bridgingcentrality,pageranks,componentnumber,Cluster,modularity_class,stat_inf_class,clustering,triangles
+AskThe_Donald,AskThe_Donald,136074,6,8,2,0.75,0.833333,23,0.202279,0.056897,0.011509,0.039822,0,0,0,1,0.266667,4
+TheDonaldTrump2024,TheDonaldTrump2024,17034,1,3,3,0.45,0.5,0,0,0,0,0.017669,0,0,0,1,0,0
+tuesday,tuesday,17238,1,1,4,0.391304,0.453704,0,0,0,0,0.012496,0,0,3,1,0,0
+TheRedPill,TheRedPill,290000,1,5,1,1,1,0,0,0,0,0.05,1,1,1,0,0,0
+libsofreddit,libsofreddit,47480,3,23,3,0.529412,0.62963,3.5,0,0,0,0.068859,0,0,2,1,0.666667,2
+HillaryForPrison,HillaryForPrison,54995,2,16,4,0.375,0.481481,0,0,0,0,0.047772,0,0,2,1,1,1
+Conservative,Conservative,1078194,4,12,3,0.6,0.703704,8,0,0,0,0.071538,0,0,3,1,0.5,3
+Republican,Republican,190087,4,14,3,0.6,0.703704,8,0,0,0,0.082094,0,0,3,1,0.5,3
+conservatives,conservatives,107400,3,7,3,0.5625,0.648148,0,0,0,0,0.041025,0,0,3,1,1,3
+benshapiro,benshapiro,58434,1,1,4,0.391304,0.453704,0,0,0,0,0.012576,0,0,3,1,0,0
+walkaway,walkaway,119521,3,23,3,0.529412,0.62963,3.5,0,0,0,0.067173,0,0,2,1,0.666667,2
+RedPillWomen,RedPillWomen,71629,1,5,1,1,1,0,0,0,0,0.05,1,1,1,0,0,0

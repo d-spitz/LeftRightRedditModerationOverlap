@@ -1,0 +1,1590 @@
+{
+    "esist": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "No trolls",
+            "description": "",
+            "created_utc": 1652981018,
+            "kind": "all",
+            "violation_reason": "No trolls"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "No badfaithers",
+            "description": "",
+            "created_utc": 1652981018,
+            "kind": "all",
+            "violation_reason": "No badfaithers"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "No garbage sources",
+            "description": "As a general rule, MSM is fine and everything else will be evaluated on a case-by-case basis.",
+            "created_utc": 1652981018,
+            "kind": "link",
+            "violation_reason": "No garbage sources"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "no personal attacks or aggressive rudeness",
+            "description": "",
+            "created_utc": 1652981018,
+            "kind": "all",
+            "violation_reason": "no personal attacks or aggressive rudeness"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "No bigoted shit",
+            "description": "",
+            "created_utc": 1652981018,
+            "kind": "all",
+            "violation_reason": "No bigoted shit"
+        }
+    },
+    "Liberal": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "R1: No Trolling",
+            "description": "**Keep all discussion civil.**\n\n* Any form of trolling will not be tolerated\n* Personal attacks are not allowed \n* Do not harass other users or mods\n* Do not argue with the mods\n* No \"both sides\" trolls\n* No novelty accounts\n* No quarantined sub users\n\n*Mods can ban any troll without providing a warning.*",
+            "created_utc": 1652994216,
+            "kind": "all",
+            "violation_reason": "R1: No Trolling"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "R2: No Hate Speech or Bigotry",
+            "description": "**Hatred and bigotry have no place in America or on reddit, even as a joke.**\n\n* Hate speech directed towards groups of people based on race, gender, sexual orientation, gender identity, ethnicity, religion, national origin, immigration status, social status, religious affiliation or disability is not allowed\n* Do not submit racist or bigoted memes\n* Do not post discriminatory jokes\n\n*Users that break this rule are subject to an immediate ban without a warning*",
+            "created_utc": 1652994216,
+            "kind": "all",
+            "violation_reason": "R2: No Hate Speech or Bigotry"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "R3: Quality Control",
+            "description": "**Posts about smears, gaffes, old news and conspiracy theories are not allowed.**\n\n* Discussions about age, conspiracy theories, gaffes, personal health, stuttering or technical issues are subject to removal\n* Do not post NSFW content, even as a joke.\n* Do not make fun of addictions\n* No doomposts \n* Do not post disinformation\n* Do not promote fringe candidates or extremists\n* No purity politics\n* No meta posts or comments\n* Mods can remove content without providing a warning.",
+            "created_utc": 1652994216,
+            "kind": "all",
+            "violation_reason": "R3: Quality Control"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "R4: No Divisive Content",
+            "description": "Do not post divisive content or engage in negative campaigning.",
+            "created_utc": 1652994216,
+            "kind": "all",
+            "violation_reason": "R4: No Divisive Content"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "R5: Old news (older than 7 days)",
+            "description": "Any news older than 7 days is considered outdated. \n\n**Automoderator will remove a post if it:**\n\n* links to outdated content",
+            "created_utc": 1652994216,
+            "kind": "link",
+            "violation_reason": "R5: Old news (older than 7 days)"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "R6: No spamming of any kind",
+            "description": "**No more than 10% of your posts in this community should be from the same site.**\n\nOther:\n\n* Do not promote your own website.\n* Do not submit personal blogs or vlogs.\n* Do not sell or advertise unofficial merchandise or services. \n* Do not advertise Discord servers.\n* Do not submit posts about political simulation subs\n* Do not flood the sub with repetitive comments or ALL CAPs comments.\n* The mods will remove any spam without a warning.",
+            "created_utc": 1652994217,
+            "kind": "link",
+            "violation_reason": "R6: No spamming of any kind"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "R7: False information or Unconfirmed Information",
+            "description": "**Do not spread false information. Double-check your sources.**\n\n* This includes any falsified information, pics, vids or audio.\n\n**Report any comments or posts if they contain false information.**\n\n* Debunked information will be removed by the mods.\n\nUnconfirmed information from an unverified source is subject to removal.",
+            "created_utc": 1652994217,
+            "kind": "all",
+            "violation_reason": "R7: False information or Unconfirmed Information"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "R8: Not in Good Faith / No Doomers",
+            "description": "**Do not disrupt the normal operation of the community.**\n\nThis includes any users who comes to the sub to be repetitively disagreeable, as well as any user that makes demands.\n\nYou can disagree, but you cannot only disagree.\n\n* I don't like X but... posts are subject to removal\n* Do not use the sub to make demands. \n* Bad faith posts will be removed without a warning.\n* No doomers.",
+            "created_utc": 1652994217,
+            "kind": "all",
+            "violation_reason": "R8: Not in Good Faith / No Doomers"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "R9: No Off-Topic Posts",
+            "description": "**Do not submit off-topic posts.**\n\n* Do not hijack a post's comment section to soapbox about other issues.",
+            "created_utc": 1652994217,
+            "kind": "all",
+            "violation_reason": "R9: No Off-Topic Posts"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "R10: No Drama",
+            "description": "**Posts about drama from this community, other reddit communities, or communities outside of this platform are not allowed.**\n\n* Do not submit posts or comments about reddit drama.\n* Do not submit screenshots about reddit drama. \n* Do not submit any posts about being banned on another sub.\n* Do not provoke drama with another sub.\n* Do not submit posts or comments about drama on other social media platforms.\n* Do not use the sub to post personal complaints.",
+            "created_utc": 1652994217,
+            "kind": "all",
+            "violation_reason": "R10: No Drama"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "No calls for violence. Don't break reddit's TOS.",
+            "description": "**No calls for violence. This includes indirect threats and jokes.**\n\nOther:\n\n* Do not promote any calls-to-arms, advocate purchasing or selling weapons, discuss gun ownership, advocate for civil war, make threats, make any death wishes, post any violent content, or post any content that celebrates violence. \n* Do not wish harm to anyone including politicians, members of the military, law enforcement officials or private citizens.\n* Do not promote anarchy or insurrection.\n* No doxxing",
+            "created_utc": 1652994217,
+            "kind": "all",
+            "violation_reason": "No calls for violence. Don't break reddit's TOS."
+        },
+        "Rule 11": {
+            "priority": 11,
+            "short_name": "R12: No Third Party Candidates",
+            "description": "Do not use the sub to promote third party candidates.\n\nExample parties: Libertarian, Green, Socialist, Communist, Marxist and other third parties.\n\nYou can register to vote at: [vote.org](https://www.vote.org/)",
+            "created_utc": 1652994217,
+            "kind": "all",
+            "violation_reason": "R12: No Third Party Candidates"
+        },
+        "Rule 12": {
+            "priority": 12,
+            "short_name": "No Editorialized Headlines",
+            "description": "**Do not editorialize headlines. Keep the title as close as possible to the original title.**\n\n* You can add a subtitle if one appears below the main headline within an article or add a sentence if it fits both the context of the headline and article.\n\nThe submission is subject to removal if the title has been completely altered by the user and not the site.\n\nDo not use ALL CAPS for the entire headline.",
+            "created_utc": 1652994217,
+            "kind": "link",
+            "violation_reason": "No Editorialized Headlines"
+        },
+        "Rule 13": {
+            "priority": 13,
+            "short_name": "No anti-vaxxers",
+            "description": "Posts and comments from anti-vaxxers will be removed.\n\n* Do not discourage people from taking the COVID vaccine.\n* Do not downplay or mock necessary public health measures to address this pandemic such as wearing masks or social distancing. Do not downplay the effectiveness of those measures or mock people following those measures.\n* Do not promote health misinformation or promote dangerous alternate remedies.\n* Anti-vaccination websites are not based on science and have been debunked",
+            "created_utc": 1652994217,
+            "kind": "all",
+            "violation_reason": "No anti-vaxxers"
+        },
+        "Rule 14": {
+            "priority": 14,
+            "short_name": "No COVID-19 deniers",
+            "description": "COVID-19 is real and there is no debate about it. People have lost loved ones to this dangerous disease. \n\nCOVID-19 does not care about your personal opinion or how you vote. You should care about others and prevent them from getting this disease by following federal health guidelines and by getting vaccinated. Do not downplay or mock necessary public health measures to address this pandemic.",
+            "created_utc": 1652994217,
+            "kind": "all",
+            "violation_reason": "No COVID-19 deniers"
+        }
+    },
+    "CommunismMemes": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Marxism",
+            "description": "This sub is moderated by different kinds of Marxists. Most of the tendencies of Marxism and even other leftism are fine to be here, but if content of your post or comment is too idealist, it might be removed and depending on how bad even permanently banned.\n\nControversial Marxist tendencies are fine to be here, till you start uncritically propagating them(SocDemism, Trotskyism and other menshevism, excuses for Pol Pot)",
+            "created_utc": 1652981013,
+            "kind": "all",
+            "violation_reason": "Not Marxist/apologia for controversial strands of Marxism"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "No liberalism",
+            "description": "Liberalism, liberal propaganda, pro NATO/pro EU/pro US propaganda, capitalist police apologia and electoralism, parliamentarism and reformism will result in a ban.",
+            "created_utc": 1652981013,
+            "kind": "all",
+            "violation_reason": "No liberalism"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "LibShit Saturday",
+            "description": "ShitLibsSay type of content is allowed only during Saturday, excessive posting of such content on other days might result in temporary ban.\n\nIf you make a post about posts/comments of Reddit content then BLUR subreddits name and every nickname that can be seen on picture, failing to do this might result in temporary ban.",
+            "created_utc": 1668623075,
+            "kind": "link",
+            "violation_reason": "LibShit Saturday"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Low effort posts",
+            "description": "Posts that have not had any effort put in at all are not allowed and will be removed. Common reposts fall under this rule.",
+            "created_utc": 1652981013,
+            "kind": "all",
+            "violation_reason": "Low effort."
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Sex work apologia",
+            "description": "Workers that have to do Sex Work(SW) are especially exploited and coerced people. You cannot buy someone elses consent, and coercing someone with money into having sex is rape. Repeat, coerced and/or nonconsensual sex IS RAPE.\n\nArguing to preserve SW field long term or permanently, especially during socialism and communism is advocating for preservation of RAPE and thus results in an immediate permanent ban!",
+            "created_utc": 1702316583,
+            "kind": "all",
+            "violation_reason": "Sex work apologia"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Submission Guidelines",
+            "description": "Post relevant memes to Communist ideas, history and theory. Reactionary and ahistoric content is forbidden. (Ex: \"no food\", \"fails\", \"not real communism\" or great man theory)",
+            "created_utc": 1652981013,
+            "kind": "all",
+            "violation_reason": "Submission Guidelines"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Redditors allowed in sub",
+            "description": "Most leftists are included to learn and have fun on our sub. Except, all kinds of liberals(conservatives, liberarians and socdems). Keep your anticommie hatred to yourselves. \nNazis, fascists and bot accounts are banned on sight permanently.",
+            "created_utc": 1652981013,
+            "kind": "all",
+            "violation_reason": "Redditors allowed in sub"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "\"We\" and \"Sharing\" Memes",
+            "description": "These are outdated and saturated memes that are barely even relevant, do not post them.",
+            "created_utc": 1652981013,
+            "kind": "all",
+            "violation_reason": "\"We\" and \"Sharing\" Memes"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "No social chauvinism/campism",
+            "description": "Support of your own country during an imperialist conflict or possible conflict is going to result in a permanent ban.\n\nWe are not responsible for you not reading/understanding Lenins Imperialism the highest stage of capitalism, and as Mao has written, without investigating you're going to speak nonsense, speaking nonsense doesn't solve anything so you're going to be deprived of the right to speak.",
+            "created_utc": 1652981013,
+            "kind": "all",
+            "violation_reason": "No chauvinism"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "No tolerance to Racism/Bigotry",
+            "description": "This subreddit is pro-LGBTQ and racial/ethnic minorities, if you want to shit on those groups of people, especially through liberal worldview with no shred of Marxist analysis, go find a reactionary \"Marxist\" subs to degrade in since you're going to be banned permanently.",
+            "created_utc": 1652981013,
+            "kind": "all",
+            "violation_reason": "No tolerance to Racism/Bigotry"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "No social media advertisements without mod approval.",
+            "description": "Just because your social media might be Marxist, doesn't mean that we're supporting your views, especially without checking them first. If you wish to advertise, message us in modmail FIRST, or you might be temporarily banned",
+            "created_utc": 1652981013,
+            "kind": "all",
+            "violation_reason": "No social media advertisements without mod approval."
+        }
+    },
+    "LeopardsAteMyFace": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "No actual animal attacks",
+            "description": "Don't post news articles and screenshots of someone actually getting attacked by animals.",
+            "created_utc": 1652993155,
+            "kind": "link",
+            "violation_reason": "Actual animal attack"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "No exact reposts within a reasonable timeframe",
+            "description": "Stop reposting, it's annoying for many people.\n\nPosts giving more information about the topic might be fine.",
+            "created_utc": 1652993155,
+            "kind": "link",
+            "violation_reason": "Repost"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Write an explanatory comment",
+            "description": "Under the stickied mod comment, please comment on why you think this post fits the subreddit and some explanation.\n\nIf there is no mod stickied comment on that post, then ignore this rule.",
+            "created_utc": 1652993155,
+            "kind": "link",
+            "violation_reason": "No explanatory comment"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Must follow the \"Leopard ate my face\" theme",
+            "description": "Please don't post stuff that doesn't fit the subreddit.",
+            "created_utc": 1652993155,
+            "kind": "link",
+            "violation_reason": "Does not fit this sub"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Be civil",
+            "description": "This is for everyone; any uncivil comments will be removed and the user may get a ban.\n\nPlease do not post comments that incite or promote violence in any case.  [READ MORE HERE](https://www.reddit.com/r/LeopardsAteMyFace/wiki/rule5)",
+            "created_utc": 1652993155,
+            "kind": "all",
+            "violation_reason": "Uncivil behaviour"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "No \"Leopards ate my face\" in the title nor explanatory comment",
+            "description": "",
+            "created_utc": 1652993155,
+            "kind": "link",
+            "violation_reason": "Leopard in title or explanatory comment"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "No direct links to other subreddits",
+            "description": "Please do not crosspost to this subreddit nor link to other subreddits. Black out all identifying information such as Reddit usernames and subreddit names.",
+            "created_utc": 1652993155,
+            "kind": "all",
+            "violation_reason": "Direct link to another subreddit"
+        }
+    },
+    "WitchesVsPatriarchy": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Be kind",
+            "description": "* Avoid commenting in ways that are likely to hurt others.\n* Do not dismissively link other subreddits to make your point (i.e. /r/thathappened or /r/notlikeothergirls).\n* Respond in kind - humorous content doesn't need overzealous interpretation, serious topics should be treated with care and respect. \n* Consider \"reading the room\" before making a hasty reply.",
+            "created_utc": 1652980856,
+            "kind": "link",
+            "violation_reason": "Unkind"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Destroy the Patriarchy",
+            "description": "* Posts or comments w/ signs of racism, misogyny, toxic masculinity, homophobia, transphobia, classism, ableism, or otherwise upholding the patriarchy, will be removed & likey result in a ban. \n\n* Supporting or advocating for cultural appropriation is not allowed. Users may ask questions in good faith but only answers by members of the appropriated culture or citing first person sources will be allowed.",
+            "created_utc": 1652980856,
+            "kind": "link",
+            "violation_reason": "Bigotry / Cultural Appropriation"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "No Evangelizing",
+            "description": "* Witches are not meant to be saints. Users tone policing or claiming the moral high ground may be banned.\n* We encourage users to explore the more mystical explanations for everyday occurrences. Please be respectful of others' approaches to witchcraft.\n* It is important that everyone feels comfortable and free from any pressure to conform to specific religious beliefs. Users imposing religious ideals are likely to be banned.",
+            "created_utc": 1652980856,
+            "kind": "all",
+            "violation_reason": "Evangelizing"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Follow Coven Etiquette",
+            "description": "* To avoid intentional or unintentional brigading don\u2019t link to or tag other subreddits, this includes screenshots & attempts to obfuscate w/ text (i.e., w*tchesvspatriarchy). \n* Cross-posting is turned off for this subreddit, please avoid direct-linking in general. \n* Please remember to credit artists & creators when sharing artwork or media. You may be asked to resubmit if you leave this content off. \n* Avoid linking to other communities (off-site), Discord, or social media platforms.",
+            "created_utc": 1652980856,
+            "kind": "link",
+            "violation_reason": "Coven Etiquette"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Marketplace and Economic Rules",
+            "description": "* See [Marketplace Guide](https://www.reddit.com/r/WitchesVsPatriarchy/wiki/marketplace_vendor_guide) for full vendor rules.  \n* We do not allow drop-shipping, white-labels, MLMs, or NFTs. \n* No witchcraft-for-pay posts including but not limited to tarot, spell-casting, clairvoyance for profit. \n* No solicitation or offers of gifts, money, or transactions. Post heavily discussing financial status or hinting at need for monetary assistance will be removed.",
+            "created_utc": 1652980856,
+            "kind": "link",
+            "violation_reason": "Breaks Marketplace rules"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Moderator Discretion",
+            "description": "* WvP is a curated subreddit. Not all content may be suited for our community, which aims to be a haven from negativity on Reddit & the wider internet. Our goal is to maintain a warm, hopeful, supportive, and uplifting environment for our users. \n* Regardless of other rules, if moderators believe your account, posts, or comments to be detracting from the positive nature of the subreddit we may prevent further disruption by banning your account or limiting your ability to post & comment.",
+            "created_utc": 1652980856,
+            "kind": "link",
+            "violation_reason": "Mod discretion"
+        }
+    },
+    "SandersForPresident": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Be respectful",
+            "description": "Racism, sexism, bigotry, derogatory language, calls for violence and hate speech will not be tolerated in any form. Name-calling, personal insults, mockery, and other disparaging remarks against other users are also prohibited. All submissions and comments must be made in good faith.",
+            "created_utc": 1652980902,
+            "kind": "all",
+            "violation_reason": "Disrespectful"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Advance progressive candidates and policies",
+            "description": "All submissions and comments made to the subreddit should help, and definitely not hinder, the election of progressive candidates to public office and the passage of progressive policy. Anything that runs counter to this is subject to removal.",
+            "created_utc": 1652980902,
+            "kind": "all",
+            "violation_reason": "This isn't progressive"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Stay on topic",
+            "description": "All submissions should relate to Bernie Sanders, progressive policies, or the progressive movement as a whole. Submissions which do not provide enough context, content, or direction for discussion may be removed.",
+            "created_utc": 1652980902,
+            "kind": "all",
+            "violation_reason": "Off Topic"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Write good post titles",
+            "description": "The post title must provide enough context and information for people to understand what they will be clicking onto. Articles with editorialized titles are subject to removal. ALL CAPS TITLES are likely to be removed.",
+            "created_utc": 1652980902,
+            "kind": "link",
+            "violation_reason": "Bad post title"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Repost",
+            "description": "Reposted content refers to any content that has been posted to the subreddit within the last 60 days. In the event that multiple users submit content related to the same topic, submissions may be removed in order to it may be condensed condense discussion into a megathread after moderator consensus.",
+            "created_utc": 1652980902,
+            "kind": "link",
+            "violation_reason": "Repost"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Unauthorized Solicitation",
+            "description": "Any promotion of content which the submitter has a personal or financial interest in must be cleared with the mod team in advance. This includes the any post which links to a source which receives commercial, financial, or social benefit from the exposure beyond the consumption of the content at the immediate landing page. If you would like to submit promotional content, please send a modmail with all relevant information.",
+            "created_utc": 1652980902,
+            "kind": "all",
+            "violation_reason": "Unauthorized Solicitation"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Inaccurate",
+            "description": "The following is prohibited: Any claim that is comprised solely of speculation and for which there is no evidence to suggest, either directly or indirectly, that the claim is feasible.",
+            "created_utc": 1652980902,
+            "kind": "all",
+            "violation_reason": "Inaccurate"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "Reddit's Global Rules",
+            "description": "Submissions which contain content that does not follow reddit's [content policy](https://www.reddit.com/help/contentpolicy) or follow [Reddiquette](https://www.reddit.com/wiki/reddiquette) guidelines will be removed. ",
+            "created_utc": 1652980902,
+            "kind": "all",
+            "violation_reason": "Reddit's Global Rules"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "Social media must be screenshots.",
+            "description": "All content originating on social media must be posted as a screenshot that has been uploaded directly to Reddit. Screenshots should be high quality and properly cropped. If you found a video you want to share from twitter, scrape the video using [this website](https://www.savetweetvid.com/) and then upload it directly to Reddit. If you need help taking a screenshot, please refer to [this guide.](https://www.theverge.com/2019/11/8/20953522/how-to-take-screenshot-mac-windows-pc-iphone-android)",
+            "created_utc": 1652980902,
+            "kind": "all",
+            "violation_reason": "Social media link"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "No drama",
+            "description": "r/SandersForPresident is focused on doing the work of getting progressives elected. That includes phone banking, text banking, donating, voting, and educating people about our movement. Submissions that feature primarily drama, such as hit pieces, smears, and other types of attacks are considered off topic and will not be permitted. All submissions must help Progressives get elected.",
+            "created_utc": 1652980902,
+            "kind": "all",
+            "violation_reason": "No Drama"
+        }
+    },
+    "democrats": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "R1: No Trolling",
+            "description": "**Keep all discussion civil. Treat others with respect as you would want to be treated. Remember the human.**\n\n* Any form of trolling will not be tolerated\n* Personal attacks are not allowed \n* Do not harass other users or mods\n* Do not argue with the mods\n* No \"both sides\" trolls\n* No novelty accounts\n* No throwaway accounts\n* No quarantined sub users\n* No anti-vaxxers\n* No malarkey. No exceptions.\n\n*Mods can ban any troll without providing a warning.*",
+            "created_utc": 1652997680,
+            "kind": "all",
+            "violation_reason": "R1: No Trolling"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "R2: No Hate Speech or Bigotry",
+            "description": "**Hatred and bigotry have no place in America or on reddit, even as a joke.**\n\n* Hate speech directed towards groups of people based on race, gender, sexual orientation, gender identity, ethnicity, religion, national origin, immigration status, social status, religious affiliation or disability is not allowed\n* Do not submit racist or bigoted memes\n* Do not post discriminatory jokes\n\n*Users that break this rule are subject to an immediate ban without a warning*",
+            "created_utc": 1652997680,
+            "kind": "all",
+            "violation_reason": "R2: No Hate Speech or Bigotry"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "R3: Quality Control",
+            "description": "**Posts about smears, gaffes, old news and conspiracy theories are not allowed.**\n\n* Discussions about age, conspiracy theories, gaffes, personal health, stuttering or technical issues are subject to removal\n* Tweets or screencaps of tweets are subject to removal\n* Do not post NSFW content, even as a joke.\n* Do not make fun of addictions\n* No doomposts \n* Do not post disinformation\n* Do not promote fringe candidates or extremists\n* Mods can remove content without providing a warning.",
+            "created_utc": 1652997680,
+            "kind": "all",
+            "violation_reason": "R3: Quality Control (examples: hit pieces, smears, gaffes, old news and conspiracy theories)"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "R4: Don't attack Democrats",
+            "description": "**Don't attack Democrats.**\n\nPosts and comments attacking Joe Biden, Kamala Harris, Democrats or the Democratic party will be removed without warning.\n\n* Ex: A user or Sen. Sanders is a corporate Democrat.\n* You can criticize members of Congress but you cannot base it off of things like gender, ethnicity or religious affiliation\n* The mods will determine if any content breaks the rules.\n* Users that constantly attack Democrats will be banned without a warning.\n\nDo not promote purity politics.",
+            "created_utc": 1652997680,
+            "kind": "all",
+            "violation_reason": " R4: Don't attack Democrats"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "R5: Do not promote other political parties",
+            "description": "**This sub is for Democratic Party politics only, and the promotion of other parties and ideologies is not allowed.**\n\n* Do not promote any form of Democratic socialism, socialism, Leninism, Marxism or communism.\n* No tankies.\n* Do not promote other political parties or its members.\n* Do not promote other political ideologies.\n* Do not promote purity politics.\n* Do not discuss future hypothetical presidential candidates.",
+            "created_utc": 1652997680,
+            "kind": "all",
+            "violation_reason": "R5: Do not promote other political parties"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "R6: No spamming of any kind",
+            "description": "**No more than 10% of your posts in this community should be your own content.**\n\nOther:\n\n* Do not sell or advertise unofficial merchandise or services. \n* Do not advertise other Discord servers.\n* Do not submit posts about political simulation subs\n* Do not flood the sub with repetitive comments or ALL CAPs comments. This includes messages spammed on each post. *The exception to this is when the sub discusses special events on a Megathread.*\n* The mods will remove any spam without a warning.",
+            "created_utc": 1652997680,
+            "kind": "all",
+            "violation_reason": "R6: No spamming of any kind"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "R7: False information or Unconfirmed Information",
+            "description": "**Do not spread false information. Double-check your sources.**\n\n* This includes any falsified information, pics, vids or audio.\n\n**Report any comments or posts if they contain false information.**\n\n* Debunked information will be removed by the mods.\n\nUnconfirmed information from an unverified source is subject to removal.\n\nExample: A tweet or thread from an unverified Twitter user\n\n*Tweets and other content from news organizations about a developing new story would not fall under this rule.*",
+            "created_utc": 1652997680,
+            "kind": "all",
+            "violation_reason": " R7: False information or Unconfirmed Information"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "R8: Not in Good Faith / No Doomers",
+            "description": "**Do not disrupt the normal operation of the community.**\n\nThis includes any users who comes to the sub to be repetitively disagreeable, as well as any user that makes demands.\n\nYou can disagree, but you cannot only disagree.\n\n* I don't like Democrats but... posts are subject to removal\n* Do not use the sub to make demands. (Example: I won't support Democrats unless X is changed, dropped or added to the Democratic party platform.)\n* Bad faith posts will be removed without a warning.\n* No doomers",
+            "created_utc": 1652997680,
+            "kind": "all",
+            "violation_reason": "R8: Not in Good Faith / No Doomers"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "R9: No Off-Topic or Unproductive Posts",
+            "description": "Do not submit off-topic or unproductive posts.\n\n**All submissions should help Democrats get elected.** \n\nAll posts should be primarily about Democrats and the Democratic party.\n\n* Do not submit posts about third parties or Independents.\n\n* Do not hijack a post's comment section to soapbox about other issues.\n\n* Memes should follow the rules of the sub.\n\n* The bot will automatically remove content if it is considered off-topic or unproductive.\n\nr/democrats is focused on getting Democrats elected.",
+            "created_utc": 1652997680,
+            "kind": "link",
+            "violation_reason": "R9: No Off-Topic or Unproductive Posts"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "R10: No Drama",
+            "description": "**Posts about drama from this community, other reddit communities, or communities outside of this platform are not allowed.**\n\n* Do not submit posts or comments about reddit drama.\n* Do not submit screenshots about reddit drama. \n* Do not submit any posts about being banned on another sub.\n* Do not provoke drama with another sub.\n* Do not submit posts or comments about drama on other social media platforms.\n* Do not use the sub to post personal complaints.",
+            "created_utc": 1652997680,
+            "kind": "all",
+            "violation_reason": "R10: No Drama"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "No calls for violence. Don't break reddit's TOS.",
+            "description": "**No calls for violence. This includes indirect threats and jokes.**\n\nOther:\n\n* Do not promote any calls-to-arms, advocate purchasing or selling weapons, discuss gun ownership, advocate for civil war, make threats, make any death wishes, post any violent content, or post any content that celebrates violence. \n* Do not wish harm to anyone including politicians, members of the military, law enforcement officials or private citizens.\n* Do not promote anarchy or insurrection.\n* No doxxing",
+            "created_utc": 1652997680,
+            "kind": "all",
+            "violation_reason": "No calls for violence. Don't break reddit's TOS."
+        },
+        "Rule 11": {
+            "priority": 11,
+            "short_name": "No Editorialized Headlines",
+            "description": "**Do not editorialize headlines. Keep the title as close as possible to the original title.**\n\n* You can add a subtitle if one appears below the main headline within an article or add a sentence if it fits both the context of the headline and article.\n\nThe submission is subject to removal if the title has been completely altered by the user and not the site.\n\nDo not use ALL CAPS for the entire headline.",
+            "created_utc": 1652997680,
+            "kind": "link",
+            "violation_reason": "No Editorialized Headlines"
+        },
+        "Rule 12": {
+            "priority": 12,
+            "short_name": "No Brigading",
+            "description": "Brigading is a violation of Reddit-wide rules and is grounds for an immediate ban upon discovery.",
+            "created_utc": 1652997680,
+            "kind": "all",
+            "violation_reason": "No Brigading"
+        },
+        "Rule 13": {
+            "priority": 13,
+            "short_name": "No anti-vaxxers",
+            "description": "Posts and comments from anti-vaxxers will be removed.\n\n* Do not discourage people from taking the COVID vaccine.\n* Do not downplay or mock necessary public health measures to address this pandemic such as wearing masks or social distancing. Do not downplay the effectiveness of those measures or mock people following those measures.\n* Do not promote health misinformation or promote dangerous alternate remedies.\n* Anti-vaccination websites are not based on science and have been debunked",
+            "created_utc": 1652997680,
+            "kind": "all",
+            "violation_reason": "No anti-vaxxers"
+        },
+        "Rule 14": {
+            "priority": 14,
+            "short_name": "No COVID-19 deniers",
+            "description": "COVID-19 is real and there is no debate about it. People have lost loved ones to this dangerous disease. \n\nCOVID-19 does not care about your personal opinion or how you vote. You should care about others and prevent them from getting this disease by following federal health guidelines and by getting vaccinated. Do not downplay or mock necessary public health measures to address this pandemic.",
+            "created_utc": 1652997680,
+            "kind": "all",
+            "violation_reason": "No COVID-19 deniers"
+        }
+    },
+    "Feminism": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "All posts must be relevant to women's issues",
+            "description": "Please help us keep our discussion on-topic and relevant to women's issues. If your reaction to a post about how women have it bad is but insert group has it bad, too! then it`s probably something that belongs in another subreddit",
+            "created_utc": 1652979363,
+            "kind": "all",
+            "violation_reason": "All posts must be relevant to women's issues"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "All posts must come from an educated perspective",
+            "description": "Informativity rule: all ideological considerations must show actual understanding of the relevant feminist concepts. Comments consisting of exploratory/follow-up questions, in good faith, are an exception.\n\nPlease avoid: biases coming from a position of privilege (gender, race, class, sexual orientation); conflating informed consent with formal consent (consider past trauma/PTSD,  emotional/mental issues, or coercion); fetishizing choice (when choice itself is insufficient: selling one's vote).",
+            "created_utc": 1652979363,
+            "kind": "all",
+            "violation_reason": "Informativity rule"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Promoting regressive agendas is not permitted",
+            "description": "The \"no platform\" rule: no misogyny, racism, homophobia, transphobia, etc are allowed.\n\nThe validity of the various progressive pursuits (by women, children, LGBT, men, various ethnicities, people with disabilities, etc) is considered axiomatic. No blanket attacks are permitted against progressive movements, their egalitarian aspect, or the continued necessity of their existence. In particular: all participants must observe progressive principles (this is not a value-free space). ",
+            "created_utc": 1652979363,
+            "kind": "all",
+            "violation_reason": "Promoting regressive agendas is not permitted"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Be respectful and courteous",
+            "description": "Feminism does not work in isolation, but rather is interconnected with all other work for justice and egalitarianism, and we believe that as injustice is addressed and overcome in society, all marginalized groups will benefit",
+            "created_utc": 1652979363,
+            "kind": "all",
+            "violation_reason": "Be respectful and courteous"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Respect the `assume good faith` principle",
+            "description": "When editorializing or discussing, please respect the `assume good faith principle` - that actions or statements are done in good faith, absent actual evidence to the contrary; in particular, do not address claims that were not actually made (avoid derailing/addressing a strawman)",
+            "created_utc": 1652979363,
+            "kind": "all",
+            "violation_reason": "Respect the `assume good faith` principle"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Derailing is prohibited",
+            "description": "Derailment\u200b:  \n \nIf\u200b \u200byour\u200b \u200breaction\u200b \u200bto\u200b \u200ba\u200b \u200bpost\u200b \u200babout\u200b \u200bhow\u200b \u200bwomen\u200b \u200bhave\u200b \u200bit\u200b \u200bbad\u200b \u200bis\u200b \u200b\"but\u200b \u200b[insert\u200b \u200bgroup]\u200b \u200bhas\u200b \u200bit\u200b \u200bbad,\u200b \u200btoo!\" \nthen\u200b \u200bit's\u200b \u200bprobably\u200b \u200bsomething\u200b \u200bthat\u200b \u200bbelongs\u200b \u200bin\u200b \u200banother\u200b \u200bsubreddit. \n",
+            "created_utc": 1652979363,
+            "kind": "comment",
+            "violation_reason": "Derailing is prohibited"
+        }
+    },
+    "punk": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Post guidelines",
+            "description": "News, interviews and tour dates are encouraged \u2014 especially if it helps to spur interest at the local and international levels. In-depth discussions on all aspects of punk culture, from DIY projects to neighborhood bands, are even better.",
+            "created_utc": 1652984785,
+            "kind": "all",
+            "violation_reason": "Post guidelines"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Bland Song Posts",
+            "description": "Adding info to your song posts \u2014 genre, location, year \u2014 gives us an incentive to check out your submission and makes it easier for us to discover bands in our neighborhoods.",
+            "created_utc": 1652984785,
+            "kind": "all",
+            "violation_reason": "Bland Song Posts"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Repetitiveness",
+            "description": "Repetitive questions and discussions on stale topics \u2014 What\u2019s the meaning of punk? You\u2019re not a punk if you do X, Y and Z, Is Green Day Punk? What do you think about G.G. Allin \u2014 will be removed, they've been posted before if you want to know the answer search on the sub or check out our FAQ under resources.",
+            "created_utc": 1652984785,
+            "kind": "all",
+            "violation_reason": "Repetitiveness"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Blacklist",
+            "description": "Blacklisted bands are bands every Punk knows, their songs are used to karma farm on this sub. Songs by these bands can only be posted on Thursday, or if it is new music put out by the band, this rule only applies to songs/albums. \nThese are the bands: Bad Brains, Bad Religion, Black Flag Blink 182, Choking Victim, The Clash, Dead Kennedys, Descendents, Green Day, Leftover Crack, Minor Threat, Misfits, NOFX, The Offspring, Operation Ivy, Pennywise, Ramones, Rancid, Sex Pistols, Social Distortion",
+            "created_utc": 1652984785,
+            "kind": "link",
+            "violation_reason": "Blacklist"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Don't discriminate",
+            "description": "Any racism, sexism, homophobia, or transphobia will not be tolerated, nor will be the use  of slurs. Any of this is a bannable offense. This is a community of Punks, all are welcome and all should feel welcome. ",
+            "created_utc": 1652984785,
+            "kind": "all",
+            "violation_reason": "Discrimination"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Spam",
+            "description": "Posting more than five songs a day is considered spamming and is a bannable offense.",
+            "created_utc": 1652984785,
+            "kind": "all",
+            "violation_reason": "Spam"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Reddiquete",
+            "description": "Follow reddiquette. Downvote content that contributes nothing to the community \u2014 not stuff that differs from your personal tastes. Unnecessary downvoting chokes varied content creation and discourages unique submissions.",
+            "created_utc": 1652984785,
+            "kind": "all",
+            "violation_reason": "Reddiquete"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "No memes or Image macros",
+            "description": "These should be taken to r/punkmemes",
+            "created_utc": 1652984785,
+            "kind": "link",
+            "violation_reason": "No memes or Image macros"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "NAZISM WILL NOT BE TOLERATED",
+            "description": "This is a Punk subreddit, we will not allow Nazism, or Nazi apologists to plague our scene or our sub, this is an immediate ban. Posting of any RAC or fence walker/sitter bands is not allowed. Images and videos of Nazis getting what's coming to them are welcome, but it's got to be Punks or Skins giving them the boot.",
+            "created_utc": 1652984785,
+            "kind": "all",
+            "violation_reason": "Nazism"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "No Criminal/Illegal activity",
+            "description": "Posting anything that indicates involvement in illegal activity, or could incriminate someone is likely to be used by bad people to put this community and its members in danger, and is absolutely forbidden.",
+            "created_utc": 1652984785,
+            "kind": "all",
+            "violation_reason": "No Criminal/Illegal activity"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "Image posts only on weekend",
+            "description": "Image posts are now reserved for only on the weekend, and will be removed during the week.",
+            "created_utc": 1652984785,
+            "kind": "link",
+            "violation_reason": "Image posts only on weekend"
+        }
+    },
+    "Political_Revolution": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Be Civil",
+            "description": "No racism, sexism, violence, derogatory language, hate speech, [personal attacks](https://www.reddit.com/r/politics/wiki/rulesandregs#wiki_no_personal_attacks), homophobia, ageism, negative campaigning or any other type disparaging remarks that are abusive in nature. Violations of this rule may be met with temporary or permanent bans at moderator discretion.",
+            "created_utc": 1652994183,
+            "kind": "all",
+            "violation_reason": "Rule 1: Incivility"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Novelty Accounts, Spammers, Bots & Trolls",
+            "description": "Are prohibited.",
+            "created_utc": 1652994183,
+            "kind": "all",
+            "violation_reason": "Rule 2: Novelty Accounts, Spammers, Bots & Trolls"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "No Off-Topic Submissions",
+            "description": "Submissions must be related to supporting [progressive candidates](/r/Political_Revolution/wiki/endorsements) and [relevant political issues](/r/Political_Revolution/wiki/issues) They must contribute to our overall efforts to promote progressives.\n\n---\n\n",
+            "created_utc": 1652994183,
+            "kind": "link",
+            "violation_reason": "Rule 3: Off-Topic "
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Do not alter link titles",
+            "description": "Use the original title/headline for your submissions. If you believe commentary should be added, please add it to the end of the title.\n\n---\nWhen posting an image, titles must objectively describe them. When posting a video, the video's title must be used. When posting candidate-published material, you may use your own title for clarity. Sensationalist or misleading submissions may be removed.\n\nThese titling rules ensure that users have an objectively accurate and fair perception of the article.",
+            "created_utc": 1652994183,
+            "kind": "link",
+            "violation_reason": "Rule 4: Altered / Misleading / Sensationalist"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Reposts and/or Over-Discussed Topics",
+            "description": "May be removed.\n\nIf your submission is for the purpose of covering a major news story or event, there will likely be a mega thread available ([here](/r/Political_Revolution/about/sticky) or [here](/r/Political_Revolution/about/sticky?num=2)) for your contribution.",
+            "created_utc": 1652994183,
+            "kind": "link",
+            "violation_reason": "Rule 5: Repost / Over-Discussed (Mega Thread)"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Low-Context or Unreliable Submissions",
+            "description": "Posts and links must contain substantive context that provides direction for discussion. Unreliable news sources, news with an agenda that is non-journalistic and clickbait are also not allowed.\n\nMemes, screenshots of text conversations, and image macros are disallowed Monday through Saturday, but may be shared on **Free Submission Sunday**. \n\nArt (graphic design) and infographics do not fall under this category, and are permitted.",
+            "created_utc": 1652994183,
+            "kind": "all",
+            "violation_reason": "Rule 6: Low-Context  or Unreliable Submission"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Solicitation",
+            "description": "Soliciting donations or votes (for candidates or otherwise), or promoting the sale of merchandise is forbidden unless prior permission is obtained.\n\nAMA's must be approved and scheduled.\n",
+            "created_utc": 1652994183,
+            "kind": "all",
+            "violation_reason": "Rule 7: Solicitation"
+        }
+    },
+    "communism101": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "No oppressive language",
+            "description": "Patriarchal, white supremacist, cissexist, heterosexist, or otherwise oppressive speech is unacceptable.",
+            "created_utc": 1652980887,
+            "kind": "all",
+            "violation_reason": "No oppressive language"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "No debating or ill-faith questions",
+            "description": "This is a place for learning, not for debating. Come here with an open and inquisitive mind, and exercise humility. Debates with liberal friends, leading questions, loaded questions, and other ill-faith contributions are unacceptable.",
+            "created_utc": 1652980887,
+            "kind": "all",
+            "violation_reason": "No debating or ill-faith questions"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "No non-marxist answers",
+            "description": "Give well-informed marxist answers. There are separate subreddits for liberalism, anarchism, and other idealist practices.",
+            "created_utc": 1652980887,
+            "kind": "all",
+            "violation_reason": "No non-marxist answers"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No uninformed or low-quality answers",
+            "description": "This is a serious educational subreddit. Answers that are wrong, misleading, jocular, or otherwise not befitting our pedagogical goals are unacceptable.\n\nDon't answer a question if you are unsure of the answer. Try to include sources and/or further reading in any answers you provide. Standards of answer accuracy and quality are enforced.",
+            "created_utc": 1652980887,
+            "kind": "all",
+            "violation_reason": "No uninformed or low-quality answers"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "No selfish, vague, or overly broad questions",
+            "description": "Use the search feature before posting. Your question may have been answered before.\n\nIf you are posting a question, give it a descriptive title.\n\nDo not create a barrage of questions. When you post, keep the number of questions small and focused on one topic, and remember that the users answering your question are taking time out of their day to help you.",
+            "created_utc": 1652980887,
+            "kind": "all",
+            "violation_reason": "No selfish, vague, or overly broad questions"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Troll",
+            "description": "",
+            "created_utc": 1652980887,
+            "kind": "all",
+            "violation_reason": "Troll"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "No chauvinism or settler apologism",
+            "description": "Non-negotiable: https://readsettlers.org/",
+            "created_utc": 1654249711,
+            "kind": "all",
+            "violation_reason": "No chauvinism or settler apologism"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "No tone-policing",
+            "description": "",
+            "created_utc": 1681941349,
+            "kind": "comment",
+            "violation_reason": "No tone-policing"
+        }
+    },
+    "antiwork": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Respect that Antiwork is a workers' space",
+            "description": "Do not post pro-capitalist content. Do not post content in support of employers, landlords, or police. This includes posts about \"good\" bosses. Do not post content in support of politicians or their campaigns.",
+            "created_utc": 1652985981,
+            "kind": "all",
+            "violation_reason": "Pro-capitalist content or support of politicians"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Participate in good faith",
+            "description": "No discriminatory language. No unauthorized self-promotion. Meta posts may be removed at the moderators' discretion.",
+            "created_utc": 1652985981,
+            "kind": "all",
+            "violation_reason": "Discriminatory language, self-promotion, or meta post"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "No spam, no low-effort content",
+            "description": "Screenshots of text such as SMS communication, WhatsApp, social media, news articles, and procedurally generated content such as ChatGPT are prohibited.  Low-effort content such as memes are prohibited.",
+            "created_utc": 1652985981,
+            "kind": "all",
+            "violation_reason": "Spam or low-effort content"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Contribute original content",
+            "description": "Do not repost content from within the previous 30 days. Crossposts may be removed at moderator discretion.",
+            "created_utc": 1652985981,
+            "kind": "all",
+            "violation_reason": "Repost, crosspost, or other non-original content"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Follow sitewide terms of service",
+            "description": "Sitewide terms of service apply, including but not limited to: Do not post personal information of yourself or others, do not leave Reddit usernames visible in screenshots, and do not post calls for violence.",
+            "created_utc": 1652985981,
+            "kind": "all",
+            "violation_reason": "Sitewide TOS violation"
+        }
+    },
+    "CapitalismVSocialism": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "No violent content",
+            "description": "Threatening or inciting violence, including encouraging or instructing suicide or other self-harm, is generally subject to removal.",
+            "created_utc": 1652984189,
+            "kind": "all",
+            "violation_reason": "Violence"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "No doxing other users",
+            "description": "Soliciting, posting, or credibly claiming intent to act on or to have uncovered the personal information of any pseudonymous person(s) is subject to removal.",
+            "created_utc": 1652984189,
+            "kind": "link",
+            "violation_reason": "Doxing"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Make a decent effort when starting new threads",
+            "description": "When it comes to thread submissions we expect you to post more than just a title, a link, or a simple question. Starting a discussion requires effort on your part to start a conversation.",
+            "created_utc": 1652984189,
+            "kind": "link",
+            "violation_reason": "Low-effort or off-topic"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No unsolicited advertising",
+            "description": "In addition to the obvious, this includes other subreddits and things like discord channels. If you think you deserve an exception, ask us in modmail.",
+            "created_utc": 1652984189,
+            "kind": "all",
+            "violation_reason": "Advertising"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Don't break Reddit's Rules",
+            "description": "No doxxing.\nNo threats of violence.\nNo harassing people.\nNo ban-evasion.\nNo illegal activity.\nNo intentional rudeness.\nNo trolling.\n\nSee Reddit's Rediquette and full rules: https://www.reddithelp.com/hc/en-us/articles/205926439",
+            "created_utc": 1652984189,
+            "kind": "all",
+            "violation_reason": "Don't break Reddit's Rules"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "No Postmodernism-Generator Posts",
+            "description": "Do not use a postmodernism-generator or other automatic content creator to create meaningless and pointless posts.",
+            "created_utc": 1652984189,
+            "kind": "all",
+            "violation_reason": "No Postmodernism-Generator Posts"
+        }
+    },
+    "Anarchism": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Anti-Oppression Policy",
+            "description": "r/anarchism has an [Anti-Oppression Policy](https://www.reddit.com/r/Anarchism/wiki/aop) designed to make this space safe for members of oppressed groups.",
+            "created_utc": 1652974676,
+            "kind": "all",
+            "violation_reason": "It violates the Anti-Oppression Policy"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Brigading",
+            "description": "Brigading, meaning the linking of threads in other subreddits or on other sites with either overt or non-overt encouragement to vote, comment, or otherwise interfere in them, is not permitted. Please replace the 'www' with 'np' (meaning non-participation) when linking threads in another subreddit.",
+            "created_utc": 1652974676,
+            "kind": "all",
+            "violation_reason": "It encourages brigading, or is a participant in a brigade"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Snitch Jacketing",
+            "description": "https://www.reddit.com/r/Anarchism/wiki/rules\nDon't accuse anyone of being a snitch or a cop without strong evidence from a meatspace anarchist community (or self-admission).\nDon't imply someone might be a snitch, or use wording that could be misconstrued to mean someone is a snitch.",
+            "created_utc": 1652974676,
+            "kind": "all",
+            "violation_reason": "It accuses another user of being a snitch without proof"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Calls to Violence/Suicide Goading/Distributing Arms Manufacturing Material",
+            "description": "Inciting violence is against reddit's global rules. reddit's violence prohibition applies to violent words (kill, punch, etc.) and to general violent tone. Suicide goading is also prohibited. You **may** advocate self-defense or for bashing fascists, per the admins, because bashing can be interpreted as verbally telling off (absent any other indicators of violent intent).\n\nProliferating arms manufacturing material is also against reddit's rules. Do not ask for this material on r/anarchism.",
+            "created_utc": 1652974676,
+            "kind": "all",
+            "violation_reason": "It's a call to violence, suicide goading, or requests or offers arms manufacturing material."
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Doxxing",
+            "description": "Doxxing is the sharing of another person's private (as in not publicly available) personally-identifying information (PII) such as street addresses or phone numbers, and is against reddit's global rules.Comments containing PII will be scrutinized and any containing doxxing material will be removed and the commenter banned permanently without appeal.",
+            "created_utc": 1652974676,
+            "kind": "all",
+            "violation_reason": "It contains personal or confidential information (doxxing)"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Pedophilia apologism",
+            "description": "This applies to attempts to normalize pedophilia by comparing it favorably to non-hetero sexualities, discussing drawn/animated child pornography, etc.. Violation will result in immediate and permanent ban without appeals.",
+            "created_utc": 1652974676,
+            "kind": "all",
+            "violation_reason": "It's pedophilia apologism"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Video/image of Police Violence not Marked NSFW",
+            "description": "Videos of police violence must be marked NSFW, so that they will be blurred by reddit, and users will not have to see them unwittingly when casually browsing.",
+            "created_utc": 1652974676,
+            "kind": "link",
+            "violation_reason": "It's a video/image of police violence not yet marked NSFW"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "No Facebook/Facebook affiliate links",
+            "description": "Posts containing hyperlinks to Facebook or Facebook-affiliated companies are not allowed on r/Anarchism due to their data-scraping practices.",
+            "created_utc": 1652974676,
+            "kind": "all",
+            "violation_reason": "It's a link to Facebook or a Facebook affiliate"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "Images and videos must relate to anarchism",
+            "description": "Image and video posts must be related to anarchist theory or movements or may be removed at moderator discretion. Pan-left content is not desired, nor is your multi-sub spam.",
+            "created_utc": 1652974676,
+            "kind": "link",
+            "violation_reason": "It's an image or video not related to anarchism"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "Certain persons and groups get no-platformed in this sub",
+            "description": "The following groups are no-platformed in r/anarchism:  \n\nThe far-right (links will be removed even if posted for the purposes of mockery), \nTankies/ML(M) (not prohibited from posting but apologia for ML(M) states and policies will be removed), \nVaush (reasons: [1](https://www.reddit.com/r/Enough_Vaush_Spam/comments/m1boo7/a_short_list_of_vaushs_liberalism_transphobia_and/), [2](https://www.reddit.com/r/Enough_Vaush_Spam/comments/ou0d2u/vaush_has_a_very_disturbing_preoccupation_with/))",
+            "created_utc": 1652974676,
+            "kind": "all",
+            "violation_reason": "It's a no-platformed person or group (far-right, tankies/ML(M), or Vaush)"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "No Electioneering",
+            "description": "Don't use r/anarchism to tell people to vote for your fave politician or political party, no matter how 'progressive' you deem them to be. Don't promote electoral practices. We don't want to hear about it.",
+            "created_utc": 1652974676,
+            "kind": "all",
+            "violation_reason": "No Electioneering"
+        },
+        "Rule 11": {
+            "priority": 11,
+            "short_name": "3-5 sentence tl:dw required for videos longer than 10 minutes",
+            "description": "So that users know what they're getting into, and mods know content without having to watch the whole thing, add a 3-5 sentence description of the video content, outlining positions taken in the video and the reason you posted it.",
+            "created_utc": 1652974676,
+            "kind": "all",
+            "violation_reason": "3-5 sentence tl:dw required for videos longer than 10 minutes"
+        },
+        "Rule 12": {
+            "priority": 12,
+            "short_name": "No chatbots",
+            "description": "Chatbots and text posts by chatbots (machine-learning automated conversation scripts based on GPT or other language models) are not allowed on r/@. Screenshots or discussion by actual users of chatbot interactions held elsewhere will be allowed on a case-by-case basis.",
+            "created_utc": 1674626233,
+            "kind": "all",
+            "violation_reason": "No chatbots"
+        }
+    },
+    "BreadTube": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "High quality content",
+            "description": "BreadTube is for high-quality content that is longform, well sourced and thoroughly researched. Videos \"ranting\" without thought and videos where the main intention is humor is heavily discouraged. Clickbait titles and titles with words like \"destroy\", \"logic\", \"facts\" are banned, even \"ironically\". Content is the focus, not creators\u2014good creators can make low quality content and vice-versa. Livestream content will be treated more leniently, however.",
+            "created_utc": 1652981470,
+            "kind": "all",
+            "violation_reason": "Low effort/clickbait/meme post"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Posts should be against the prevailing winds of the internet",
+            "description": "BreadTube exists to promote content that goes squarely against mainstream political discourse, which tends to be pro-establishment (liberal or conservative), pro-capitalist, and pro-authoritarian. If a video could get uncontroversial primetime space on any mainstream outlet, it probably does not belong here.",
+            "created_utc": 1652981470,
+            "kind": "all",
+            "violation_reason": "Post is too pro-establishment"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "No calls for violence, looting, or gulags",
+            "description": "Violence is a serious matter with serious consequences and shouldn't be taken lightly; even though it is sometimes necessary (e.g. self-defense), it should not be fetishized. BreadTube is a place to discuss serious issues without having to deal with a bunch of commenters calling for violence, gulags, and guillotines.",
+            "created_utc": 1652981470,
+            "kind": "all",
+            "violation_reason": "Calls for violence, looting, or gulags"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No endless contrarianism",
+            "description": "Disagreement is fine, even expected, provided people can disagree in an agreeable way. But when someone joins your community for the sole purpose of disagreeing, that's endless contrarianism.\n\nIf all a community member can seem to contribute is endlessly pointing out how wrong everyone else is, and how everything about this community is headed in the wrong direction\u2014that's not building constructive discussion. They're just arguing for the sake of argument. Take it to debate school.",
+            "created_utc": 1652981470,
+            "kind": "all",
+            "violation_reason": "Endless contrarianism"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "No axe-grinding",
+            "description": "Axe-Grinding is when a user keeps constantly gravitating back to the same pet issue or theme for weeks or months on end. Often times these users aren't even members of the communities they're posting in, rather they search for specific terms and invade those threads to argue. It's hard for a community to discuss a topic when agenda-posters come in to manipulate the discussion.",
+            "created_utc": 1652981470,
+            "kind": "all",
+            "violation_reason": "User is an axe-grinder"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "No griefing",
+            "description": "In discussion, griefing is when someone goes out of their way to bait a particular person for weeks or months on end. By that we mean they pointedly follow them around, choosing to engage on whatever topic that person appears in, and needle the other person in any way they can, but always strictly by the book and not in violation of any rules... technically.",
+            "created_utc": 1652981470,
+            "kind": "all",
+            "violation_reason": "User is consistently trying to pick a fight"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Don't engage in name-calling",
+            "description": "Calling individuals CIA-ops, radlibs, or anything else of that nature does not facilitate quality discussion.",
+            "created_utc": 1652981470,
+            "kind": "all",
+            "violation_reason": "Personal attack"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "No US electoralism posting",
+            "description": "American election cycles drag on forever and tend to dominate every community that lets them run rampant. As one could imagine, this gets old real quick. This rule especially applies to lesser evilism vs \"fuck voting for shitlibs\" arguments. Exemptions may be made for important elections in the form of dedicated megathreads.",
+            "created_utc": 1652981470,
+            "kind": "all",
+            "violation_reason": "US election post"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "No authoritarianism apologia",
+            "description": "One should not engage in apologetics for brutal dictators like Stalin, Mao, and the Kim dynasty, nor should one stan oppressive dictatorships; BreadTube is not the place for this.",
+            "created_utc": 1652981470,
+            "kind": "all",
+            "violation_reason": "Authoritarianism apologist"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "No excessive centrism",
+            "description": "Socdems (especially Berniecrats) are welcome to participate, as are liberals who are coming here to learn. Just remember that BreadTube is an explicitly anti-capitalist subreddit (it's even named after anarcho-communist literature) and as such is not the place for long arguments in favor of establishment politics.",
+            "created_utc": 1652981470,
+            "kind": "all",
+            "violation_reason": "Excessive centrism"
+        }
+    },
+    "Anarchy101": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Provide well-informed anarchist answers.",
+            "description": "Answers should reflect a consistent anti-capitalist and anti-government position, as well as familiarity with relevant facts, events, writings, etc.",
+            "created_utc": 1652980564,
+            "kind": "comment",
+            "violation_reason": "Provide well-informed anarchist answers."
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Be respectful and respect the Anti-Oppression Policy.",
+            "description": "Please do not debate, or post in an antagonistic manner. Avoid defamatory language and consult the Anti-Oppression Policy (linked in the sidebar) to see how you can help make space for marginalized people.",
+            "created_utc": 1652980564,
+            "kind": "all",
+            "violation_reason": "Be respectful and respect the Anti-Oppression Policy."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Do not promote violent or illegal acts.",
+            "description": "Anarchism's relationship to \"justice systems\" is necessarily complex and often antagonistic. This is something we should never forget. But we also have to remember that little or nothing is gained by putting forums \"in the belly of the beast,\" like this one, in jeopardy by neglecting good security culture.",
+            "created_utc": 1652980564,
+            "kind": "all",
+            "violation_reason": "Do not promote violent or illegal acts."
+        }
+    },
+    "Socialism_101": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Q1. State questions clearly in the title",
+            "description": "Questions submitted to the subreddit should be clear and specific. If needed, questions can be expanded upon in the text portion of the thread.\n\nQuestions may be targeted toward a specific group, such as Anarchists, Marxist-Leninists, Mutualists, etc... But unless otherwise stated, your questions are assumed to be directed toward all socialists.\n\nRemember, **the clearer the question, the better received responses can be**.",
+            "created_utc": 1691437599,
+            "kind": "link",
+            "violation_reason": "Q1. Unclear question"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Q2. Repost/Recent question",
+            "description": "People asking questions should make every effort to ensure that their questions are clear, specific, and novel.\n\nPlease note, there is no such thing as a silly question as long as it is within guidelines; feel free to ask it, even if you think it's obvious. And, if you see a question which looks silly or obvious, remember that everyone comes to learning at their own time; we're not all born experts.\n\nPosts that ask for reading recommendations are allowed. You may also wish to check wiki.",
+            "created_utc": 1654098579,
+            "kind": "link",
+            "violation_reason": "Q1. Recently answered"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Q3. Loaded/Leading question",
+            "description": "Don\u2019t ask Loaded/Leading Questions \u2014 Don\u2019t front-load a question with baseless assertions. We understand that knowledge is primarily made-up of background assumptions and preconceived notions that are part-and-parcel of Liberal ideology. Check those at the door, and don\u2019t include them as part of your question unless your question cannot be addressed without them.",
+            "created_utc": 1654098579,
+            "kind": "link",
+            "violation_reason": "Q3. Loaded/Leading question"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Q4. Anti-Communist Soapboxing",
+            "description": "Don\u2019t Soapbox \u2014 You may expand upon your question, and ask follow-up questions in response to any answer you receive, but don\u2019t use the forum as a platform to spread anti-communism. Similarly, polemic or trolling questions meant to start antagonistic arguments, provoke, or escalate disagreements to the level of insults will not be tolerated.",
+            "created_utc": 1654098579,
+            "kind": "link",
+            "violation_reason": "Q4. Anti-Communist Soapboxing"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Q5. Off-topic posts",
+            "description": "As a Q&A sub, any linked threads with no discernible question will be removed. If you care to share a news story or make a statement, please take it to our parent sub, r/socialism.\n\nAnnouncements, Participation Posts, Podcasts, or YouTube channels dedicated to learning may advertise only on approval of the Mod team. Posting without prior Mod approval will result in the thread being removed.",
+            "created_utc": 1691438193,
+            "kind": "link",
+            "violation_reason": "Q5. Off-topic posts"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "A1. Spurious, unverifiable, or unsupported claim",
+            "description": "When answering questions, keep in mind that you may be asked to cite your sources. This is a learning subreddit, meaning you must be prepared to provide evidence, scientific or historical, to back up your claims. Link to appropriate sources when/if possible.\n\nThis includes, but is not limited to: spurious claims, personal experience-based responses, unverifiable assertions, etc.\n\nRemember, **an answer isn't good because it's right, it's good because it teaches.**",
+            "created_utc": 1654098579,
+            "kind": "comment",
+            "violation_reason": "A1. Spurious, unverifiable, or unsupported claim"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "A2. Not conductive to learning",
+            "description": "r/Socialism_101 is an educational space in which to provide clarity for socialist ideas. Replies to a question should be thorough and comprehensive.\n\nThis includes but is not limited to: one word responses, one-liners, non-serious/meme(ish) responses, etc.\n\nRemember, **an answer isn't good because it's right, it's good because it teaches.**",
+            "created_utc": 1654098579,
+            "kind": "comment",
+            "violation_reason": "A2. Not conductive to learning"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "A3. Sectarianism",
+            "description": "Avoid excessive sectarian bias. Answers which are overly biased or emotional may be removed. If you disagree with a school of socialism, don't bash it. Simply explain the disagreement.",
+            "created_utc": 1654098579,
+            "kind": "comment",
+            "violation_reason": "A3. Sectarianism"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "A4. Trolling - User is not here to learn",
+            "description": "This is a learning subreddit and posts and comments made in bad faith will be removed.\n\nThis also encompasses all forms of argumentative participation aimed not at learning and/or providing a space fo reeducation but aimed at debating. If you wish to debate, head over to a debate sub instead.",
+            "created_utc": 1654098579,
+            "kind": "comment",
+            "violation_reason": "A4. Trolling"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "A5. Reactionary",
+            "description": "This is a socialist space and reactionary comments will be removed. This refers to all kinds of reactionary forms, such as fascism, conservativism, anarcho-capitalism, far right, radical right and all other forms of anti-socialism.",
+            "created_utc": 1654098579,
+            "kind": "comment",
+            "violation_reason": "A5. Reactionary"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "A6. Non-Socialist Answer",
+            "description": "Responses can only be made by socialists. People come to Socialism_101 looking for socialist answers, not capitalist ones. Non-socialist answers will be removed, and might lead to a ban.\n\nPlease take into account that this does not refer to one's self-identification, but rather to content. A \"socialist answer\" is one that draws from socialist debates and methodologies, that analyses society basing itself in socialist theories.",
+            "created_utc": 1654098579,
+            "kind": "comment",
+            "violation_reason": "6. Non-Socialist Answer"
+        }
+    },
+    "CriticalTheory": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "submission quality",
+            "description": "We are interested in long-form or in-depth submissions and responses, so please keep this in mind when you post so as to maintain high quality content.\n\nIf you post **a question**, it must include an attempt to answer it or demonstrate some attempts to search and engage with existing literature. If you are completely stumped and have questions about philosophy and/or socialscience and want a high quality answer try /r/askphilosophy and /r/AskSocialScience",
+            "created_utc": 1652992443,
+            "kind": "all",
+            "violation_reason": "submission quality"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "short videos",
+            "description": "**Video submissions** that are not lectures or interviews with acclaimed (at the very least recognised within the critical theory world, in or out of academia) theorists must be over 20 minutes long and include a substantive submission statement which is not simply a copy of the youtube description (unless the description is fairly thorough). Submissions removed under this rule may be resubmitted with a statement, though substantial existing discussions may be left up at moderator discretion.",
+            "created_utc": 1652992443,
+            "kind": "link",
+            "violation_reason": "short videos"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "announcements in pinned thread",
+            "description": "Please post **announcements for events, reading groups, and other similar invitations** in the monthly pinned thread.",
+            "created_utc": 1652992443,
+            "kind": "link",
+            "violation_reason": "announcements in pinned thread"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "memes, etc.",
+            "description": "Please direct **shorter videos, memes, and shitposts** to /r/CriticalTheoryTV",
+            "created_utc": 1652992443,
+            "kind": "all",
+            "violation_reason": "memes, etc."
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "offensive language",
+            "description": "In this subreddit offensive language may be tolerated depending on the context in which it is used and users should keep in mind that **if moderators determine that use of such language is done with a malicious intent, they will be banned**. Persistent derailing, trolling, and/or off-topic posting and commenting may also result in a ban. All bans are subject to the discretion of the moderation team and [site-wide rules apply](https://www.reddit.com/help/contentpolicy/).",
+            "created_utc": 1652992443,
+            "kind": "all",
+            "violation_reason": "offensive language"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "aaaaarg links",
+            "description": "Posts of **aaaaarg links or posts asking about aaaaarg keys** will be removed. For questions related to aaaaarg, please contact one of the following users: u/leftcomsnob,  u/MovingToJersey, u/lzbrgs, u/Louie-dog, u/Santabot, u/Amberkowicz1, u/CyberDiablo, u/joseph_jacotot",
+            "created_utc": 1652992443,
+            "kind": "all",
+            "violation_reason": "aaaaarg links"
+        }
+    },
+    "ParlerWatch": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Submission Content",
+            "description": "Submissions to\u00a0r/ParlerWatch\u00a0must be related to right-wing activity on social media.\n\nPost screenshots, not links. Leave links to other platforms in the comments. DO NOT link to other Reddit communities.\n\nPost titles should accurately describe post content.\n\nOnly post news articles directly relevant to right-wing activity on social media. Post title should be article title.\n\nNO MEMES, satire, or low effort content. \n\n1-2 sentence submission comment required after post.\n\nMax 5 posts per 12 hours.",
+            "created_utc": 1652986863,
+            "kind": "link",
+            "violation_reason": "Submission Content"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Submissions containing slurs must be obscured or marked NSFW, comments must not contain slurs",
+            "description": "We understand that the content being submitted to r/ParlerWatch is intended to present hatred and violence propagated on right-wing platforms, but the conveyance of hate speech does not require all members of this community see it. If the content you intend to submit contains slurs of any kind (racial, gender, orientation, ableist, identity, etc.), **you must obscure them or mark the post NSFW. Comments containing derogatory slurs of any kind are unacceptable.**",
+            "created_utc": 1652986863,
+            "kind": "all",
+            "violation_reason": "Submissions containing slurs must be obscured or marked NSFW, comments must not contain slurs"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Submissions and comments must not contain any propagation of hate speech, or calls to violence",
+            "description": "r/ParlerWatch is dedicated to exposing radical right-wing extremism. We DO NOT allow abusive and/or threatening language, support of radicalism, calls for violence, statements which appear to be calling for violence, or covert or overt intolerance toward any protected class (race, national origin, religion, disability, orientation, gender identity, political affiliation, etc.). DO NOT use coded language or euphemisms to evade this rule. This rule does not apply to the submission content itself.",
+            "created_utc": 1652986863,
+            "kind": "all",
+            "violation_reason": "Submissions and comments must not contain any propagation of hate speech, or calls to violence"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Submissions that include threats or harassment to an individual must have names censored",
+            "description": "If a submission includes threats or harassment to an individual, BOTH the username of the poster and the  names and personal information of the intended target must be censored, to protect the privacy of the victim.  This does not apply to public figures.",
+            "created_utc": 1652986863,
+            "kind": "all",
+            "violation_reason": "Submissions that include threats or harassment to an individual must have names censored"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Submissions containing nudity or gore must be marked NSFW",
+            "description": "Submissions of screenshots containing nudity or gore must be marked NSFW, and as a reminder, if the subject of the post is not a public figure or official, their face needs to be obscured to avoid harassment.",
+            "created_utc": 1652986863,
+            "kind": "all",
+            "violation_reason": "Submissions containing nudity or gore must be marked NSFW"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "No content involving violence against children",
+            "description": "Submissions containing or depicting violence against children to include, but not limited to: scantily dressed children,  in provocative poses, children being harmed, children who appear to have been harmed or have suffered abuse, sexualizing children, drawings, renderings, or adults intending to be depicted as children.",
+            "created_utc": 1652986863,
+            "kind": "all",
+            "violation_reason": "No content involving violence against children"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "No Doxxing",
+            "description": "We allow Parler and similar platforms' usernames to be visible in posts as it is a public platform, but please do not share any details about the personal identity of anyone.  Facebook content is the unique circumstance that names and profile pics must be censored as there is a reasonable expectation of privacy due to the platform's user requirements. We do want to expose fascists and extremism, but we do not want to create witch hunts.",
+            "created_utc": 1652986863,
+            "kind": "all",
+            "violation_reason": "No Doxxing"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "Don't be an asshole",
+            "description": "You're allowed to disagree, you're allowed to be wrong, but you're not allowed to make personal insults or be a dick.  Permabans will be handed out liberally to suspected brigaders from other subreddits.",
+            "created_utc": 1652986863,
+            "kind": "all",
+            "violation_reason": "Don't be an asshole"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "No COVID-19 misinformation outside of showcasing as part of a submission",
+            "description": "This sub **requires** that you support your claims about the virus, it's origin, mask efficacy or the vaccines with a peer-reviewed study or scholarly article in a medical journal.\n\nThis of course does not apply to the content you submit for showcasing.\n\nParlerwatch encourages members to report comments lacking citation and/or containing misinformation. You may receive a warning, and 3 warnings (for any type of misconduct) will lead to a **permanent ban** from participating.",
+            "created_utc": 1652986863,
+            "kind": "all",
+            "violation_reason": "No COVID-19 misinformation outside of showcasing as part of a submission"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "No spam",
+            "description": "No spam of any kind.",
+            "created_utc": 1652986863,
+            "kind": "all",
+            "violation_reason": "No spam"
+        }
+    },
+    "AOC": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Respect",
+            "description": "Racism, sexism, ageism, bigotry, derogatory language, calls for violence and hate speech will not be tolerated in any form. Name-calling, personal insults, mockery, and disparaging remarks against other users are also prohibited.",
+            "created_utc": 1699795252,
+            "kind": "all",
+            "violation_reason": "Respect"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Good Faith",
+            "description": "Novelty accounts, bots, and trolls are strictly prohibited, and as such will be removed accordingly. This includes any user who come comes to /r/AOC to be repetitively disagreeable, as well as any user that disrupts the normal operation of the community. You can disagree, but you cannot only disagree.",
+            "created_utc": 1699795273,
+            "kind": "all",
+            "violation_reason": "Good Faith"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "On-Topic",
+            "description": "All submissions must relate to Alexandria Ocasio-Cortez, the policies she champions, or other local progressive candidates running for office. Submissions which do not provide enough context, content, or direction for discussion may be removed. Memes, image macros, screenshots should be high quality or may be removed at moderator discretion. Videos that provide more commentary than information are subject to removal.",
+            "created_utc": 1699795298,
+            "kind": "all",
+            "violation_reason": "On-Topic"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Titles",
+            "description": "All posts titles must provide enough context and information for people to understand the content contained therein. Altering link titles to add commentary on the content is prohibited. Adding context taken from the article itself and added to the title is permissible. Any post which is removed for this rule may be resubmitted with the appropriate title, provided it does not violate any of the other rules of the subreddit. Titles in ALL CAPS are likely to be removed.",
+            "created_utc": 1699795319,
+            "kind": "all",
+            "violation_reason": "Titles"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "No Reposts",
+            "description": "Reposted content refers to any content that has been posted to the subreddit within the last 60 days. In the event that multiple users submit content related to the same topic, submissions may be removed in order to condense discussion into a megathread upon moderator consensus.",
+            "created_utc": 1699795333,
+            "kind": "all",
+            "violation_reason": "No Reposts"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Solicitation",
+            "description": "Submissions and comments that solicit money for anyone other than AOC's official campaign are not permitted on this subreddit. Exceptions are possible but must be cleared with the moderation team before posting.\n\nSubmissions and comments that solicit social notoriety or exposure from the community must be vetted by the moderation team before they are submitted. Examples include promoting your own social media channels or organizations not directly affiliated with AOC.",
+            "created_utc": 1699795359,
+            "kind": "all",
+            "violation_reason": "Solicitation"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Accuracy",
+            "description": "The following is prohibited: Any claim that is comprised solely of speculation and for which there is no evidence to suggest that the claim is feasible. Moderators may ask for sources for informational posts.\n\nThe following is prohibited: Any post or public statement which spreads fear, intimidation, or unease but either has no direct or clear benefit to the greater goals of the sub or is intended to coerce subscribers into behaving or engaging in any way that they would not have done otherwise.",
+            "created_utc": 1699795373,
+            "kind": "all",
+            "violation_reason": "Accuracy"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "Global Reddit Rules",
+            "description": "Submissions which contain content that does not follow [reddit's content policy](https://www.reddit.com/help/contentpolicy) or follow [Reddiquette](https://www.reddit.com/wiki/reddiquette) guidelines will be removed.",
+            "created_utc": 1699795395,
+            "kind": "all",
+            "violation_reason": "Global Reddit Rules"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "Play to win.",
+            "description": "This subreddit is here to be an informational, organizing, and fundraising hub for Alexandria Ocasio-Cortez and progressive policies. We're here to have fun, but more than anything else, we're here to win. The touchstone question is: Does this help progressives like AOC advance our goals? There are MANY ways to answer that question with a yes, but the answer needs to be yes, this helps us!",
+            "created_utc": 1699795549,
+            "kind": "all",
+            "violation_reason": "Play to win."
+        }
+    },
+    "OurPresident": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "No brigading",
+            "description": "Comment and/or post history which indicates individual or organized brigading activity will be removed and will result in a ban.",
+            "created_utc": 1652984396,
+            "kind": "all",
+            "violation_reason": "Brigading"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "No trolling",
+            "description": "Attempts to undermine the intent of the subreddit, or to deflate morale, will be removed. That includes civility trolling, concern trolling, and calls for violence.",
+            "created_utc": 1652984396,
+            "kind": "all",
+            "violation_reason": "Trolling"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Keep commentary video posts to a minimum",
+            "description": "Although commentary videos can be good, if you are only posting them, or are posting too many, then some or all of your posts may be removed. We've noticed that this type of content has a tendency of burying more critical content, and also tends to be abused by people who are trying to promote their own material",
+            "created_utc": 1652984396,
+            "kind": "all",
+            "violation_reason": "Keep commentary video posts to a minimum"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No petitions",
+            "description": "Unless it is a major announcement from the Bernie campaign, petitions will be removed.",
+            "created_utc": 1652984396,
+            "kind": "all",
+            "violation_reason": "No petitions"
+        }
+    },
+    "WorkersStrikeBack": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "No debating in favor of, or denying, worker exploitation and inequality.",
+            "description": "Worker exploitation is not up for debate. It is evident. If you intend to debate, go elsewhere.",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "No debating in favor of, or denying, worker exploitation and inequality."
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "No Fascists or related characters.",
+            "description": "No Fascists (that includes support for fascists: Isreal Gov/ IDF/COPS/MILITARY/NATO) \nNo reactionaries.\nNo Nazis.\nNo white supremacists.\nNo imperialists. \nNo monarchists.\nNo bourgeoisie.",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "No Fascists or related characters."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "No Advocating Voting for Capitalist Parties",
+            "description": "Do not advocate voting for capitalist parties or capitalist politicians (including but not limited to the Democratic and Republican Parties).",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "No Advocating Voting for Capitalist Parties"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No hate speech.",
+            "description": "No abusive or threatening speech or writing that expresses prejudice against a particular group, especially on the basis of race, religion, or sexual orientation.",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "No hate speech."
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "No trolling.",
+            "description": "Troll - \"In internet slang, a troll is a person who posts inflammatory, insincere, digressive, extraneous, or off-topic messages in an online community, with the intent of provoking readers into displaying emotional responses, or manipulating others' perception.\"",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "No trolling."
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Be civil and polite.",
+            "description": "Be respectful towards other socialists you disagree with, but also non-socialists who follow the rules and participate in good faith. You may only dunk on fascists, bootlickers, nazis, reactionaries and bourgeoisie.",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "Be civil and polite."
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "No NSFW.",
+            "description": "Ironically, we do not approve of not safe for work content. No nudes or anything like that. You may share your salary though, that was a Capitalist lie.",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "No NSFW."
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "No low effort posts.",
+            "description": "At the moderators discretion.",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "No low effort posts."
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "Reddit wide rules apply.",
+            "description": "Behavior such as brigading and harassment won't be permitted. Neither will posts that can be interpreted as explicit threats of/calls for violence.",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "Reddit wide rules apply."
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "No misinformation or disinformation. Also world socialist web site is banned",
+            "description": "If you are caught intentionally fabricating or misleading, you may be banned. Also world socialist web site is banned for spreading misinformation about the labor movement.",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "No misinformation or disinformation. Also world socialist web site is banned"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "No invalidating workers.",
+            "description": "We do not need Capitalists saying they deserve more money than workers. The experiences of workers will be heard and understood. This is a sub to help workers gain negotiating power not stroke your ego.",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "No invalidating workers."
+        },
+        "Rule 11": {
+            "priority": 11,
+            "short_name": "No advocating for Capitalism or defending the 1%",
+            "description": "Capitalism is an inherently exploitative economic system this is not up for debate. also do not defend members of the 1% like Elon Musk, Jeff Bezos and Bill Gates.",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "No advocating for Capitalism or defending the 1%"
+        },
+        "Rule 12": {
+            "priority": 12,
+            "short_name": "Maintain leftist unity. (note: liberals and the democratic party are NOT left wing.)",
+            "description": "No bashing other leftist ideologies. We can all agree about the need to unionize the workplace. Which is what the sub is about. NOTE: liberals and the democratic party are NOT left wing! left wing means anti-capitalist. i.e communists, socialists and anarchists. liberalism is a pro capitalist ideology and therefore right wing NOT left. do not make false reports when someone criticizes liberalism or the democratic party from the left. if we find you making such false reports you will be banned.",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "Maintain leftist unity. (note: liberals and the democratic party are NOT left wing.)"
+        },
+        "Rule 13": {
+            "priority": 13,
+            "short_name": "No Cops",
+            "description": "Cops are the people who get called to break up strikes when they get declared \"illegal\". Cops are enemies of the working class and should be excluded from the labor movement.",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "No Cops"
+        },
+        "Rule 14": {
+            "priority": 14,
+            "short_name": "No duplicate posts and also no posts from reactionary websites.",
+            "description": "If there are two of the exact same post, the post that was put up first will be allowed to stay up. This will help maintain a high quality sub. also all reactionary websites are banned.",
+            "created_utc": 1652979917,
+            "kind": "all",
+            "violation_reason": "No duplicate posts and also no posts from reactionary websites."
+        }
+    }
+}

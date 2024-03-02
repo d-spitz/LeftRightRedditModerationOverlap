@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1030.4683"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-533.589111 -138.000000 1030.468262 302.000000" height="450.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_TheDonaldTrump2024"
+              d="M -50.129887,-40.398537 A 60.841450,60.841450 0,0 1,-17.777424,2.250280"
+              stroke="#f23665" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_libsofreddit"
+              d="M -73.035133,-39.239609 A 161.189810,161.189810 0,0 1,-245.402588,-64.485291"
+              stroke="#f23665" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_walkaway"
+              d="M -72.612244,-51.231312 A 51.001356,51.001356 0,0 1,-92.107590,-85.877342"
+              stroke="#f23665" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_RedpilledRogan"
+              d="M -62.968498,-32.375126 A 97.706098,97.706098 0,0 1,-124.905708,43.952271"
+              stroke="#f23665" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_BigDongDeSantis"
+              d="M -71.051445,-36.365891 A 178.796405,178.796405 0,0 1,-265.472107,-11.193189"
+              stroke="#f23665" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_Conservative"
+              d="M -49.856937,-41.196644 A 127.273758,127.273758 0,0 1,29.637154,44.205956"
+              stroke="#f23665" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_Republican"
+              d="M -54.627155,-55.088722 A 120.859129,120.859129 0,0 1,60.408840,-99.687630"
+              stroke="#f23665" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_AskThe_Donald id_conservatives"
+              d="M -54.330242,-54.873112 A 57.439141,57.439141 0,0 1,-10.052130,-73.029800"
+              stroke="#f23665" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_tuesday id_Republican"
+              d="M 107.078621,-21.587597 A 75.593710,75.593710 0,0 1,72.705757,-83.215752"
+              stroke="#f23665" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_TheRedPill id_RedPillWomen"
+              d="M 442.001648,84.368340 A 60.674372,60.674372 0,0 1,428.550751,31.360950"
+              stroke="#f23665" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_libsofreddit id_HillaryForPrison"
+              d="M -263.761078,-68.696724 A 80.114851,80.114851 0,0 1,-338.586761,-89.856636"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_libsofreddit id_walkaway"
+              d="M -245.510223,-79.433769 A 136.219833,136.219833 0,0 1,-103.076714,-103.272552"
+              stroke="#f23665" stroke-width="14.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_libsofreddit id_ExDemFoyer"
+              d="M -253.958496,-61.038151 A 145.064704,145.064704 0,0 1,-350.452667,62.510033"
+              stroke="#f23665" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_libsofreddit id_FauciForPrison"
+              d="M -261.269012,-64.426582 A 156.626326,156.626326 0,0 1,-430.094971,-39.498814"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_libsofreddit id_RedpilledRogan"
+              d="M -242.661819,-69.936035 A 140.065912,140.065912 0,0 1,-136.432724,37.013672"
+              stroke="#f23665" stroke-width="11.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_libsofreddit id_RedpilledElon"
+              d="M -251.369247,-61.206154 A 81.354812,81.354812 0,0 1,-282.361786,12.652013"
+              stroke="#f23665" stroke-width="13.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_libsofreddit id_EnoughAntifaSpam"
+              d="M -249.567993,-82.099930 A 77.452599,77.452599 0,0 1,-189.033905,-126.858711"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_libsofreddit id_Patriot911"
+              d="M -259.780884,-63.115910 A 205.055114,205.055114 0,0 1,-476.957214,9.173221"
+              stroke="#f23665" stroke-width="11.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_libsofreddit id_Conservative_News"
+              d="M -245.307526,-64.588654 A 145.079149,145.079149 0,0 1,-210.305939,88.291687"
+              stroke="#f23665" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_libsofreddit id_BigDongDeSantis"
+              d="M -251.470627,-61.187752 A 49.898527,49.898527 0,0 1,-266.509369,-22.110157"
+              stroke="#f23665" stroke-width="13.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HillaryForPrison id_walkaway"
+              d="M -336.863861,-104.522514 A 211.532495,211.532495 0,0 1,-101.991341,-105.140930"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HillaryForPrison id_ExDemFoyer"
+              d="M -340.414429,-88.558029 A 136.926938,136.926938 0,0 1,-353.670441,57.698502"
+              stroke="#f23665" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HillaryForPrison id_FauciForPrison"
+              d="M -350.778656,-88.287308 A 89.935782,89.935782 0,0 1,-429.042511,-43.424622"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HillaryForPrison id_RedpilledRogan"
+              d="M -334.831635,-98.314125 A 213.598853,213.598853 0,0 1,-138.122192,37.468803"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HillaryForPrison id_RedpilledElon"
+              d="M -336.377075,-92.513992 A 107.381740,107.381740 0,0 1,-289.138458,8.365011"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HillaryForPrison id_EnoughAntifaSpam"
+              d="M -338.004883,-105.882980 A 141.272107,141.272107 0,0 1,-188.114044,-131.774597"
+              stroke="#f23665" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HillaryForPrison id_Patriot911"
+              d="M -349.394501,-87.709389 A 146.079210,146.079210 0,0 1,-476.519440,5.909376"
+              stroke="#f23665" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HillaryForPrison id_Conservative_News"
+              d="M -335.548584,-94.230721 A 196.709587,196.709587 0,0 1,-213.816284,87.568436"
+              stroke="#f23665" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HillaryForPrison id_BigDongDeSantis"
+              d="M -335.239014,-95.170799 A 90.806500,90.806500 0,0 1,-275.701294,-25.860188"
+              stroke="#f23665" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Conservative id_Republican"
+              d="M 25.015337,45.310501 A 145.859929,145.859929 0,0 1,63.679623,-87.521179"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Conservative id_benshapiro"
+              d="M 52.486717,50.003239 A 51.460318,51.460318 0,0 1,75.162216,40.868660"
+              stroke="#f23665" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Conservative id_conservatives"
+              d="M 13.999655,51.735889 A 123.938988,123.938988 0,0 1,-2.578995,-60.137047"
+              stroke="#f23665" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Republican id_conservatives"
+              d="M 64.954140,-86.312805 A 63.463202,63.463202 0,0 1,13.546271,-68.812073"
+              stroke="#f23665" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_walkaway id_ExDemFoyer"
+              d="M -96.800133,-86.854568 A 261.800603,261.800603 0,0 1,-350.021423,66.317215"
+              stroke="#f23665" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_walkaway id_FauciForPrison"
+              d="M -100.722214,-89.527832 A 292.840743,292.840743 0,0 1,-430.138672,-39.412155"
+              stroke="#f23665" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_walkaway id_RedpilledRogan"
+              d="M -88.290985,-86.457253 A 126.071760,126.071760 0,0 1,-126.705353,40.626328"
+              stroke="#f23665" stroke-width="12.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_walkaway id_RedpilledElon"
+              d="M -97.094955,-86.984802 A 191.884402,191.884402 0,0 1,-280.660095,19.185236"
+              stroke="#f23665" stroke-width="13.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_walkaway id_EnoughAntifaSpam"
+              d="M -103.886833,-95.224770 A 76.431036,76.431036 0,0 1,-172.591385,-119.517189"
+              stroke="#f23665" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_walkaway id_Patriot911"
+              d="M -99.758881,-88.647629 A 340.200411,340.200411 0,0 1,-477.205322,9.890778"
+              stroke="#f23665" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_walkaway id_Conservative_News"
+              d="M -91.348877,-85.894951 A 192.272738,192.272738 0,0 1,-204.723465,93.789574"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_walkaway id_BigDongDeSantis"
+              d="M -98.296509,-87.617622 A 166.746578,166.746578 0,0 1,-264.514069,-13.947956"
+              stroke="#f23665" stroke-width="12.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_ExDemFoyer id_FauciForPrison"
+              d="M -369.780487,62.065510 A 112.607939,112.607939 0,0 1,-438.967224,-33.840881"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_ExDemFoyer id_RedpilledRogan"
+              d="M -352.378479,58.984608 A 188.596515,188.596515 0,0 1,-143.417068,41.861290"
+              stroke="#f23665" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_ExDemFoyer id_RedpilledElon"
+              d="M -356.188385,56.160011 A 70.030903,70.030903 0,0 1,-300.743347,18.562214"
+              stroke="#f23665" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_ExDemFoyer id_EnoughAntifaSpam"
+              d="M -358.832214,55.432613 A 220.696733,220.696733 0,0 1,-188.859116,-125.520599"
+              stroke="#f23665" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_ExDemFoyer id_Patriot911"
+              d="M -370.258820,67.177620 A 116.446897,116.446897 0,0 1,-481.531158,14.982672"
+              stroke="#f23665" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_ExDemFoyer id_Conservative_News"
+              d="M -350.742096,61.701748 A 124.678683,124.678683 0,0 1,-220.993118,90.293823"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_ExDemFoyer id_BigDongDeSantis"
+              d="M -357.967072,55.587139 A 98.533080,98.533080 0,0 1,-284.374725,-14.173485"
+              stroke="#f23665" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FauciForPrison id_RedpilledRogan"
+              d="M -429.586212,-47.399822 A 264.954925,264.954925 0,0 1,-140.858658,38.972332"
+              stroke="#f23665" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FauciForPrison id_RedpilledElon"
+              d="M -429.243286,-46.164452 A 134.262537,134.262537 0,0 1,-296.091492,9.821951"
+              stroke="#f23665" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FauciForPrison id_EnoughAntifaSpam"
+              d="M -433.142395,-52.252701 A 227.834591,227.834591 0,0 1,-188.566544,-130.615601"
+              stroke="#f23665" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FauciForPrison id_Patriot911"
+              d="M -441.291290,-34.045166 A 57.607235,57.607235 0,0 1,-476.855133,3.594741"
+              stroke="#f23665" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FauciForPrison id_Conservative_News"
+              d="M -429.040588,-44.652870 A 221.726956,221.726956 0,0 1,-217.911774,88.319664"
+              stroke="#f23665" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FauciForPrison id_BigDongDeSantis"
+              d="M -429.984741,-48.382057 A 139.343485,139.343485 0,0 1,-281.620758,-22.923927"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RedpilledRogan id_RedpilledElon"
+              d="M -143.943787,51.253174 A 132.233805,132.233805 0,0 1,-283.585205,25.439360"
+              stroke="#f23665" stroke-width="11.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RedpilledRogan id_EnoughAntifaSpam"
+              d="M -142.354584,40.385143 A 150.075512,150.075512 0,0 1,-182.480545,-117.991692"
+              stroke="#f23665" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RedpilledRogan id_Patriot911"
+              d="M -143.539520,52.055649 A 295.363249,295.363249 0,0 1,-479.192169,13.088284"
+              stroke="#f23665" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RedpilledRogan id_Conservative_News"
+              d="M -138.840576,56.367947 A 78.507230,78.507230 0,0 1,-203.938950,97.817123"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RedpilledRogan id_BigDongDeSantis"
+              d="M -144.676208,48.899090 A 127.748662,127.748662 0,0 1,-269.202271,-7.215589"
+              stroke="#f23665" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RedpilledElon id_EnoughAntifaSpam"
+              d="M -290.246735,8.255095 A 153.115750,153.115750 0,0 1,-188.580826,-124.436760"
+              stroke="#f23665" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RedpilledElon id_Patriot911"
+              d="M -299.256897,23.576799 A 163.660831,163.660831 0,0 1,-478.743347,12.563916"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RedpilledElon id_Conservative_News"
+              d="M -280.852356,20.449720 A 91.940304,91.940304 0,0 1,-215.881042,87.727478"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RedpilledElon id_BigDongDeSantis"
+              d="M -291.075958,8.253213 A 31.525846,31.525846 0,0 1,-282.495331,-9.793834"
+              stroke="#f23665" stroke-width="11.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_EnoughAntifaSpam id_Patriot911"
+              d="M -184.076141,-118.759529 A 279.669967,279.669967 0,0 1,-476.750824,8.383402"
+              stroke="#f23665" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_EnoughAntifaSpam id_Conservative_News"
+              d="M -174.355469,-118.399887 A 189.947922,189.947922 0,0 1,-207.005066,90.437233"
+              stroke="#f23665" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_EnoughAntifaSpam id_BigDongDeSantis"
+              d="M -179.959549,-117.391907 A 122.457677,122.457677 0,0 1,-264.674194,-18.451721"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Patriot911 id_Conservative_News"
+              d="M -476.965576,3.208844 A 239.644537,239.644537 0,0 1,-220.001953,89.479149"
+              stroke="#f23665" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Patriot911 id_BigDongDeSantis"
+              d="M -479.033051,-0.501171 A 177.852039,177.852039 0,0 1,-283.222992,-20.790682"
+              stroke="#f23665" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Conservative_News id_BigDongDeSantis"
+              d="M -223.036179,92.965828 A 107.160475,107.160475 0,0 1,-275.510681,-5.818122"
+              stroke="#f23665" stroke-width="9.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#f23665" r="11.522181" cx="-61.836956"
+                class="id_AskThe_Donald" cy="-44.848015" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="2.0038576"/>
+        <circle fill-opacity="1.0" fill="#eb1047" r="10.710781" cx="203.12354"
+                class="id_AskTrumpSupporters" cy="124.75166" stroke="#a40b31"
+                stroke-opacity="1.0" stroke-width="1.8627446"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="9.490695" cx="-16.659575"
+                class="id_TheDonaldTrump2024" cy="12.505508" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.6505557"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="9.494176" cx="116.09464"
+                class="id_tuesday" cy="-16.566761" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.651161"/>
+        <circle fill-opacity="1.0" fill="#eb1047" r="9.5278635" cx="247.07031"
+                class="id_unvaccinated" cy="-46.66213" stroke="#a40b31"
+                stroke-opacity="1.0" stroke-width="1.6570197"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="9.2" cx="449.1649"
+                class="id_TheRedPill" cy="91.34602" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#eb1047" r="9.68316" cx="251.15274"
+                class="id_TheTrumpZone" cy="68.55935" stroke="#a40b31"
+                stroke-opacity="1.0" stroke-width="1.6840278"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="10.010273" cx="-253.36336"
+                class="id_libsofreddit" cy="-71.902596" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.740917"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="10.138521" cx="-345.85046"
+                class="id_HillaryForPrison" cy="-98.1441" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.7632211"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="27.6" cx="34.27751"
+                class="id_Conservative" cy="73.8449" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#eb1047" r="10.123828" cx="287.37708"
+                class="id_Capitalism" cy="96.58923" stroke="#a40b31"
+                stroke-opacity="1.0" stroke-width="1.7606657"/>
+        <circle fill-opacity="1.0" fill="#eb1047" r="10.075071" cx="229.98741"
+                class="id_Freethought" cy="-126.08934" stroke="#a40b31"
+                stroke-opacity="1.0" stroke-width="1.7521863"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="12.443944" cx="73.603485"
+                class="id_Republican" cy="-96.71195" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="2.164164"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="11.032843" cx="1.814044"
+                class="id_conservatives" cy="-71.295654" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.9187552"/>
+        <circle fill-opacity="1.0" fill="#eb1047" r="9.975391" cx="200.36684"
+                class="id_prolife" cy="153.1001" stroke="#a40b31"
+                stroke-opacity="1.0" stroke-width="1.7348505"/>
+        <circle fill-opacity="1.0" fill="#eb1047" r="15.322804" cx="246.19957"
+                class="id_MensRights" cy="-76.37864" stroke="#a40b31"
+                stroke-opacity="1.0" stroke-width="2.6648355"/>
+        <circle fill-opacity="1.0" fill="#eb1047" r="11.370042" cx="262.4882"
+                class="id_gunpolitics" cy="-5.8854523" stroke="#a40b31"
+                stroke-opacity="1.0" stroke-width="1.9773985"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="10.197209" cx="86.23926"
+                class="id_benshapiro" cy="40.47824" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.7734277"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="11.239695" cx="-92.01148"
+                class="id_walkaway" cy="-98.094025" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.9547294"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="9.383592" cx="-360.1914"
+                class="id_ExDemFoyer" cy="65.5412" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.6319289"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="9.399992" cx="-439.24045"
+                class="id_FauciForPrison" cy="-44.05461" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.6347811"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="9.39436" cx="-134.63106"
+                class="id_RedpilledRogan" cy="47.06473" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.6338017"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="9.257409" cx="-290.68417"
+                class="id_RedpilledElon" cy="18.307983" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.609984"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="9.355246" cx="-178.88564"
+                class="id_EnoughAntifaSpam" cy="-127.503784" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.6269991"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="9.373625" cx="-486.7039"
+                class="id_Patriot911" cy="6.2046847" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.6301956"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="9.325125" cx="-214.0743"
+                class="id_Conservative_News" cy="97.70116" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.6217608"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="9.283672" cx="-274.42407"
+                class="id_BigDongDeSantis" cy="-15.850395" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.6145517"/>
+        <circle fill-opacity="1.0" fill="#f23665" r="10.42239" cx="432.0335"
+                class="id_RedPillWomen" cy="20.580904" stroke="#a92546"
+                stroke-opacity="1.0" stroke-width="1.8125895"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="18" x="-61.836956" y="-40.367058" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_AskThe_Donald">
+            AskThe_Donald
+        </text>
+        <text font-size="18" x="203.12354" y="129.10664" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_AskTrumpSupporters">
+            AskTrumpSupporters
+        </text>
+        <text font-size="18" x="-16.659575" y="16.860489" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_TheDonaldTrump2024">
+            TheDonaldTrump2024
+        </text>
+        <text font-size="18" x="116.09464" y="-12.211781" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_tuesday">
+            tuesday
+        </text>
+        <text font-size="18" x="247.07031" y="-43.17873" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_unvaccinated">
+            unvaccinated
+        </text>
+        <text font-size="18" x="449.1649" y="94.82942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_TheRedPill">
+            TheRedPill
+        </text>
+        <text font-size="18" x="251.15274" y="72.91433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_TheTrumpZone">
+            TheTrumpZone
+        </text>
+        <text font-size="18" x="-253.36336" y="-68.4192" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_libsofreddit">
+            libsofreddit
+        </text>
+        <text font-size="18" x="-345.85046" y="-93.789116" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_HillaryForPrison">
+            HillaryForPrison
+        </text>
+        <text font-size="18" x="34.27751" y="77.3283" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Conservative">
+            Conservative
+        </text>
+        <text font-size="18" x="287.37708" y="100.944214" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Capitalism">
+            Capitalism
+        </text>
+        <text font-size="18" x="229.98741" y="-121.73436" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Freethought">
+            Freethought
+        </text>
+        <text font-size="18" x="73.603485" y="-92.35697" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Republican">
+            Republican
+        </text>
+        <text font-size="18" x="1.814044" y="-67.812256" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_conservatives">
+            conservatives
+        </text>
+        <text font-size="18" x="200.36684" y="157.45508" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_prolife">
+            prolife
+        </text>
+        <text font-size="18" x="246.19957" y="-72.02366" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_MensRights">
+            MensRights
+        </text>
+        <text font-size="18" x="262.4882" y="-1.5304718" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_gunpolitics">
+            gunpolitics
+        </text>
+        <text font-size="18" x="86.23926" y="44.83322" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_benshapiro">
+            benshapiro
+        </text>
+        <text font-size="18" x="-92.01148" y="-93.739044" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_walkaway">
+            walkaway
+        </text>
+        <text font-size="18" x="-360.1914" y="69.758484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_ExDemFoyer">
+            ExDemFoyer
+        </text>
+        <text font-size="18" x="-439.24045" y="-40.571213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_FauciForPrison">
+            FauciForPrison
+        </text>
+        <text font-size="18" x="-134.63106" y="51.419712" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_RedpilledRogan">
+            RedpilledRogan
+        </text>
+        <text font-size="18" x="-290.68417" y="22.662964" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_RedpilledElon">
+            RedpilledElon
+        </text>
+        <text font-size="18" x="-178.88564" y="-123.1488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EnoughAntifaSpam">
+            EnoughAntifaSpam
+        </text>
+        <text font-size="18" x="-486.7039" y="9.688084" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Patriot911">
+            Patriot911
+        </text>
+        <text font-size="18" x="-214.0743" y="102.18211" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Conservative_News">
+            Conservative_News
+        </text>
+        <text font-size="18" x="-274.42407" y="-11.495415" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_BigDongDeSantis">
+            BigDongDeSantis
+        </text>
+        <text font-size="18" x="432.0335" y="24.064302" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_RedPillWomen">
+            RedPillWomen
+        </text>
+    </g>
+</svg>

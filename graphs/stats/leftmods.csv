@@ -1,0 +1,23 @@
+Id,Label,0,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Clustering Coefficient,componentnumber,pageranks,modularity_class,stat_inf_class,clustering,triangles
+esist,esist,120631,0,0,0,0,0,0,0,0,0.014917,0,0,0,0
+Liberal,Liberal,116643,1,2,1,1,1,0,0,1,0.098895,3,3,0,0
+CommunismMemes,CommunismMemes,127765,0,0,0,0,0,0,0,2,0.014917,1,1,0,0
+LeopardsAteMyFace,LeopardsAteMyFace,1009335,1,1,1,1,1,0,0,3,0.098895,7,8,0,0
+WitchesVsPatriarchy,WitchesVsPatriarchy,744774,0,0,0,0,0,0,0,4,0.014917,2,2,0,0
+SandersForPresident,SandersForPresident,508014,1,4,1,1,1,0,0,5,0.098895,15,16,0,0
+democrats,democrats,436047,1,2,1,1,1,0,0,1,0.098895,3,3,0,0
+Feminism,Feminism,283088,0,0,0,0,0,0,0,6,0.014917,4,4,0,0
+punk,punk,257330,0,0,0,0,0,0,0,7,0.014917,5,5,0,0
+Political_Revolution,Political_Revolution,171712,1,1,1,1,1,0,0,8,0.098895,17,6,0,0
+communism101,communism101,169939,0,0,0,0,0,0,0,9,0.014917,6,7,0,0
+antiwork,antiwork,2798695,1,1,1,1,1,0,0,3,0.098895,7,8,0,0
+CapitalismVSocialism,CapitalismVSocialism,102520,0,0,0,0,0,0,0,10,0.014917,8,9,0,0
+Anarchism,Anarchism,265469,0,0,0,0,0,0,0,11,0.014917,9,10,0,0
+BreadTube,BreadTube,165898,0,0,0,0,0,0,0,12,0.014917,10,11,0,0
+Anarchy101,Anarchy101,133485,0,0,0,0,0,0,0,13,0.014917,11,12,0,0
+Socialism_101,Socialism_101,152717,0,0,0,0,0,0,0,14,0.014917,12,13,0,0
+CriticalTheory,CriticalTheory,139744,0,0,0,0,0,0,0,15,0.014917,13,14,0,0
+ParlerWatch,ParlerWatch,166938,0,0,0,0,0,0,0,16,0.014917,14,15,0,0
+AOC,AOC,147873,1,4,1,1,1,0,0,5,0.098895,15,16,0,0
+OurPresident,OurPresident,140374,0,0,0,0,0,0,0,17,0.014917,16,17,0,0
+WorkersStrikeBack,WorkersStrikeBack,148301,1,1,1,1,1,0,0,8,0.098895,17,6,0,0

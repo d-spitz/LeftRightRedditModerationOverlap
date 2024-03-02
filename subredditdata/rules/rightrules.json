@@ -1,0 +1,1937 @@
+{
+    "AskThe_Donald": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "No Disrespectful Comments or Posts",
+            "description": "I don't like this post, it hurts my feelings.",
+            "created_utc": 1652979566,
+            "kind": "all",
+            "violation_reason": "I don't like this post, it hurts my feelings."
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "TDS - Anti-Trump and Anti-Conservative",
+            "description": "No anti-Trump or anti-Conservative posts and comments.  Participate in good faith.",
+            "created_utc": 1652979566,
+            "kind": "all",
+            "violation_reason": "TDS - Anti-Trump and Anti-Conservative"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Spam",
+            "description": "Do not paste the same post/comment more than once.  Self-promotion without prior approval is prohibited.",
+            "created_utc": 1657504160,
+            "kind": "all",
+            "violation_reason": "Spam"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Doxxing",
+            "description": "Doxxing or Targeted Harassment are not allowed.",
+            "created_utc": 1652979566,
+            "kind": "all",
+            "violation_reason": "Doxxing"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Vote Manipulation / Brigading",
+            "description": "Do not encourage others to tamper with outside subreddits. \n \nNo linking to outside subreddits with malicious intentions.\n\nBegging for upvotes is prohibited.",
+            "created_utc": 1652979566,
+            "kind": "all",
+            "violation_reason": "Vote Manipulation / Brigading"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Off Topic",
+            "description": "Off topic posts/comments are not allowed.\n\nNo Reddit drama/meta.",
+            "created_utc": 1652979566,
+            "kind": "all",
+            "violation_reason": "Removed for Off Topic"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "No Repetitive Posts",
+            "description": "Use the search function to see if your question has been asked recently. Repetitive posts will be removed. Avoid the use of comments reported by anonymous/unnamed sources or unverified third parties.",
+            "created_utc": 1657504691,
+            "kind": "all",
+            "violation_reason": "No Repetitive Posts"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "Do Not Post Concerns About r/AskThe_Donald",
+            "description": "Please direct all questions or concerns to the mods via modmail.",
+            "created_utc": 1657505130,
+            "kind": "all",
+            "violation_reason": "Do Not Post Concerns About r/AskThe_Donald"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "No Threatening / Harassing Behavior",
+            "description": "You will be permanently banned.\n\nKeep everything within Reddit's TOS.",
+            "created_utc": 1657504748,
+            "kind": "all",
+            "violation_reason": "No Threatening / Harassing Behavior"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "Qanon and Other Conspiracies",
+            "description": "If you post about Qanon, flat-earth, or  thoroughly debunked MSM propaganda, you will be justifiably mocked.",
+            "created_utc": 1657504832,
+            "kind": "all",
+            "violation_reason": "Qanon and Other Conspiracies"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "Foreign Interference",
+            "description": "No foreigners are allowed to comment or post in regards to US politics.  That would make you the same as the Russians.  Europoors get bent.",
+            "created_utc": 1684275986,
+            "kind": "all",
+            "violation_reason": "Foreign Interference"
+        }
+    },
+    "AskTrumpSupporters": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Be civil and sincere in all interactions and assume the same of others.",
+            "description": "Be civil and sincere in your interactions. \nAddress the point, not the person. The subject of your sentence should be a noun directly related to the conversation topic. \"You\" statements are suspect.\nConverse in good faith with a focus on the issues being discussed, not the individual(s) discussing them. Assume the other person is doing the same, or walk away.",
+            "created_utc": 1652990666,
+            "kind": "all",
+            "violation_reason": "Be civil and sincere in all interactions and assume the same of others."
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Top level comments by Trump Supporters only.",
+            "description": "Only Trump Supporters may make top level comments unless otherwise specified by topic flair (mod discretion).",
+            "created_utc": 1652990666,
+            "kind": "comment",
+            "violation_reason": "Top level comments by Trump Supporters only."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Undecided and NS comments must be clarifying in nature with an inquisitive intent.",
+            "description": "Undecided and nonsupporter comments must be clarifying in nature with an intent to explore the stated view of Trump Supporters, subject to limited [exceptions](https://www.reddit.com/r/AskTrumpSupporters/wiki/index/#wiki_exceptions_to_the_rules).\n\nFor more detail, read this [primer on Rule 3](https://www.reddit.com/r/AskTrumpSupporters/wiki/rule-3).",
+            "created_utc": 1652990666,
+            "kind": "all",
+            "violation_reason": "Undecided and NS comments must be clarifying in nature with an inquisitive intent."
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Submissions must be open ended questions directed at Trump Supporters, containing sources/context.",
+            "description": "New topic submissions must be neutrally worded open ended questions directed at Trump Supporters and provide adequate sources and/or context to facilitate good discussion. OP should not take their own position and ask for it to be refuted. Don't answer your own question. New submissions are filtered for mod review and are subject to [posting guidelines](https://www.reddit.com/r/AskTrumpSupporters/wiki/index#wiki_posting_guidelines).",
+            "created_utc": 1652990666,
+            "kind": "link",
+            "violation_reason": "Submissions must be open ended questions directed at Trump Supporters, containing sources/context."
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Do not link to other subreddits or threads within them.",
+            "description": "Do not link to other subreddits or threads within them to avoid vote brigading or accusations of brigading. Users found to be the source of incoming brigades may be subject to a ban.",
+            "created_utc": 1652990666,
+            "kind": "all",
+            "violation_reason": "Do not link to other subreddits or threads within them."
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Report rule violations to the mods. Do not comment on them or accuse others of rule breaking.",
+            "description": "Report suspected rule breaking behavior to the mods. Do not comment on it or accuse others of breaking the rules.\n\nMeta discussion is prohibited unless otherwise noted.",
+            "created_utc": 1652990666,
+            "kind": "all",
+            "violation_reason": "Proxy modding"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Moderators are the final arbiter of the rules and will exercise discretion as needed.",
+            "description": "Moderators are the final arbiter of the rules and will exercise discretion as needed in order to maintain productive discussion.",
+            "created_utc": 1652990666,
+            "kind": "all",
+            "violation_reason": "Moderators are the final arbiter of the rules and will exercise discretion as needed."
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "Flair is required to participate.",
+            "description": "Flair is required to participate. Message the moderators if you need assistance selecting your flair.\n\nAccounts must also be 90 days old. If you don't meet this requirement, use the time to observe and fully understand the rules and wiki before joining.",
+            "created_utc": 1652990666,
+            "kind": "all",
+            "violation_reason": "Flair is required to participate."
+        }
+    },
+    "TheDonaldTrump2024": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)",
+            "description": "Don't violate Reddit [content policy](https://bit.ly/3qhsDMD). It covers off-topic posts, spamming, disparaging the sub, calls for violence, attacks, doxing, targeting users or mods or subs, harassment of users or people based on \"identity or vulnerability.\" No shitposts about LGBT, [\"sexual minorities\"](https://bit.ly/34IYX2z) or pedos. If you violate Reddit.com rules you will be banned and may be reported to admins.",
+            "created_utc": 1652981845,
+            "kind": "all",
+            "violation_reason": "#1 Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Trolling, Bad Faith Participation",
+            "description": "No type of trolling will be tolerated on r/TheDonaldTrump2024.",
+            "created_utc": 1652981845,
+            "kind": "all",
+            "violation_reason": "#2 Trolling, Bad Faith Participation"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Racism and Anti-Semitism",
+            "description": "Racism and Anti-Semitism will not be tolerated. You have been warned.",
+            "created_utc": 1652981845,
+            "kind": "all",
+            "violation_reason": "#3 Racism and Anti-Semitism"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Doxing and Screenshots (Censor User/Sub Names, No Ban Messages)",
+            "description": "No screenshots of ban messages. Yes, we know the auth-left circlejerk subreddits violate the rules frequently with automated bans. All other screenshots outing The Left need to have usernames/subreddit names marked out. Releasing of personal information (aka Doxing) is not allowed. Per admins, No \"meta content with the purpose of targeting another community or calling out any other users, moderators, or subreddits.\"",
+            "created_utc": 1652981845,
+            "kind": "all",
+            "violation_reason": "#4 Doxing and Screenshots (Censor User/Sub Names, No Ban Messages)"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Vote Manipulation / Brigading",
+            "description": "No vote manipulation or asking for votes.",
+            "created_utc": 1652981845,
+            "kind": "all",
+            "violation_reason": "#5 Vote Manipulation/Brigading"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Ban Appeals, Suggestions, Concerns",
+            "description": "To appeal a ban, make a general suggestion or voice a concern - message our moderator team. DO NOT PM ANY MODERATOR'S PERSONAL REDDIT ACCOUNT.",
+            "created_utc": 1652981845,
+            "kind": "all",
+            "violation_reason": "#6 Ban Appeals, Suggestions, Concerns"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "#7Threats towards Government Officials",
+            "description": "All threats of violence, including assassination threats towards Biden or any other official, regardless of political affiliation, should be reported immediately to the FBI, please include a screenshot and an \u201cArchived\u201d link. We recommend https://Archive.is.",
+            "created_utc": 1652981845,
+            "kind": "all",
+            "violation_reason": "#7 Threats towards Government Officials"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "Karma Requirement",
+            "description": "Newly-made accounts are not allowed to post in r/TheDonaldTrump2024. We reserve the right to decide the age and karma requirements for all accounts that are allowed to post here and will not publish those requirements.",
+            "created_utc": 1652981845,
+            "kind": "all",
+            "violation_reason": "#8 Karma Requirement"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "We are Not Your Personal Army",
+            "description": "Do not treat this sub as place for political recruiting or calls to action against individuals or groups.",
+            "created_utc": 1652981845,
+            "kind": "all",
+            "violation_reason": "#9 We are Not Your Personal Army"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "Do not be Anti-Trump",
+            "description": "If the main point of your post or comment is anti-Trump, you will probably be banned. No Anti-Trump content",
+            "created_utc": 1652981845,
+            "kind": "all",
+            "violation_reason": "#10 Do not be Anti-Trump"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "No Spam",
+            "description": "Do not post spam. This includes posting links to selling Trump T-Shirt and collectables without prior permission.",
+            "created_utc": 1661668332,
+            "kind": "all",
+            "violation_reason": "#11 No Spam"
+        },
+        "Rule 11": {
+            "priority": 11,
+            "short_name": "No Direct Links To Other subs",
+            "description": "If you wish to share a post from another sub please do so by using the crosspost Reddit function. Direct links will be removed. No Excessive crossposting. Please post no more than 2 crossposts a day and spread them out by a few hours.",
+            "created_utc": 1661668427,
+            "kind": "all",
+            "violation_reason": "#12 No Direct Links To Other subs & Crossposting"
+        },
+        "Rule 12": {
+            "priority": 12,
+            "short_name": "No Off-Topic post",
+            "description": "Off-Topic posts will be removed at moderator discretion.",
+            "created_utc": 1671585343,
+            "kind": "link",
+            "violation_reason": "Rule #13 No Off-Topic post"
+        },
+        "Rule 13": {
+            "priority": 13,
+            "short_name": "Ban Evasion",
+            "description": "If you are here evading a ban you will be banned again",
+            "created_utc": 1692865019,
+            "kind": "all",
+            "violation_reason": "Ban Evasion"
+        }
+    },
+    "tuesday": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "No Low Quality Posts/Comments.",
+            "description": "- Be Civil\n- No personal attacks, excessive cussing, arguing in bad faith\n- [Civility](https://www.merriam-webster.com/dictionary/civility)\n- No Bigotry of any kind\n- All Comments Must Be On Topic\n- All Comments must contribute substantially to the discussion\n- Short comments lack nuance, avoid them whenever possible\n- No Utilization Of r/Tuesday For Drama. No cross posting, linking to other subs, tagging users, etc\n- Text posts must be approved by the mods before being posted",
+            "created_utc": 1652978875,
+            "kind": "all",
+            "violation_reason": "No Low Quality Posts/Comments."
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Tuesday Is A Center Right Sub",
+            "description": "- No Promotion Of Non-Center-Right Ideologies\n- No Utilization Of r/Tuesday As A Debate Platform\n- No Utilization of r/Tuesday to ask leading questions\n- Left Visitors are restricted from making top-level comments\n- No Advocation Of Illiberal Policies\n- No Extreme Partisanship\n- No Purity Testing",
+            "created_utc": 1652978875,
+            "kind": "all",
+            "violation_reason": "Tuesday Is A Center Right Sub"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Flairs Are Mandatory/Inappropriate Flair",
+            "description": "- All Users Must Have A Flair That Identifies Their Political Leaning\n- Users that misidentify themselves on purpose will be permanently banned from the sub\n- [Our Flairs](https://www.reddit.com/r/tuesday/wiki/textflairs)",
+            "created_utc": 1652978875,
+            "kind": "all",
+            "violation_reason": "Flairs Are Mandatory/Inappropriate Flair"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Tuesday Is A Policy Subreddit",
+            "description": "- Submissions Should Be About Policy only\n- Tuesdays Are Reserved For Submissions Of White Papers\n- Self Posts Are Reserved For Effort Posts",
+            "created_utc": 1652978875,
+            "kind": "all",
+            "violation_reason": "Tuesday Is A Policy Subreddit"
+        }
+    },
+    "unvaccinated": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "NO MEDICAL ADVICE ALLOWED",
+            "description": "It is not recommended to give medical advice, if you must, please use the term, I am not a medical professional, but this is what worked for me __________.\n\nAutomatic Ban",
+            "created_utc": 1682005917,
+            "kind": "all",
+            "violation_reason": "NO MEDICAL ADVICE ALLOWED"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "This is not a Dating/Hook Up Sub",
+            "description": "Post will be removed.",
+            "created_utc": 1700788815,
+            "kind": "all",
+            "violation_reason": "This is not a Dating/Hook Up Sub"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "DO NOT BE RUDE - Show empathy to one another.",
+            "description": "Whether you're vaxxed or unvaxxed, if you're not going to have any empathy, it's instant ban. If you're not going to control your emotions and result to namecalling, you will not be able to return and partake.",
+            "created_utc": 1682005945,
+            "kind": "all",
+            "violation_reason": "DO NOT BE RUDE - Show empathy to one another."
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No Crossposting from other subreddits",
+            "description": "",
+            "created_utc": 1682005976,
+            "kind": "all",
+            "violation_reason": "No Crossposting from other subreddits"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "NO VAXX MEMES",
+            "description": "",
+            "created_utc": 1682005986,
+            "kind": "all",
+            "violation_reason": "NO VAXX MEMES"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "No MULTIPLE Posting unreliable links",
+            "description": "",
+            "created_utc": 1682006068,
+            "kind": "all",
+            "violation_reason": "No MULTIPLE Posting unreliable links"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "NO SURVEYS ALLOWED",
+            "description": "Message dbtee for permission.",
+            "created_utc": 1682006240,
+            "kind": "all",
+            "violation_reason": "NO SURVEYS ALLOWED"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "Trolling",
+            "description": "NEW RULE ADDED - some of you like to play the victim when you fully know how you're behaving and speaking to others. UNVAXX OR VAXXED - instant ban while you whine in the private messages.",
+            "created_utc": 1684265108,
+            "kind": "all",
+            "violation_reason": "Trolling"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "Stop being annoying",
+            "description": "",
+            "created_utc": 1707091843,
+            "kind": "all",
+            "violation_reason": "Stop being annoying"
+        }
+    },
+    "TheRedPill": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Rule Zero: Stay On Topic",
+            "description": "TRP's mission is to discuss men's identity, sexual strategy, and options in the context of our current global culture **for the benefit of men**. Anyone who does not share that goal will be banned the instant we detect them. We are not interested in debating or defending our experiences to those who disagree with the red pill, nor do we want to clog up our threads defending the morality of our choices. \n\n**Do not crosspost from other subs.**  It will result in a very lengthy or permanent ban. ",
+            "created_utc": 1654271100,
+            "kind": "all",
+            "violation_reason": "Rule Zero: Stay On Topic"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "No moralizing.",
+            "description": "Nothing in TRP prohibits you from having and following a code of ethics. You're welcome to discuss *why* certain morals or values might exist, or their benefit in the context of strategy, however arguments that stem from morality (i.e. this is evil, therefore) are strictly prohibited. \n",
+            "created_utc": 1654271100,
+            "kind": "all",
+            "violation_reason": "No moralizing."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Personal advice questions go to www.forums.red/i/asktrp",
+            "description": "If you are asking for advice for a specific scenario, or your post contains a story of something that happened to you *and isn't a field report*, it belongs in https://www.forums.red/i/asktrp, or in a askTRP megathread.\n\n\n**Individuals asking personal advice questions on the main sub, as well as individuals who answer them, or give any advice other than \"post this to askTRP,\" will receive a ban for diluting the front page.**",
+            "created_utc": 1654271100,
+            "kind": "link",
+            "violation_reason": "Personal advice questions go to www.forums.red/i/asktrp"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No concern trolling.",
+            "description": "Concern trolling is the act of complaining or attempting to gain the support of others by appearing to have the best interest in the subreddit in mind, hoping only to change small details (\"it's too xyz,\" \"can't we just\"). Concern trolling is banned because it can be used to derail the topic of discussion, and in itself does not add to the quality of discussion.\n\n[Full description of concern trolling](https://www.reddit.com/r/TheRedPill/comments/2cdd3p/do_not_concern_troll_yes_this_means_you/)",
+            "created_utc": 1654271100,
+            "kind": "all",
+            "violation_reason": "No concern trolling."
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Do not insult, doxx, or harass members.",
+            "description": "Debate the ideas, not the person.  If you have a point to be made, make it with well reasoned rationale. Calling members \"beta\" or \"bitch\" brings the level of discourse down to preadolescent schoolyard bickering.  \n\nAlso, individuals with special flairs are members of the community who have proven themselves to add valuable content to our forum. We want them to stay. If you try to make their participation unpleasant, you will be banned. Feel free to disagree with them, but do so with courtesy.",
+            "created_utc": 1654271100,
+            "kind": "all",
+            "violation_reason": "Harrassing members"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "No examples from fiction or lyrics.",
+            "description": "Fiction, pop songs, daytime television freakshows, and reality tv do not present useful examples of typical human behaviour, and thus cannot be learned from. \n\nDiscussion of overarching popular culture themes, however, is on-topic and makes for an interesting analysis of the shifts in cultural thinking. \n\nUse of fiction or other controlled narratives (reality tv, etc) should only be used as an example of the *author's* psychology, not the *character's*. ",
+            "created_utc": 1654271100,
+            "kind": "link",
+            "violation_reason": "No examples from fiction or lyrics."
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "No requests for financial help.",
+            "description": "Self-reliance is a key part of the TRP ethos. We do not solve other people's problems for them... this encourages weakness. Instead, we provide the knowledge and guidance to allow them to solve their own problems. This encourages strength. \n\nLong-standing (flaired) members of the community MAY sell goods or services, allow others to voluntarily \"tip\", link to advertising-support websites, etc... but any money must be received in exchange for value, not requested out of need.",
+            "created_utc": 1654271100,
+            "kind": "all",
+            "violation_reason": "No requests for financial help."
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "Address the community properly.",
+            "description": "Do not address the community with imperatives, platitudes, or shocking titles. If you have a hypothesis to address, do so with respect. \n\nBad titles:\n\n* Do x\n* Go out alone\n* Become x\n* Stop doing x\n* Can we please x\n* We need \n\nGood titles:\n\n* Why doing x is beneficial\n* Learning to x is important\n* Strategy x can help with y\n\n[Posting Guideline](https://www.reddit.com/r/TheRedPill/comments/3d4qb2/on_platitudes_imperatives_and_unsolicited_advice/)\n\n[Post Format Requirements](http://a.trp.red/e)",
+            "created_utc": 1654271100,
+            "kind": "link",
+            "violation_reason": "Address the community properly."
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "Follow our content guidelines.",
+            "description": "NEW: You may only post one top post per week (ECs exempt)\n\n[Content Guidelines](http://a.trp.red/d)\n\n[Posting Guidelines](https://www.reddit.com/r/TheRedPill/comments/3d4qb2/on_platitudes_imperatives_and_unsolicited_advice/)\n\n[Post Formatting Rules](http://a.trp.red/e)\n\n**[Policy updates for 2014](http://a.trp.red/f)**\n\n**[Policy updates for 2015](http://a.trp.red/g)**\n\n###[How to use MODAIL](https://www.reddit.com/r/TheRedPill/comments/80kgg6/shit_to_avoid_saying_in_modmail/)",
+            "created_utc": 1654271100,
+            "kind": "all",
+            "violation_reason": "Follow our content guidelines."
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "Do not announce that you are a woman",
+            "description": "Women frequently use their sex to try and seize special attention on the internet. This does not fly in our community. Having a vagina does not afford your words special weight or wisdom, or give you any inside understanding of how men should deal with women. \n\nIf you are female, do not say \"woman here,\" or \"as a female\" or anything that identifies you as such. Your comments and posts should be able to stand on the merit of your ideas alone.",
+            "created_utc": 1654271100,
+            "kind": "all",
+            "violation_reason": "Do not announce that you are a woman"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "Do not share or request personal information (doxx)",
+            "description": "Due to the rather large target on our backs, it is of paramount importance that anonymity be strictly kept. Do not attempt to share personal information about any users, nor try to make connections between potential alt accounts. Do not share any of your own information (for your own safety). \n\nWe will not confirm or deny any known alts of any members. This policy is also to protect members who have had to change handle due to a doxxing threat or opsec leak.",
+            "created_utc": 1654271100,
+            "kind": "all",
+            "violation_reason": "Doxxing"
+        }
+    },
+    "TheTrumpZone": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Support President Donald J. Trump",
+            "description": "&nbsp;\nTheTrumpZone is a strictly partisan subreddit for pro-Trump supporters to engage in sharing media, information, and discussion in support of President Donald J. Trump.\n\nWe encourage users of all political backgrounds to participate in this subreddit. Please remain pro-Trump in your comments and posts. \n\nTheTrumpZone is not a forum for argument, dissent or debate in opposition of President Donald J. Trump.\n\n\ud83d\udeb7 Violation of this policy will result in a permanent ban from TheTrumpZone.",
+            "created_utc": 1652983909,
+            "kind": "all",
+            "violation_reason": "Support President Donald J. Trump"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Discussion Must Remain Civil",
+            "description": "&nbsp;\n\ud83d\udeab No Personal Attacks: Do not engage in name calling or insults toward other users of TheTrumpZone subreddit:\n\n- No racial slurs\n- No ethnic slurs\n- No sexual slurs\n- No religious slurs\n- No rude or vulgar language\n\n\ud83d\udeab No Threats of Violence: Do not threaten or advocate physical harm or violence towards any person or group. \n\n\ud83d\udeb7 Violation of these policies will result in a permanent ban from TheTrumpZone.",
+            "created_utc": 1652983909,
+            "kind": "all",
+            "violation_reason": "Discussion Must Remain Civil"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "No Trolling, Doxxing or Brigading",
+            "description": "&nbsp;\n\ud83d\udeab No Trolling: Do not post or comment with the intention of interrupting discussion or harassing other subreddit users.\n\n\ud83d\udeab No Doxxing: Do not reveal the identity of any Reddit user. Do not reveal the usernames that are used on other social media platforms by any Reddit user.\n\n\ud83d\udeab No Brigading: Do not link from an outside subreddit to TheTrumpZone with the intention of harassing a user or the subreddit.  \n\n\ud83d\udeb7 Violation of these policies will result in a permanent ban from TheTrumpZone.",
+            "created_utc": 1652983909,
+            "kind": "all",
+            "violation_reason": "No Trolling, Doxxing or Brigading"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No Spam or Advertising",
+            "description": "&nbsp;\n\ud83d\udeab No Spam: Do not post or comment repetitively in order to disrupt discussion. Do not post or comment in a manner that is irrelevant to TheTrumpZone\u2019s mission statement. \n\n\ud83d\udeab No Advertising: Do not advertise products or services. Do not post or comment solicitation of any kind in TheTrumpZone subreddit. \n\n\ud83d\udeb7 Violation of these policies will result in a permanent ban from TheTrumpZone.",
+            "created_utc": 1652983909,
+            "kind": "all",
+            "violation_reason": "No Spam or Advertising"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Adhere to Mission Statement",
+            "description": "&nbsp;\nAny content shared on TheTrumpZone subreddit must either directly or indirectly support President Donald J. Trump.\n\nIf post content indirectly supports President Donald J. Trump, users must indicate in the post title how the content posted relates to President Donald J. Trump. \n\n\ud83d\udeab Do not include links in comments or posts to outside sources that have no relevancy to the subreddit mission statement. \n\n\ud83d\udcf5 Violation of these policies will result in the removal of comments or posts.",
+            "created_utc": 1652983909,
+            "kind": "all",
+            "violation_reason": "Adhere to Mission Statement"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Adhere to Reddit\u2019s Content Policy",
+            "description": "&nbsp;\nAll site wide rules regarding posts, comments or any other forms of content must adhere to the Reddit Content Policy. \n\nPlease review the [Reddit Content Policy](https://www.redditinc.com/policies/content-policy) for reference before participating in TheTrumpZone subreddit. \n\n\ud83d\udeb7 Violation of these policies will result in a permanent ban from TheTrumpZone as well as appropriate reporting to Reddit Administrators.",
+            "created_utc": 1652983909,
+            "kind": "all",
+            "violation_reason": "Adhere to Reddit\u2019s Content Policy"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Adhere to Reddit\u2019s User Agreement",
+            "description": "&nbsp;\nAdherence to the Reddit User Agreement encompasses any conduct related to interaction with other users, TheTrumpZone subreddit, or with the Reddit platform itself.\n\nPlease review the [Reddit User Agreement](https://www.redditinc.com/policies/user-agreement) for reference before participating in TheTrumpZone subreddit. \n\n\ud83d\udeb7 Violation of these policies will result in a permanent ban from TheTrumpZone as well as appropriate reporting to Reddit Administrators.",
+            "created_utc": 1652983909,
+            "kind": "all",
+            "violation_reason": "Adhere to Reddit\u2019s User Agreement"
+        }
+    },
+    "libsofreddit": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)",
+            "description": "Don't violate Reddit [content policy](https://bit.ly/3qhsDMD). It covers off-topic posts, spamming, disparaging our sub, vote manipulation, calls for violence, attacks, doxing, and harassment of Reddit users or people based on \"identity or vulnerability.\" No posts about LGBT+, [\"sexual minorities\"](https://bit.ly/34IYX2z), child predators/abuse, or minors, due to the influx of rule breaking comments. If you violate Reddit.com rules you will be banned and may be reported to admins.",
+            "created_utc": 1652985007,
+            "kind": "all",
+            "violation_reason": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Trolling, Bad Faith Participation. No Leftist Talking Points.",
+            "description": "No type of trolling will be tolerated on r/LibsOfReddit.",
+            "created_utc": 1652985007,
+            "kind": "all",
+            "violation_reason": "Trolling, Bad Faith Participation. No Leftist Talking Points."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Racism and Anti-Semitism",
+            "description": "Racism and Anti-Semitism will not be tolerated. You have been warned.",
+            "created_utc": 1652985007,
+            "kind": "all",
+            "violation_reason": "Racism and Anti-Semitism"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No Brigading or Reddit Linking, Crossposting Limitations",
+            "description": "Reddit linking can cause harassment and interference with other subs:  \n\u2022 No Reddit links, including this format u/InsertUserName or r/InsertSubName with the exception of our sub or if our mods make an announcement.  \n\u2022 Mark out sub and user names from Reddit screenshots.  \n\u2022 No Reddit ban screenshots.  \n\u2022 No encouraging users to troll other users, mods, admins or subs. No behavior in other subs that reflect on your participation here.  \n\u2022 Crossposting is ONLY allowed from subs in our sidebar.",
+            "created_utc": 1652985007,
+            "kind": "all",
+            "violation_reason": "No Brigading or Reddit Linking, Crossposting Limitations"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Ban Appeals, Suggestions, Concerns",
+            "description": "To appeal a ban, make a general suggestion or voice a concern - message our moderator team. DO NOT PM ANY MODERATOR'S PERSONAL REDDIT ACCOUNT.",
+            "created_utc": 1652985007,
+            "kind": "all",
+            "violation_reason": "Ban Appeals, Suggestions, Concerns"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Threats towards Government Officials",
+            "description": "All threats of violence, including assassination threats towards the President or any other official, regardless of political affiliation, should be reported immediately to the FBI, please include a screenshot, and an \u201cArchived\u201d link. We recommend https://Archive.is.",
+            "created_utc": 1652985007,
+            "kind": "all",
+            "violation_reason": "Threats towards Government Officials"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Karma Requirement",
+            "description": "Newly-made accounts are not allowed to post in r/LibsOfReddit. We reserve the right to decide the age and karma requirements for all accounts that are allowed to post here and will not publish those requirements.",
+            "created_utc": 1652985007,
+            "kind": "all",
+            "violation_reason": "Karma Requirement"
+        }
+    },
+    "HillaryForPrison": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)",
+            "description": "Don't violate Reddit [content policy](https://bit.ly/3qhsDMD). It covers off-topic posts, spamming, disparaging our sub, vote manipulation, calls for violence, attacks, doxing, and harassment of Reddit users or people based on \"identity or vulnerability.\" No posts about LGBT+, [\"sexual minorities\"](https://bit.ly/34IYX2z), child predators/abuse, or minors, due to the influx of rule breaking comments. If you violate Reddit.com rules you will be banned and may be reported to admins.",
+            "created_utc": 1652980709,
+            "kind": "all",
+            "violation_reason": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Trolling, Bad Faith Participation. No Pro-Clinton Talking Points. LEGITIMATE links to evidence.",
+            "description": "No type of trolling will be tolerated on r/HillaryForPrison.",
+            "created_utc": 1652980709,
+            "kind": "all",
+            "violation_reason": "Trolling, Bad Faith Participation. No Pro-Clinton Talking Points. LEGITIMATE links to evidence."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Racism and Anti-Semitism",
+            "description": "Racism and Anti-Semitism will not be tolerated. You have been warned.",
+            "created_utc": 1652980709,
+            "kind": "all",
+            "violation_reason": "Racism and Anti-Semitism"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No Brigading or Reddit Linking, Crossposting Limitations",
+            "description": "Reddit linking can cause harassment and interference with other subs:  \n\u2022 No Reddit links, including this format u/InsertUserName or r/InsertSubName with the exception of our sub or if our mods make an announcement.  \n\u2022 Mark out sub and user names from Reddit screenshots.  \n\u2022 No Reddit ban screenshots.  \n\u2022 No encouraging users to troll other users, mods, admins or subs. No behavior in other subs that reflect on your participation here.  \n\u2022 Crossposting is ONLY allowed from subs in our sidebar.",
+            "created_utc": 1652980709,
+            "kind": "all",
+            "violation_reason": "No Brigading or Reddit Linking, Crossposting Limitations"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Ban Appeals, Suggestions, Concerns",
+            "description": "To appeal a ban, make a general suggestion or voice a concern - message our moderator team. DO NOT PM ANY MODERATOR'S PERSONAL REDDIT ACCOUNT.",
+            "created_utc": 1652980710,
+            "kind": "all",
+            "violation_reason": "Ban Appeals, Suggestions, Concerns"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Threats towards Government Officials",
+            "description": "All threats of violence, including assassination threats towards the President or any other official, regardless of political affiliation, should be reported immediately to the FBI, please include a screenshot, and an \u201cArchived\u201d link. We recommend https://Archive.is.",
+            "created_utc": 1652980710,
+            "kind": "all",
+            "violation_reason": "Threats towards Government Officials"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Karma Requirement",
+            "description": "Newly-made accounts are not allowed to post in r/HillaryForPrison. We reserve the right to decide the age and karma requirements for all accounts that are allowed to post here and will not publish those requirements.",
+            "created_utc": 1652980710,
+            "kind": "all",
+            "violation_reason": "Karma Requirement"
+        }
+    },
+    "Conservative": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Civility",
+            "description": "Be civil, follow any flair guidelines.",
+            "created_utc": 1652979564,
+            "kind": "all",
+            "violation_reason": "Civility"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Racism",
+            "description": "No racism.",
+            "created_utc": 1652979564,
+            "kind": "all",
+            "violation_reason": "Racism"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Spam",
+            "description": "Don't spam article submissions (this doesn't apply to comments). Limit 4 per hour.",
+            "created_utc": 1652979564,
+            "kind": "all",
+            "violation_reason": "Spam"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Brigading",
+            "description": "No vote brigading.",
+            "created_utc": 1652979565,
+            "kind": "all",
+            "violation_reason": "Brigading"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Shitpost",
+            "description": "Shit posts will be removed at moderator discretion and the user may be banned.",
+            "created_utc": 1652979565,
+            "kind": "all",
+            "violation_reason": "Shitpost"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Title not from article",
+            "description": "Submission headlines must match the article headline or quote the article.",
+            "created_utc": 1652979565,
+            "kind": "all",
+            "violation_reason": "Title not from article"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Violates Mission Statement",
+            "description": "Do not violate the Mission Statement.  (We provide a place on Reddit for conservatives, both fiscal and social, to read and discuss political and cultural issues from a distinctly conservative point of view.)",
+            "created_utc": 1652979565,
+            "kind": "all",
+            "violation_reason": "Violates Mission Statement"
+        }
+    },
+    "Capitalism": {},
+    "Freethought": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "1. No Trolling",
+            "description": "Making low/no-information posts that are inflammatory and do not add any substance to the conversation.",
+            "created_utc": 1652979147,
+            "kind": "all",
+            "violation_reason": "1. No Trolling"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "2. Off-Topic Posts",
+            "description": "Please read the sidebar and note that this subreddit is *not* for \"free-form\" news or random posts.  *Freethought* is a specific concept.  Users who repeatedly post random, off-topic stuff, especially with the intent of karma-farming or attacking moderation staff, will be sanctioned.",
+            "created_utc": 1652979147,
+            "kind": "all",
+            "violation_reason": "2. Off-Topic Posts"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "3. No strawmen or personal attacks",
+            "description": "If your primary argument involves having to belittle your opponent, you are not adding anything of value to the conversation.  Use of strawmen and sweeping generalizations as a means to avoid the substance of an argument are unwelcome.  This also encompasses the \"attack the messenger, ignore the message\" tactic.",
+            "created_utc": 1652979147,
+            "kind": "all",
+            "violation_reason": "Strawman/attacks"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "4. Proper use of up/down-voting",
+            "description": "Please be aware that the up/down-vote buttons should be used for evaluating the substance of an argument moreso than whether or not you personally agree.    One of the primary goals of /r/Freethought is to have open discussion on controversial issues where science/evidence and popular opinion may not be in parallel.",
+            "created_utc": 1652979147,
+            "kind": "all",
+            "violation_reason": "4. Proper use of up/down-voting"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "5.  Opinions are not relevant without details",
+            "description": "Everybody has opinions. But **we don't need to be told that you think post X is Y** *unless it's accompanied with substantive information*, references and reasonable explanations.   \n\nSometimes posts are made with such claims to encourage debate and discussion, but *responses to shut down someone else's claim, with no additional evidence or references are even worse.*   **So if you don't like something and can't explain in detail as to why we should care, don't post.**",
+            "created_utc": 1652979147,
+            "kind": "all",
+            "violation_reason": "5.  Opinions are not relevant without details"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "6. No Attacking the Messenger / Ignoring the message",
+            "description": "Because you believe a source is \"biased\" is not a valid argument.  This is a fallacy.  The operative issue in /r/Freethought is **is the claim true?**.  What does the evidence say?  Dismissing an argument because of the tone, source or manner in which the information is provided, while ignoring the actual details of the argument, is a violation of this sub's rules.",
+            "created_utc": 1652979147,
+            "kind": "all",
+            "violation_reason": "Attcking the messenger / Ignoring the message"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "7.  Refusing to acknowledge proven false claims",
+            "description": "Commonly deployed as \"circular arguments\", or \"bickering\".  When a person makes a statement, and that statement is proven false, continuing to argue as if the statement was not debunked, changing the subject, moving the goalpost, or otherwise creating a distraction and pretending the issue was not rationally addressed.\n\nThere is no point having a discussion with a person who has an immovable viewpoint; who makes statements but ignores cogent and thoughtful responses.",
+            "created_utc": 1652979147,
+            "kind": "all",
+            "violation_reason": "Refusing to acknowledge false claims"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "Muck Raking",
+            "description": "Public ranting about/against mods, or proclaiming you feel a submission is inappropriate for /r/Freethought, is off limits.  Use the reporting function to report issues, or send ModMail.  If you seek to rally people to grab their pitchforks and rebel against the sub or its admins, that's adding to the noise. You're free to create your own sub and rule it however you want, but you won't rule here.  Thanks for your understanding and respect for the community we have built.",
+            "created_utc": 1652979147,
+            "kind": "all",
+            "violation_reason": "Publically arguing with mods or maligning the subreddit"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "No promotion of blogs, sites or channels",
+            "description": "This sub is not the place for you to promote your new Youtube channel or web site (also see Rule #6).  Also, if you promote your site and you've never posted/participated in our community before, you will be instantly banned for spamming.",
+            "created_utc": 1652979147,
+            "kind": "all",
+            "violation_reason": "No promotion of blogs, sites or channels"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "No Gender, Sexual Preference or Race-related intolerance/hate speech",
+            "description": "This sub refuses to promote intolerant sweeping generalizations based on gender, sexual preference or race.  Be very careful taking sides in these issues unless you're addressing a specific instance and issue.  In other words: Nazi Punks/Misogynists/Misandrists/Homophobes Fuck Off.",
+            "created_utc": 1652979147,
+            "kind": "all",
+            "violation_reason": "No Gender, Sexual Preference or Race-related intolerance/hate speech"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "No Astroturfing",
+            "description": "Astroturfing is using posts and comments to promote a particular site or political agenda, without any actual intent to debate or discuss.  If you make a post that's not relevant to the topic of this sub, that promotes another site, or a particular controversial ideology that isn't centered around science, logic and reason, you're going to get banned.  If your post history shows a consistent effort to spam certain topics over and over without engaging that community, you will be banned.",
+            "created_utc": 1652979147,
+            "kind": "all",
+            "violation_reason": "Astroturfing"
+        },
+        "Rule 11": {
+            "priority": 11,
+            "short_name": "AI content is NOT evidentiary",
+            "description": "The output from any Artificial Intelligence system is not consider adequate evidence, and any citations referenced in such output should be followed up on and cited separately to insure they are legit (and not nonexistent which has happened regularly).  Attempts to cite AI as evidence is a bannable offense.",
+            "created_utc": 1690394872,
+            "kind": "all",
+            "violation_reason": "AI content is not evidence"
+        },
+        "Rule 12": {
+            "priority": 12,
+            "short_name": "No bad faith debate",
+            "description": "On any issue, each participant should be willing to have conditions upon which they will change their mind.  If you come into this community and refuse to be open to being proven wrong, that's bad faith debate.",
+            "created_utc": 1690394955,
+            "kind": "all",
+            "violation_reason": "No bad faith debate"
+        }
+    },
+    "Republican": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Civility",
+            "description": "Rule 1. This subreddit is for civil discussion not heated debate.",
+            "created_utc": 1652985609,
+            "kind": "all",
+            "violation_reason": "Civility"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Personal Attacks",
+            "description": "Rule 2. No personal attacks, insults, or trolling.",
+            "created_utc": 1652985609,
+            "kind": "all",
+            "violation_reason": "Personal Attacks"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Racism",
+            "description": "Rule 3. No [racism](https://www.reddit.com/r/Republican/wiki/racism), antisemitism, misogyny, misandry, or other hate.",
+            "created_utc": 1652985609,
+            "kind": "all",
+            "violation_reason": "Racism"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Anti-Republican",
+            "description": "Rule 4. Do not post anti-Republican submissions or [comments.](https://www.reddit.com/r/Republican/comments/5q4jhq/we_will_allow_critisms_of_presedent_trump/)",
+            "created_utc": 1652985609,
+            "kind": "all",
+            "violation_reason": "Anti-Republican"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Leftist",
+            "description": "Rule 5. Do not make comments consisting entirely of leftist talking points or defending leftist ideology.",
+            "created_utc": 1652985609,
+            "kind": "all",
+            "violation_reason": "Leftist"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Fake or disinformational",
+            "description": "[No \"fake\" news or titles that intentionally mislead. (Rewording titles is fine)](https://www.reddit.com/r/Republican/comments/5g3263/new_rule_we_wont_be_lead_by_their_narrativeno/)",
+            "created_utc": 1652985609,
+            "kind": "all",
+            "violation_reason": "Fake or disinformational"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Reagan's 11th Commandment",
+            "description": "\"Thou shalt not speak ill of any fellow Republican.\" (Reagan's 11th Commandment)",
+            "created_utc": 1652985609,
+            "kind": "all",
+            "violation_reason": "Reagan's 11th Commandment"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "No violent content",
+            "description": "Do not post content that encourages, glorifies, incites, or calls for violence or physical harm against an individual (including oneself) or a group of people.",
+            "created_utc": 1652985609,
+            "kind": "all",
+            "violation_reason": "No violent content"
+        }
+    },
+    "conservatives": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Personal Attacks",
+            "description": "Avoid personal attacks and insults.  Be civil at all times.  Spirited discussion and disagreement is encouraged, but insults and personal attacks degrade the quality of discussion on the subreddit and will not be tolerated.",
+            "created_utc": 1652985023,
+            "kind": "all",
+            "violation_reason": "User personally attacked or insulted another user"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Bigotry",
+            "description": "You may not make racist, sexist, anti-Semitic or otherwise bigoted comments in the sub.",
+            "created_utc": 1652985023,
+            "kind": "all",
+            "violation_reason": "Racist, sexist or anti-Semitic comments"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Reddiquete",
+            "description": "Follow reddit terms of service and [Reddiquette](https://www.reddit.com/r/%20reddit.com/wiki/reddiquette)",
+            "created_utc": 1652985023,
+            "kind": "all",
+            "violation_reason": "User abused Reddiquette"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Voting and Complaints of Bias",
+            "description": "Do not engage in blind downvoting of comments and submissions on a partisan basis.  Do not complain that articles are biased.",
+            "created_utc": 1652985023,
+            "kind": "all",
+            "violation_reason": "Partisan downvoting or complaints of bias"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Liberal Talking Points",
+            "description": "Do not make comments consisting entirely of liberal talking points. For example: Do not make the case for socialism, universal health care or UBI. Do not use the subreddit to shill for liberal candidates/politicians.",
+            "created_utc": 1652985023,
+            "kind": "all",
+            "violation_reason": "Comments solely liberal talking points."
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Conservative Bashing",
+            "description": "There are a lot of places on reddit where bashing Conservatism is allowed and even encouraged. This is not one of them.",
+            "created_utc": 1652985023,
+            "kind": "all",
+            "violation_reason": "User is bashing conservatives"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Trolling",
+            "description": "Do not engage in trollish behavior. Avoid excessive profanity.",
+            "created_utc": 1652985023,
+            "kind": "all",
+            "violation_reason": "User is trolling"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "Use Your Words",
+            "description": "Posts and comments consisting of one word, an image, meme or just an emoji are highly discouraged as we seek to foster debate and conversation. As such, they are subject to removal at the mods' discretion.",
+            "created_utc": 1652985023,
+            "kind": "all",
+            "violation_reason": "Use Your Words"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "Complaints About Benign Submissions",
+            "description": "Do not complain in the comment section about submissions that are benign in nature.  If there is something posted that is truly inappropriate, message the moderators or hit the report button.",
+            "created_utc": 1652985023,
+            "kind": "all",
+            "violation_reason": "Complaints about benign submissions"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "Complaints About the Subreddit",
+            "description": "Complaints about the subreddit should be directed to modmail.",
+            "created_utc": 1652985023,
+            "kind": "all",
+            "violation_reason": "Complaints about the subreddit"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "No posts or comments about transgenderism",
+            "description": "Posts and comments about transgender individuals, news stories referencing them, sexualization or mutilation of children by individuals who identify as part of this group, or policies about them will no longer be allowed on this subreddit, because certain redditors consider anything remotely negative posted about that group to be \"promoting hate\", and the admins agree with them.  Any such posts or comments should be taken to a different platform on which free speech is still possible.",
+            "created_utc": 1665066232,
+            "kind": "all",
+            "violation_reason": "Posts and comments about transgenderism"
+        }
+    },
+    "prolife": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "You must cite any claims.",
+            "description": "* If you post a claim, i.e. \"the vast majority of professional philosophers are pro-choice,\" or \u201c Babies don\u2019t feel pain\u201d you must be ready to substantiate it with a valid citation. If you can't, you must drop the claim. If you continue to claim it is true despite having no citation, this can warrant a ban. This rule applies to pro-choicers and pro-lifers!",
+            "created_utc": 1652985334,
+            "kind": "all",
+            "violation_reason": "You must cite any claims."
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Policy on Pro-choicers.",
+            "description": "* Pro-choice comments and questions are welcome as long as the pro-choicer demonstrates that they are open-minded. Pro-choicers simply here for advocacy or trolling are unwelcome and may be banned. This rule involves a lot of moderator discretion, so if you want to avoid a ban, play it safe and show you are not just here to talk \u201cat\u201d people.\n\n* Pro choice argumentation is not allowed in post labeled \u201cPro-Life Only\u201d. You can still comment, but arguing against is not allowed.",
+            "created_utc": 1652985334,
+            "kind": "all",
+            "violation_reason": "Policy on Pro-choicers."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "No linking or discussion about other subreddits/Block out user names/No posting personal information",
+            "description": "* No references to discussions in other subreddits here, such as links or screenshots of such. This is to comply with new (as of 9/2022) site wide rules. You may post discussions from other social media, but you must obscure user name information unless those individuals have public personas. Under no circumstances will personal information for any person be permitted to be posted.",
+            "created_utc": 1652985334,
+            "kind": "all",
+            "violation_reason": "Linked to or posted about other subreddits / did not block out usernames/PII"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Don\u2019t spam the sub",
+            "description": "* Do not spam the sub, you can now post more than once a day. It\u2019s up to the moderators to decide what is considered spamming, but as a general rule no one should be posting 10 times every day. Post will be removed and you may be banned.",
+            "created_utc": 1652985334,
+            "kind": "link",
+            "violation_reason": "Posting multiple times a day"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Read the Auto-moderator\u2019s comments",
+            "description": "* The Automoderator will usually just comment on certain post links to helpful information. However, the Automoderator will also comment how users should behave on certain post. Always read the comments because they could change. Users have been banned for simply neglecting to read the pinned comment which caused them to break the rules that they didn\u2019t read.",
+            "created_utc": 1652985334,
+            "kind": "all",
+            "violation_reason": "Didn\u2019t follow auto moderator\u2019s directions"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "No Direct Donations",
+            "description": "* Mothers who are expecting, but need resources  with pregnancy are urged to look at the pinned post or in the Pro-Life Menu. Any post or comment that links bank account information will be removed. If you still need the help, you can create an [Amazon Wish List](https://www.sellerapp.com/blog/amazon-wish-list/) so we may buy the items you need for you.",
+            "created_utc": 1652985334,
+            "kind": "all",
+            "violation_reason": "This person linked their bank account information."
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Attack the ideology, and not the person who holds it.",
+            "description": "* We should be civil to each other, we can call out an ideology for its flaws, but blatantly insulting people is prohibited.",
+            "created_utc": 1652985334,
+            "kind": "all",
+            "violation_reason": "Insulting the person."
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "No Badges of Honor",
+            "description": "* No post solely dedicated to telling us you were banned from any sub is allowed. We get it Reddit is unfair, but there is nothing that can be done.",
+            "created_utc": 1652985334,
+            "kind": "link",
+            "violation_reason": "Posted a ban screen shot"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "No off topic discussions",
+            "description": "* All conversation has to be based or related to abortions, pregnancy, adoptions, foster care, children, and so on. The moderators have the final say on what is or is not off topic. \n\n* We have weekly chats dedicated for off topic discussions, so have those conversations there.",
+            "created_utc": 1652985334,
+            "kind": "all",
+            "violation_reason": "Off Topic"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "Limited use of images and videos of abortion victims",
+            "description": "Abortion pictures and videos are allowed at the comment level only. This means no post submissions with links to websites or direct uploads of such images and/or videos.\n\nThe hyperlinks to the images/videos must be preceded with an adequate warning and the hyperlinks themselves must have spoiler tags. Your comment will be removed if it does not follow either of these requirements.\n\nThese rules are for real pictures and videos of abortions and do not apply to computer-generated imagery.",
+            "created_utc": 1652985334,
+            "kind": "all",
+            "violation_reason": "This is a video on an abortion"
+        }
+    },
+    "MensRights": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Must be related to men's rights",
+            "description": "Submissions must be about men's rights issues. These should fall into one of these categories.\n\n1. Discrimination against men\n\n2. Issues that disproportionately affect men\n\n3. Problems that prevent men's issues being addressed\n\nPosts about other issues that have some relationship with men's rights should make it clear what that relationship is. These should be self-posts that explain the connection to men's rights.",
+            "created_utc": 1652993849,
+            "kind": "link",
+            "violation_reason": "Off Topic - not related to men's rights"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Posts must provide value to the sub. No fake news.",
+            "description": "Posts must provide value and shouldn't be\n \n* Memes\n* Rage comics\n* Low-effort images\n* Low-effort text posts\n* sTuPiD cApS\n* Fake news\n* Unlabelled satire\n\nMemes belong in r/MRAmemes\n\nSatire must [Satire] in the title.\n\nIf you have a point to make or a story to tell, make a self-post. It isn't the content so much as the format that is the problem.\n\nMods may also remove low-quality images eg:\n\n* Heavy compression artefacts\n* A photo of print-out of photo of a screen",
+            "created_utc": 1652993849,
+            "kind": "all",
+            "violation_reason": "Low value, low effort post"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Meta discussions should be in r/MensRightsMeta",
+            "description": "Meta-discussion should be posted in /r/MensRightsMeta not here.\n\nTo bring meta issues to the attention of /r/mensrights users we will allow /r/MensRightsMeta posts to be cross-posted but with the following caveats:\n\nThe issue must be a broad one that affects /r/MensRights users generally.\n\nIssues with moderators can be resolved individually. \n\nDiscussing policy changes should be cross-posted. \n\nDon't spam multiple topics\n\nAll cross-posts must be prepended with a [META] tag.",
+            "created_utc": 1652993849,
+            "kind": "all",
+            "violation_reason": "Meta discussions should be in r/MensRightsMeta"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Cross linking has restrictions",
+            "description": "Linking to other sub-reddits is not allowed, since it can invite brigading.\n\nIf you wan to discuss posts / comments from other subs, you need to introduce them via screen shots with all identifying information (usernames, sub reddit name) blanked out.\n\nViolation of this rule is a bannable offence.",
+            "created_utc": 1652993849,
+            "kind": "all",
+            "violation_reason": "Broke 'no cross linking' rule"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "All NSFW content to be labeled",
+            "description": "Any NSFW (Not Safe For Work) links or comments must be labelled as NSFW or will be removed.",
+            "created_utc": 1652993849,
+            "kind": "all",
+            "violation_reason": "No NSFW label"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "No personal information",
+            "description": "Personal information posted directly to Reddit about a person or user will be removed. Submissions about Facebook pages or Twitter must be screenshotted with names blanked out. Reddit has a zero-tolerance policy for doxxing. Any posts or comments that attempt to identify an anonymous person, or solicit such identification, will be removed. In addition, users may be banned.",
+            "created_utc": 1652993849,
+            "kind": "all",
+            "violation_reason": "Including personal information is prohibited"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "No reposts, spam, ads, fakes, subreddit bans",
+            "description": "The following types of posts are not allowed:\n\n* Advertisements for products, services, your subreddit\n\n* Mass repeated identical or near-identical posts/comments (useful bots may be allowed)\n\n* Posts about being banned from other subs\n\n* Reposts of recently posted content. Removal doesn't always depend on chronological order.\n\n* Fake screenshots. It is your responsibility to  ensure that an item is genuine.\n\nThese messages will be removed, and the user may be banned, depending on the severity.",
+            "created_utc": 1652993849,
+            "kind": "all",
+            "violation_reason": "SPAM (advertisements, subreddit bans, reposts, fakes)"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "No harassment or extreme personal attacks",
+            "description": "Conversations between people with disparate opinions often devolve into including personal attacks and/or flippant/sarcastic remarks. Each person feels perfectly justified in making their statements, but always feels the other person's retorts are unjustified. Only in extreme cases will moderators get involved in these situations and may censor both parties.\n\nMaking posts in order to criticise a specific user is not allowed.",
+            "created_utc": 1652993849,
+            "kind": "all",
+            "violation_reason": "Harassment or Extreme personal attacks"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "Advocating for illegal actions",
+            "description": "Advocacy for\n- the use of child pornography, even to curb pedophilia,\n- unlawful violence or threats thereof (including poisoning, statutory rape and all other offences, but not including legal self-defense),\n- any other advocacy for illegal activity\nwill not be tolerated.\n\nNote: Discussion of appropriate punishment for illegal activities, about self-produced pornography (i.e. sexting), about whether cartoon images are child porn, and about mid-teen level \"consensual\" relationships are allowed.",
+            "created_utc": 1652993849,
+            "kind": "all",
+            "violation_reason": "Advocating illegal actions"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "Racism and other hate speech restrictions",
+            "description": "Messages that are purely for insult or hate purposes will be removed (eg \"black people are lazy\"). Alternatively, messages that discuss a person's opinion, or argue for a point, may not be removed. \nSerious misogyny or misandry will be removed - this doesn't include posts about general traits of women/men, but attacks on either gender as a whole.\nFor example, \"all women are whores\" is unacceptable, but \"women who marry men only for money are whores\" is acceptable",
+            "created_utc": 1652993849,
+            "kind": "all",
+            "violation_reason": "Racism and other hate speech"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "Solicitations for donations must be through verified organisations",
+            "description": "Solicitations for donations must be done via a registered group, or must be able to prove the legitimacy of the fundraising. If a group wishes to solicit donations they must first contact the moderators with evidence of the legitimacy of the fundraising. However, the moderators do not explicitly support any fundraising attempts, and are not responsible for fraudulent activity. Please report any suspected fraudulent activity to the mods, and we will review it and remove submissions as necessary.",
+            "created_utc": 1652993849,
+            "kind": "all",
+            "violation_reason": "Solicitations for Donations"
+        },
+        "Rule 11": {
+            "priority": 11,
+            "short_name": "Gender reversal posts requirements",
+            "description": "Posts speculating about what would happen if the gender were reversed are subject to restrictions.\n\nGender reversal posts must include comparable examples from both genders and also must be news stories, not some random photo or video or twitter post.",
+            "created_utc": 1652993849,
+            "kind": "link",
+            "violation_reason": "Did not meet gender reversal requirements"
+        },
+        "Rule 12": {
+            "priority": 12,
+            "short_name": "Researchers must contact the mods",
+            "description": "Researchers must contact the mods before posting.\n\nIn the past, some surveys have either misrepresented us or have been flooded by false responses. So we'd like to be sure that the research is genuine.\n\nYou can message the moderators at  https://reddit.com/message/compose?to=/r/MensRights",
+            "created_utc": 1652993849,
+            "kind": "link",
+            "violation_reason": "Unapproved research post"
+        },
+        "Rule 13": {
+            "priority": 13,
+            "short_name": "Title must be descriptive",
+            "description": "Titles must describe the content so that:\n\n* Users know the content of the link  before they click it\n\n* Users who are searching for specific material can easily find the post they are looking for\n\nAssume the reader doesn't know what you're talking about - but don't go overboard with details!\n\nPause before hitting \"Post\". Check for typos, ambiguities, redundant words and unintended meanings!\n\nNote: You can't change an existing title. Please repost with a more descriptive title.",
+            "created_utc": 1652993849,
+            "kind": "all",
+            "violation_reason": "Non-descriptive title"
+        },
+        "Rule 14": {
+            "priority": 14,
+            "short_name": "Miscellaneous",
+            "description": "Mods may use their discretion to resolve any situation not explicitly covered here. In addition, young accounts (low karma and/or low age) will not be given any benefit of the doubt and may be permanently banned at any point for seemingly minor infractions. This is to cut down on trolls, etc.",
+            "created_utc": 1652993849,
+            "kind": "all",
+            "violation_reason": "Mod discretion"
+        }
+    },
+    "gunpolitics": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Personal attacks/Excessive Language",
+            "description": "",
+            "created_utc": 1652980073,
+            "kind": "all",
+            "violation_reason": "Personal Attacks/Excessive Language"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Trolling",
+            "description": "",
+            "created_utc": 1652980073,
+            "kind": "all",
+            "violation_reason": "Trolling"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Off Topic/Not Gun Politics",
+            "description": "",
+            "created_utc": 1652980073,
+            "kind": "link",
+            "violation_reason": "Off Topic/Not Gun Politics"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No memes",
+            "description": "",
+            "created_utc": 1652980073,
+            "kind": "link",
+            "violation_reason": "No memes"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "No posts about Reddit/Social Media from non-official sorces.",
+            "description": "",
+            "created_utc": 1652980073,
+            "kind": "link",
+            "violation_reason": "No posts about Reddit/Social Media from non-official sorces."
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "No Meta posts linking to other Subreddits",
+            "description": "Do not post links to other subreddits. This isn't r/shitguncontrollerssay",
+            "created_utc": 1652980073,
+            "kind": "link",
+            "violation_reason": "No meta content"
+        }
+    },
+    "benshapiro": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Posts should be geared toward talking about Ben Shapiro, and his brand of conservatism",
+            "description": "The purpose of this sub is to facilitate discussion related to Ben Shapiro and the Daily Wire in a broad and expansive sense. We err on the side of permitting topics. Moderators will not take aggressive action to try and balance out the dialog between various factions of users, but, at our discretion, we will remove posts that are meant to undermine this sub (alt-right and radical left).  Tweet posts are not allowed unless they are tweeted / retweeted by Ben Shapiro.",
+            "created_utc": 1652974674,
+            "kind": "all",
+            "violation_reason": "Posts should be geared toward talking about Ben Shapiro, and his brand of conservatism"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Attacks on other users",
+            "description": "This sub aims for respectful dialogue and debate.  Make every attempt to be polite in tone and fair in your arguments. Attacking other users is prohibited, including attacks against collective users of the sub.",
+            "created_utc": 1652974674,
+            "kind": "all",
+            "violation_reason": "Attacks on other users"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Political stereotyping and insults",
+            "description": "All discussions must be regarding the issues.  Ridiculing a person for being a conservative or liberal is a violation of the rules.",
+            "created_utc": 1652974674,
+            "kind": "all",
+            "violation_reason": "Political stereotyping and insults"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Be Constructive",
+            "description": "Work towards making the sub better.  Be honest in your characterization of other users' arguments.  When quoting or paraphrasing another poster/commenter, do not take their arguments out of context to make them look bad.  Deliberately lying about policy, history, and current events is anti-constructive behavior.",
+            "created_utc": 1652974674,
+            "kind": "all",
+            "violation_reason": "Be Constructive"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Brigading",
+            "description": "Brigading is when users, generally from outside the sub, flood the subreddit and downvote content hurting karma of other redditors and spouting their generally toxic low-effort opinions. This also goes both ways. If any user calls for a brigade onto another sub/post, left or right, that user is subject to a ban at moderator discretion.  This includes posts about being banned from other subreddits.",
+            "created_utc": 1652974674,
+            "kind": "all",
+            "violation_reason": "Brigading"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Sarcasm, cynicism, and profanity",
+            "description": "Do not make posts that consist ONLY of sarcasm, cynicism or virtue signaling that do not add to the discussion. Profanity is not prohibited, but is discouraged in order to facilitate discussion.",
+            "created_utc": 1652974674,
+            "kind": "all",
+            "violation_reason": "Sarcasm, cynicism, and profanity"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Racism",
+            "description": "Racism has no place on reddit, and r/BenShapiro is no different. While we value free speech, we have a zero tolerance policy for racism or antisemitism of any kind from anyone ever. Anyone who breaks this rule is subject to a permanent ban without warning.",
+            "created_utc": 1652974674,
+            "kind": "all",
+            "violation_reason": "Posting or commenting racist opinions."
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "Propaganda",
+            "description": "Posts on the subreddit must be factually based and propaganda/purposely disseminating false information will not be tolerated. The users who violate this rule will be subject to a ban at moderators discretion.",
+            "created_utc": 1652974674,
+            "kind": "all",
+            "violation_reason": "Propaganda"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "Low effort posts",
+            "description": "Low effort posts/shitposts are subject to removal at moderator discretion. Tweet posts are not allowed unless they are tweeted / retweeted by Ben Shapiro.",
+            "created_utc": 1652974674,
+            "kind": "all",
+            "violation_reason": "Posting low effort content."
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "NSFW",
+            "description": "Not safe for work (NSFW) posts on the subreddit are not allowed. This includes images as well as text. There are some exceptions to this rule: e.g. Showing images of the Tianamen Square Massacre.",
+            "created_utc": 1652974674,
+            "kind": "all",
+            "violation_reason": "NSFW"
+        },
+        "Rule 10": {
+            "priority": 10,
+            "short_name": "Metaposting",
+            "description": "This sub is for discussion about political commentator Ben Shapiro in all dimensions, political, legal, cultural, social, national, international.  This is not a sub about Reddit or how it is managed. \n\nOrganizing activism against the sub is strictly prohibited. Attacking mods who make requests to posters/commenters is also prohibited",
+            "created_utc": 1652974674,
+            "kind": "all",
+            "violation_reason": "Metaposting"
+        },
+        "Rule 11": {
+            "priority": 11,
+            "short_name": "Sitewide rules",
+            "description": "When conversing on r/benshapiro, you must abide by the sitewide rules as well as the subreddit rules. Violating sitewide rules will result in a permanent ban.",
+            "created_utc": 1653189224,
+            "kind": "all",
+            "violation_reason": "Sitewide rules"
+        },
+        "Rule 12": {
+            "priority": 12,
+            "short_name": "I was banned from x posts",
+            "description": "We do not allow \"I was banned from xyz subreddit\" posts.  This is considered brigading, and will result in the post being removed.",
+            "created_utc": 1657342718,
+            "kind": "all",
+            "violation_reason": "Brigading / Banned from Sub Posts"
+        },
+        "Rule 13": {
+            "priority": 13,
+            "short_name": "Conspiracy Theory Posts",
+            "description": "We do not allow conspiracy theory posts.  Posts must be from verifiable news sources.  If the site you are linking to looks like a high schooler spent 5 minutes with wordpress to make a news site, then that is most likely not a verifiable news source.",
+            "created_utc": 1657343334,
+            "kind": "all",
+            "violation_reason": "Conspiracy Theory"
+        }
+    },
+    "walkaway": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)",
+            "description": "Don't violate Reddit [content policy](https://bit.ly/3qhsDMD). It covers off-topic posts, spamming, disparaging our sub, vote manipulation, calls for violence, attacks, doxing, and harassment of Reddit users or people based on \"identity or vulnerability.\" No posts about LGBT+, [\"sexual minorities\"](https://bit.ly/34IYX2z), child predators/abuse, or minors, due to the influx of rule breaking comments. If you violate Reddit.com rules you will be banned and may be reported to admins.",
+            "created_utc": 1652987232,
+            "kind": "all",
+            "violation_reason": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Trolling, Bad Faith Participation",
+            "description": "No type of trolling will be tolerated on r/WalkAway.",
+            "created_utc": 1652987232,
+            "kind": "all",
+            "violation_reason": "Trolling, Bad Faith Participation"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Racism and Anti-Semitism",
+            "description": "Racism and Anti-Semitism will not be tolerated. You have been warned.",
+            "created_utc": 1652987232,
+            "kind": "all",
+            "violation_reason": "Racism and Anti-Semitism"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No Brigading or Reddit Sub/User Links or Mentions, Crossposting Limitations",
+            "description": "\u2022 No Reddit mentions/links in text/images, etc., includes u/InsertUserName r/InsertSubName or in name only, with the exception of our sub or if our mods make an announcement.  \n\u2022 Mark out sub and user names from Reddit screenshots.  \n\u2022 No disparaging the Reddit site, includes ban or censorship mentions.  \n\u2022 No encouraging users to troll other users, mods, admins or subs. No behavior in other subs that reflect on your participation here.  \n\u2022 Crossposting is ONLY allowed from subs in our sidebar.",
+            "created_utc": 1652987232,
+            "kind": "all",
+            "violation_reason": "No Brigading or Reddit Sub/User Links or Mentions, Crossposting Limitations"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Ban Appeals, Suggestions, Concerns",
+            "description": "To appeal a ban, make a general suggestion or voice a concern - message our moderator team. DO NOT PM ANY MODERATOR'S PERSONAL REDDIT ACCOUNT.",
+            "created_utc": 1652987232,
+            "kind": "all",
+            "violation_reason": "Ban Appeals, Suggestions, Concerns"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Threats toward Government Officials",
+            "description": "All threats of violence, including assassination threats towards the President or any other official, regardless of political affiliation, should be reported immediately to the FBI, please include a screenshot, and an \u201cArchived\u201d link. We recommend https://Archive.is.",
+            "created_utc": 1652987232,
+            "kind": "all",
+            "violation_reason": "Threats towards Government Officials"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Karma and Account Age Requirements",
+            "description": "Newly-made accounts are not allowed to post in r/WalkAway. We reserve the right to decide the age and karma requirements for all accounts that are allowed to post here and will not publish those requirements.",
+            "created_utc": 1652987232,
+            "kind": "all",
+            "violation_reason": "Karma Requirement"
+        }
+    },
+    "ExDemFoyer": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)",
+            "description": "Don't violate Reddit [content policy](https://bit.ly/3qhsDMD). It covers off-topic posts, spamming, disparaging our sub, vote manipulation, calls for violence, attacks, doxing, and harassment of Reddit users or people based on \"identity or vulnerability.\" No posts about LGBT+, [\"sexual minorities\"](https://bit.ly/34IYX2z), child predators/abuse, or minors, due to the influx of rule breaking comments. If you violate Reddit.com rules you will be banned and may be reported to admins.",
+            "created_utc": 1652985257,
+            "kind": "all",
+            "violation_reason": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Trolling, Bad Faith Participation. No Pro-Democrat Talking Points.",
+            "description": "No type of trolling will be tolerated on r/ExDemFoyer.",
+            "created_utc": 1652985257,
+            "kind": "all",
+            "violation_reason": "Trolling, Bad Faith Participation. No Pro-Democrat Talking Points."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Racism and Anti-Semitism",
+            "description": "Racism and Anti-Semitism will not be tolerated. You have been warned.",
+            "created_utc": 1652985257,
+            "kind": "all",
+            "violation_reason": "Racism and Anti-Semitism"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No Brigading or Reddit Sub/User Links or Mentions, Crossposting Limitations",
+            "description": "\u2022 No Reddit mentions/links in text/images, etc., includes u/InsertUserName r/InsertSubName or in name only, with the exception of our sub or if our mods make an announcement.  \n\u2022 Mark out sub and user names from Reddit screenshots.  \n\u2022 No disparaging the Reddit site, includes ban or censorship mentions.  \n\u2022 No encouraging users to troll other users, mods, admins or subs. No behavior in other subs that reflect on your participation here.  \n\u2022 Crossposting is ONLY allowed from subs in our sidebar.",
+            "created_utc": 1652985257,
+            "kind": "all",
+            "violation_reason": "No Brigading or Reddit Sub/User Links or Mentions, Crossposting Limitations"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Ban Appeals, Suggestions, Concerns",
+            "description": "To appeal a ban, make a general suggestion or voice a concern - message our moderator team. DO NOT PM ANY MODERATOR'S PERSONAL REDDIT ACCOUNT.",
+            "created_utc": 1652985258,
+            "kind": "all",
+            "violation_reason": "Ban Appeals, Suggestions, Concerns"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Threats towards Government Officials",
+            "description": "All threats of violence, including assassination threats towards the President or any other official, regardless of political affiliation, should be reported immediately to the FBI, please include a screenshot, and an \u201cArchived\u201d link. We recommend https://Archive.is.",
+            "created_utc": 1652985258,
+            "kind": "all",
+            "violation_reason": "Threats towards Government Officials"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Karma and Account Age Requirements",
+            "description": "Newly-made accounts are not allowed to post in r/ExDemFoyer. We reserve the right to decide the age and karma requirements for all accounts that are allowed to post here and will not publish those requirements.",
+            "created_utc": 1652985258,
+            "kind": "all",
+            "violation_reason": "Karma and Account Age Requirements"
+        }
+    },
+    "FauciForPrison": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)",
+            "description": "Don't violate Reddit [content policy](https://bit.ly/3qhsDMD). It covers off-topic posts, spamming, disparaging our sub, vote manipulation, calls for violence, attacks, doxing, and harassment of Reddit users or people based on \"identity or vulnerability.\" No posts about LGBT+, [\"sexual minorities\"](https://bit.ly/34IYX2z), child predators/abuse, or minors, due to the influx of rule breaking comments. If you violate Reddit.com rules you will be banned and may be reported to admins.",
+            "created_utc": 1652985670,
+            "kind": "all",
+            "violation_reason": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Trolling, Bad Faith Participation. No Pro-Fauci Talking Points. LEGITIMATE links to evidence.",
+            "description": "No type of trolling will be tolerated on r/FauciForPrison.",
+            "created_utc": 1652985670,
+            "kind": "all",
+            "violation_reason": "Trolling, Bad Faith Participation. No Pro-Fauci Talking Points. LEGITIMATE links to evidence."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Racism and Anti-Semitism",
+            "description": "Racism and Anti-Semitism will not be tolerated. You have been warned.",
+            "created_utc": 1652985670,
+            "kind": "all",
+            "violation_reason": "Racism and Anti-Semitism"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No Brigading or Reddit Sub/User Links or Mentions, Crossposting Limitations",
+            "description": "\u2022 No Reddit mentions/links in text/images, etc., includes u/InsertUserName r/InsertSubName or in name only, with the exception of our sub or if our mods make an announcement.  \n\u2022 Mark out sub and user names from Reddit screenshots.  \n\u2022 No disparaging the Reddit site, includes ban or censorship mentions.  \n\u2022 No encouraging users to troll other users, mods, admins or subs. No behavior in other subs that reflect on your participation here.  \n\u2022 Crossposting is ONLY allowed from subs in our sidebar.",
+            "created_utc": 1652985670,
+            "kind": "all",
+            "violation_reason": "No Brigading or Reddit Sub/User Links or Mentions, Crossposting Limitations"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Ban Appeals, Suggestions, Concerns",
+            "description": "To appeal a ban, make a general suggestion or voice a concern - message our moderator team. DO NOT PM ANY MODERATOR'S PERSONAL REDDIT ACCOUNT.",
+            "created_utc": 1652985670,
+            "kind": "all",
+            "violation_reason": "Ban Appeals, Suggestions, Concerns"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Threats towards Government Officials",
+            "description": "All threats of violence, including assassination threats towards the President or any other official, regardless of political affiliation, should be reported immediately to the FBI, please include a screenshot, and an \u201cArchived\u201d link. We recommend https://Archive.is.",
+            "created_utc": 1652985670,
+            "kind": "all",
+            "violation_reason": "Threats towards Government Officials"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Karma and Account Age Requirements",
+            "description": "Newly-made accounts are not allowed to post in r/FauciForPrison. We reserve the right to decide the age and karma requirements for all accounts that are allowed to post here and will not publish those requirements.",
+            "created_utc": 1652985670,
+            "kind": "all",
+            "violation_reason": "Karma Requirement"
+        }
+    },
+    "RedpilledRogan": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)",
+            "description": "Don't violate Reddit [content policy](https://bit.ly/3qhsDMD). It covers off-topic posts, spamming, disparaging our sub, vote manipulation, calls for violence, attacks, doxing, and harassment of Reddit users or people based on \"identity or vulnerability.\" No posts about LGBT+, [\"sexual minorities\"](https://bit.ly/34IYX2z), child predators/abuse, or minors, due to the influx of rule breaking comments. If you violate Reddit.com rules you will be banned and may be reported to admins.",
+            "created_utc": 1652979032,
+            "kind": "all",
+            "violation_reason": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Trolling, Bad Faith Participation. No Anti-Rogan Talking Points.",
+            "description": "No type of trolling will be tolerated on r/RedpilledRogan.",
+            "created_utc": 1652979032,
+            "kind": "all",
+            "violation_reason": "Trolling, Bad Faith Participation. No Anti-Rogan Talking Points."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Racism and Anti-Semitism",
+            "description": "Racism and Anti-Semitism will not be tolerated. You have been warned.",
+            "created_utc": 1652979032,
+            "kind": "all",
+            "violation_reason": "Racism and Anti-Semitism"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No Brigading or Reddit Sub/User Links or Mentions, Crossposting Limitations",
+            "description": "\u2022 No Reddit mentions/links in text/images, etc., includes u/InsertUserName r/InsertSubName or in name only, with the exception of our sub or if our mods make an announcement.  \n\u2022 Mark out sub and user names from Reddit screenshots.  \n\u2022 No disparaging the Reddit site, includes ban or censorship mentions.  \n\u2022 No encouraging users to troll other users, mods, admins or subs. No behavior in other subs that reflect on your participation here.  \n\u2022 Crossposting is ONLY allowed from subs in our sidebar.",
+            "created_utc": 1652979032,
+            "kind": "all",
+            "violation_reason": "No Brigading or Reddit Sub/User Links or Mentions, Crossposting Limitations"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Ban Appeals, Suggestions, Concerns",
+            "description": "To appeal a ban, make a general suggestion or voice a concern - message our moderator team. DO NOT PM ANY MODERATOR'S PERSONAL REDDIT ACCOUNT.",
+            "created_utc": 1652979032,
+            "kind": "all",
+            "violation_reason": "Ban Appeals, Suggestions, Concerns"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Threats towards Government Officials",
+            "description": "All threats of violence, including assassination threats towards the President or any other official, regardless of political affiliation, should be reported immediately to the FBI, please include a screenshot, and an \u201cArchived\u201d link. We recommend https://Archive.is.",
+            "created_utc": 1652979032,
+            "kind": "all",
+            "violation_reason": "Threats towards Government Officials"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Karma and Account Age Requirements",
+            "description": "Newly-made accounts are not allowed to post in r/RedpilledRogan. We reserve the right to decide the age and karma requirements for all accounts that are allowed to post here and will not publish those requirements.",
+            "created_utc": 1652979032,
+            "kind": "all",
+            "violation_reason": "Karma and Account Age Requirements"
+        }
+    },
+    "RedpilledElon": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)",
+            "description": "Don't violate Reddit [content policy](https://bit.ly/3qhsDMD). It covers off-topic posts, spamming, disparaging our sub, vote manipulation, calls for violence, attacks, doxing, and harassment of Reddit users or people based on \"identity or vulnerability.\" No posts about LGBT+, [\"sexual minorities\"](https://bit.ly/34IYX2z), child predators/abuse, or minors, due to the influx of rule breaking comments. If you violate Reddit.com rules you will be banned and may be reported to admins.",
+            "created_utc": 1668295598,
+            "kind": "all",
+            "violation_reason": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Trolling, Bad Faith Participation. No Anti-Elon Talking Points.",
+            "description": "No type of trolling will be tolerated on r/RedpilledElon.",
+            "created_utc": 1668295623,
+            "kind": "all",
+            "violation_reason": "Trolling, Bad Faith Participation. No Anti-Elon Talking Points."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Racism and Anti-Semitism",
+            "description": "Racism and Anti-Semitism will not be tolerated. You have been warned.",
+            "created_utc": 1668295654,
+            "kind": "all",
+            "violation_reason": "Racism and Anti-Semitism"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No Brigading or Reddit Sub/User Links or Mentions, Crossposting Limitations",
+            "description": "\u2022 No Reddit mentions/links in text/images, etc., includes u/InsertUserName r/InsertSubName or in name only, with the exception of our sub or if our mods make an announcement.  \n\u2022 Mark out sub and user names from Reddit screenshots.  \n\u2022 No disparaging the Reddit site, includes ban or censorship mentions.  \n\u2022 No encouraging users to troll other users, mods, admins or subs. No behavior in other subs that reflect on your participation here.  \n\u2022 Crossposting is ONLY allowed from subs in our sidebar.",
+            "created_utc": 1668295674,
+            "kind": "all",
+            "violation_reason": "No Brigading or Reddit Sub/User Links or Mentions, Crossposting Limitations"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Ban Appeals, Suggestions, Concerns",
+            "description": "To appeal a ban, make a general suggestion or voice a concern - message our moderator team. DO NOT PM ANY MODERATOR'S PERSONAL REDDIT ACCOUNT.",
+            "created_utc": 1668295710,
+            "kind": "all",
+            "violation_reason": "Ban Appeals, Suggestions, Concerns"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Threats toward Government Officials",
+            "description": "All threats of violence, including assassination threats towards the President or any other official, regardless of political affiliation, should be reported immediately to the FBI, please include a screenshot, and an \u201cArchived\u201d link. We recommend https://Archive.is.",
+            "created_utc": 1668295728,
+            "kind": "all",
+            "violation_reason": "Threats toward Government Officials"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Karma and Account Age Requirements",
+            "description": "Newly-made accounts are not allowed to post in r/RedpilledElon. We reserve the right to decide the age and karma requirements for all accounts that are allowed to post here and will not publish those requirements.",
+            "created_utc": 1668295751,
+            "kind": "all",
+            "violation_reason": "Karma and Account Age Requirements"
+        }
+    },
+    "EnoughAntifaSpam": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)",
+            "description": "Don't violate Reddit [content policy](https://bit.ly/3qhsDMD). It covers off-topic posts, spamming, disparaging our sub, vote manipulation, calls for violence, attacks, doxing, and harassment of Reddit users or people based on \"identity or vulnerability.\" No posts about LGBT+, [\"sexual minorities\"](https://bit.ly/34IYX2z), child predators/abuse, or minors, due to the influx of rule breaking comments. If you violate Reddit.com rules you will be banned and may be reported to admins.",
+            "created_utc": 1652986816,
+            "kind": "all",
+            "violation_reason": "Reddit Sitewide Rules"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Trolling, Bad Faith Participation. No Pro-AntiFA Talking Points.",
+            "description": "No type of trolling will be tolerated on r/EnoughAntifaSpam.",
+            "created_utc": 1652986816,
+            "kind": "all",
+            "violation_reason": "Trolling"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Racism and Anti-Semitism",
+            "description": "Racism and Anti-Semitism will not be tolerated. You have been warned.",
+            "created_utc": 1652986816,
+            "kind": "all",
+            "violation_reason": "Racism and Anti-Semitism"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No Brigading or Reddit Sub/User Links or Mentions, Crossposting Limitations",
+            "description": "\u2022 No Reddit mentions/links in text/images, etc., includes u/InsertUserName r/InsertSubName or in name only, with the exception of our sub or if our mods make an announcement.  \n\u2022 Mark out sub and user names from Reddit screenshots.  \n\u2022 No disparaging the Reddit site, includes ban or censorship mentions.  \n\u2022 No encouraging users to troll other users, mods, admins or subs. No behavior in other subs that reflect on your participation here.  \n\u2022 Crossposting is ONLY allowed from subs in our sidebar.",
+            "created_utc": 1652986816,
+            "kind": "all",
+            "violation_reason": "Personal Information / Doxing"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Ban Appeals, Suggestions, Concerns",
+            "description": "To appeal a ban, make a general suggestion or voice a concern - message our moderator team. DO NOT PM ANY MODERATOR'S PERSONAL REDDIT ACCOUNT.",
+            "created_utc": 1652986816,
+            "kind": "all",
+            "violation_reason": "Ban Appeals, Suggestions, Concerns"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Threats towards Government Officials",
+            "description": "All threats of violence, including assassination threats towards the President or any other official, regardless of political affiliation, should be reported immediately to the FBI, please include a screenshot, and an \u201cArchived\u201d link. We recommend https://Archive.is.",
+            "created_utc": 1652986816,
+            "kind": "all",
+            "violation_reason": "Threats towards Government Officials"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Karma and Account Age Requirements",
+            "description": "Newly-made accounts are not allowed to post in r/EnoughAntifaSpam. We reserve the right to decide the age and karma requirements for all accounts that are allowed to post here and will not publish those requirements.",
+            "created_utc": 1652986816,
+            "kind": "all",
+            "violation_reason": "Karma Requirement"
+        }
+    },
+    "Patriot911": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)",
+            "description": "Don't violate Reddit [content policy](https://bit.ly/3qhsDMD). It covers off-topic posts, spamming, disparaging our sub, vote manipulation, calls for violence, attacks, doxing, and harassment of Reddit users or people based on \"identity or vulnerability.\" No posts about LGBT+, [\"sexual minorities\"](https://bit.ly/34IYX2z), child predators/abuse, or minors, due to the influx of rule breaking comments. If you violate Reddit.com rules you will be banned and may be reported to admins.",
+            "created_utc": 1652984994,
+            "kind": "all",
+            "violation_reason": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Trolling, Bad Faith Participation. LEGITIMATE news information and sources only.",
+            "description": "No type of trolling will be tolerated on r/Patriot911.",
+            "created_utc": 1652984994,
+            "kind": "all",
+            "violation_reason": "Trolling, Bad Faith Participation. LEGITIMATE news information and sources only."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Racism and Anti-Semitism",
+            "description": "Racism and Anti-Semitism will not be tolerated. You have been warned.",
+            "created_utc": 1652984994,
+            "kind": "all",
+            "violation_reason": "Racism and Anti-Semitism"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No Brigading or Reddit Sub/User Links or Mentions, Crossposting Limitations",
+            "description": "\u2022 No Reddit mentions/links in text/images, etc., includes u/InsertUserName r/InsertSubName or in name only, with the exception of our sub or if our mods make an announcement.  \n\u2022 Mark out sub and user names from Reddit screenshots.  \n\u2022 No disparaging the Reddit site, includes ban or censorship mentions.  \n\u2022 No encouraging users to troll other users, mods, admins or subs. No behavior in other subs that reflect on your participation here.  \n\u2022 Crossposting is ONLY allowed from subs in our sidebar.",
+            "created_utc": 1652984994,
+            "kind": "all",
+            "violation_reason": "No Brigading or Reddit Sub/User Links or Mentions, Crossposting Limitations"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Ban Appeals, Suggestions, Concerns",
+            "description": "To appeal a ban, make a general suggestion or voice a concern - message our moderator team. DO NOT PM ANY MODERATOR'S PERSONAL REDDIT ACCOUNT.",
+            "created_utc": 1652984994,
+            "kind": "all",
+            "violation_reason": "Ban Appeals, Suggestions, Concerns"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Threats towards Government Officials",
+            "description": "All threats of violence, including assassination threats towards the President or any other official, regardless of political affiliation, should be reported immediately to the FBI, please include a screenshot, and an \u201cArchived\u201d link. We recommend https://Archive.is.",
+            "created_utc": 1652984994,
+            "kind": "all",
+            "violation_reason": "Threats towards Government Officials"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Karma and Account Age Requirements",
+            "description": "Newly-made accounts are not allowed to post in r/Patriot911. We reserve the right to decide the age and karma requirements for all accounts that are allowed to post here and will not publish those requirements.",
+            "created_utc": 1652984994,
+            "kind": "all",
+            "violation_reason": "Karma Requirement"
+        }
+    },
+    "Conservative_News": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)",
+            "description": "Don't violate Reddit [content policy](https://bit.ly/3qhsDMD). It covers off-topic posts, spamming, disparaging our sub, vote manipulation, calls for violence, attacks, doxing, and harassment of Reddit users or people based on \"identity or vulnerability.\" No posts about LGBT+, [\"sexual minorities\"](https://bit.ly/34IYX2z), child predators/abuse, or minors, due to the influx of rule breaking comments. If you violate Reddit.com rules you will be banned and may be reported to admins.",
+            "created_utc": 1652979371,
+            "kind": "all",
+            "violation_reason": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Trolling, Bad Faith Participation. LEGITIMATE news information and sources only.",
+            "description": "No type of trolling will be tolerated on r/Conservative_News.",
+            "created_utc": 1652979371,
+            "kind": "all",
+            "violation_reason": "Trolling, Bad Faith Participation. LEGITIMATE news information and sources only."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Racism and Anti-Semitism",
+            "description": "Racism and Anti-Semitism will not be tolerated. You have been warned.",
+            "created_utc": 1652979371,
+            "kind": "all",
+            "violation_reason": "Racism and Anti-Semitism"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No Brigading or Reddit Linking, Crossposting Limitations",
+            "description": "Reddit linking can cause harassment and interference with other subs:  \n\u2022 No Reddit links, including this format u/InsertUserName or r/InsertSubName with the exception of our sub or if our mods make an announcement.  \n\u2022 Mark out sub and user names from Reddit screenshots.  \n\u2022 No Reddit ban screenshots.  \n\u2022 No encouraging users to troll other users, mods, admins or subs. No behavior in other subs that reflect on your participation here.  \n\u2022 Crossposting is ONLY allowed from subs in our sidebar.",
+            "created_utc": 1652979371,
+            "kind": "all",
+            "violation_reason": "No Brigading or Reddit Linking, Crossposting Limitations"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Ban Appeals, Suggestions, Concerns",
+            "description": "To appeal a ban, make a general suggestion or voice a concern - message our moderator team. DO NOT PM ANY MODERATOR'S PERSONAL REDDIT ACCOUNT.",
+            "created_utc": 1652979371,
+            "kind": "all",
+            "violation_reason": "Ban Appeals, Suggestions, Concerns"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Threats towards Government Officials",
+            "description": "All threats of violence, including assassination threats towards the President or any other official, regardless of political affiliation, should be reported immediately to the FBI, please include a screenshot, and an \u201cArchived\u201d link. We recommend https://Archive.is.",
+            "created_utc": 1652979371,
+            "kind": "all",
+            "violation_reason": "Threats towards Government Officials"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Karma Requirement",
+            "description": "Newly-made accounts are not allowed to post in r/Conservative_News. We reserve the right to decide the age and karma requirements for all accounts that are allowed to post here and will not publish those requirements.",
+            "created_utc": 1652979371,
+            "kind": "all",
+            "violation_reason": "Karma Requirement"
+        }
+    },
+    "BigDongDeSantis": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)",
+            "description": "Don't violate Reddit [content policy](https://bit.ly/3qhsDMD). It covers off-topic posts, spamming, disparaging our sub, vote manipulation, calls for violence, attacks, doxing, and harassment of Reddit users or people based on \"identity or vulnerability.\" No posts about LGBT+, [\"sexual minorities\"](https://bit.ly/34IYX2z), child predators/abuse, or minors, due to the influx of rule breaking comments. If you violate Reddit.com rules you will be banned and may be reported to admins.",
+            "created_utc": 1652993565,
+            "kind": "all",
+            "violation_reason": "Reddit Sitewide Rules (Stay on topic, Participate in your posts... Don't spam, harass, dox, etc.)"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "Trolling, Bad Faith Participation. No Anti-DeSantis Talking Points.",
+            "description": "No type of trolling will be tolerated on r/BigDongDeSantis.",
+            "created_utc": 1652993565,
+            "kind": "all",
+            "violation_reason": "Trolling, Bad Faith Participation. No Anti-DeSantis Talking Points."
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Racism and Anti-Semitism",
+            "description": "Racism and Anti-Semitism will not be tolerated. You have been warned.",
+            "created_utc": 1652993565,
+            "kind": "all",
+            "violation_reason": "Racism and Anti-Semitism"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "No Brigading or Reddit Linking, Crossposting Limitations",
+            "description": "Reddit linking can cause harassment and interference with other subs:  \n\u2022 No Reddit links, including this format u/InsertUserName or r/InsertSubName with the exception of our sub or if our mods make an announcement.  \n\u2022 Mark out sub and user names from Reddit screenshots.  \n\u2022 No Reddit ban screenshots.  \n\u2022 No encouraging users to troll other users, mods, admins or subs. No behavior in other subs that reflect on your participation here.  \n\u2022 Crossposting is ONLY allowed from subs in our sidebar.",
+            "created_utc": 1652993565,
+            "kind": "all",
+            "violation_reason": "No Brigading or Reddit Linking, Crossposting Limitations"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "Ban Appeals, Suggestions, Concerns",
+            "description": "To appeal a ban, make a general suggestion or voice a concern - message our moderator team. DO NOT PM ANY MODERATOR'S PERSONAL REDDIT ACCOUNT.",
+            "created_utc": 1652993565,
+            "kind": "all",
+            "violation_reason": "Ban Appeals, Suggestions, Concerns"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Threats towards Government Officials",
+            "description": "All threats of violence, including assassination threats towards Biden or any other official, regardless of political affiliation, should be reported immediately to the FBI, please include a screenshot and an \u201cArchived\u201d link. We recommend https://Archive.is.",
+            "created_utc": 1652993565,
+            "kind": "all",
+            "violation_reason": "Threats towards Government Officials"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Karma Requirement",
+            "description": "Newly-made accounts are not allowed to post in r/BigDongDeSantis. We reserve the right to decide the age and karma requirements for all accounts that are allowed to post here and will not publish those requirements.",
+            "created_utc": 1652993565,
+            "kind": "all",
+            "violation_reason": "Karma Requirement"
+        }
+    },
+    "RedPillWomen": {
+        "Rule 0": {
+            "priority": 0,
+            "short_name": "Rule Zero: Stay On Topic",
+            "description": "RPW is for women to discuss sexual strategy. Content must serve to help women, deviations from this are off topic. \n\nAll theories and conversations spring from a traditional, evolutionary psychology, or anti-feminist foundation. We focus on long term relationships, marriage and building families. There is no *one true way* to approach RPW, the discussion is open to all women wanting to improve themselves and their relationships.",
+            "created_utc": 1652994583,
+            "kind": "all",
+            "violation_reason": "Rule Zero ie: advice is not woman-centric"
+        },
+        "Rule 1": {
+            "priority": 1,
+            "short_name": "All posts and comments must be in good faith.",
+            "description": "All information you choose to give about yourself and your situation must be true. \n\nHypotheticals must be stated as such. \n\nRequests must be made with the intent of useful advice, not sympathy, and advice must be helpful and actionable.\n\n[You must be interested in participating in the community to post](http://archive.li/8zxOx) \n\n[You cannot ask questions on behalf of others](http://archive.li/b0fUY).\n\n[Stick around](http://archive.li/N1r96)\n\n[Do not delete posts](https://archive.li/PQ9Cb)",
+            "created_utc": 1652994583,
+            "kind": "all",
+            "violation_reason": "falsehoods, not giving or listening to advice, MIA"
+        },
+        "Rule 2": {
+            "priority": 2,
+            "short_name": "Do not insult the community or its members",
+            "description": "RPW values truths, even harsh and unpleasant ones, over comforting lies. [Do NOT insult any RP user or community in the network.](https://www.reddit.com/r/RedPillWomen/comments/7gn3vw/standards_of_conduct/)\n\nCalling others out for bad or foolish behavior with the intent of helping them improve is encouraged. Harsh speech and direct insults for *any* reason, are not allowed. Ladies, do not badmouth your men.",
+            "created_utc": 1652994583,
+            "kind": "all",
+            "violation_reason": "Do not insult the community or its members"
+        },
+        "Rule 3": {
+            "priority": 3,
+            "short_name": "Strategies should be from a Red-Pill Perspective",
+            "description": "Strategies or discussion of actionable advice requires either a thorough red pill rationale or must be backed by existing and accepted red pill theory.\n\nBecause strategy is for achieving results, it must be discussed from the perspective of what is, rather than what should be. Moralizing is strictly off limits.\n\nStrategies for securing no-commitment sex from men will not be discussed. This is not something women typically want, and not something they need with help with if they do.",
+            "created_utc": 1652994583,
+            "kind": "all",
+            "violation_reason": "Strategies should be from a Red-Pill Perspective"
+        },
+        "Rule 4": {
+            "priority": 4,
+            "short_name": "No Feminism",
+            "description": "This is an anti-feminist community, and as such, we are not interested in being \"saved\" by feminism. Anybody stopping in to weight-in with the feminist perspective will be shown the door, as it is off topic.\n\n**This is NOT Purple Pill Debate**\n\nRPW does not exist to justify our beliefs. If you have a problem with this sub, its overall mission statement, or any of the users on this sub \u2013 move along. We are not going to engage in useless debates.",
+            "created_utc": 1652994583,
+            "kind": "all",
+            "violation_reason": "no: feminism, debating, justification of beliefs"
+        },
+        "Rule 5": {
+            "priority": 5,
+            "short_name": "Guidelines for Asking Relationship Questions",
+            "description": "If you are asking a personal relationship question, please answer the following questions:\n\n* What is the problem, and what do you think is the root of the issue? \n* How have you contributed/attempted to mitigate the problem?\n* What is your current relationship status and length of time?\n\nBe honest with yourself about what background is needed to help the community answer your question. Withholding information doesn't make it less true or relevant. Include the state of your sex life and ages.",
+            "created_utc": 1652994583,
+            "kind": "all",
+            "violation_reason": "Relationship questions should contain context"
+        },
+        "Rule 6": {
+            "priority": 6,
+            "short_name": "Posting Requirements",
+            "description": "Do not to post a wall of text. Familiarize yourself with [reddit formatting](http://archive.li/HQwVv) and use linebreaks. \n\n* Poorly spelled, formatted, or capitalized posts will be removed.\n* No inter-reddit links or promoting other subs. Use [Archive.Today](http://Archive.Today)\n* Links or videos require a brief summary of the content in the BODY of the post. Tie it into RP theory.\n* Low effort posts will be removed.\n* No memes or image macros.\n* No examples from fiction or pop culture\n",
+            "created_utc": 1652994583,
+            "kind": "all",
+            "violation_reason": "poor formatting, no content, badly written"
+        },
+        "Rule 7": {
+            "priority": 7,
+            "short_name": "No doxxing- yourself or others",
+            "description": "Doxxing means revealing personal information about an otherwise anonymous internet user and is strictly forbidden.  Please take care not to self-dox even if you aren't personally concerned about potential repercussions.  Photos are not recommended but if posted must crop or obscure the face and identifying objects/landmarks.\n\n[Be safe and protect yourself.](https://www.reddit.com/r/RedPillWomen/comments/7gn3zw/personal_security/)",
+            "created_utc": 1652994583,
+            "kind": "all",
+            "violation_reason": "No doxxing- yourself or others ie no personal info"
+        },
+        "Rule 8": {
+            "priority": 8,
+            "short_name": "If you are a man and you are here",
+            "description": "RPW is the *women\u2019s* space in the RP network. We recognize that men have unique insights. The men who can provide the most valuable advice are: older, married and long time participants in the RP community. Everyone else [should focus his time on TRP](http://archive.li/q6P1h).\n\n[Familiarize yourself with these guidelines]( http://archive.li/Wgcys) and realize that [personal preference is not advice]( http://archive.li/N4Llb). \n\nQuestions from men belong on forums.red/i/asktrp",
+            "created_utc": 1652994583,
+            "kind": "all",
+            "violation_reason": "Man Here"
+        },
+        "Rule 9": {
+            "priority": 9,
+            "short_name": "No Moralizing",
+            "description": "Nothing in RPW prohibits you from having and following a code of ethics. You're welcome to discuss why certain morals or values might exist, or their benefit in the context of strategy, however arguments that stem from morality (i.e. this is evil, therefore) are strictly prohibited. \n\nSimilarly, no concern trolling: the act of complaining or attempting to gain the support of others by appearing to have the \"best interests\" in the subreddit in mind.",
+            "created_utc": 1652994583,
+            "kind": "all",
+            "violation_reason": "No Moralizing"
+        }
+    }
+}
